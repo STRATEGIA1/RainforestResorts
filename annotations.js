@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  document.querySelectorAll('.hero h1,.hero-grid > div > p:nth-of-type(2)').forEach(el=>el.setAttribute('data-annotation-ignore',''));
  document.querySelectorAll('.hero .notice').forEach((el,i)=>{el.dataset.annotationKey='a-notice-'+i;candidates.push(el);});
  const byKey=new Map(candidates.map(el=>[el.dataset.annotationKey,el]));
+ candidates.filter(el=>el.closest('[data-annotation-ignore]')).forEach(el=>el.removeAttribute('data-annotation-key'));
  const $=id=>document.getElementById(id);let active=false,mode='element',draft=[],saved=[],drag=null,frame=0,focusId=null;
  const hint=s=>$('annotation-hint').textContent=s;
  const headers=()=>({Authorization:'Bearer '+token,'Content-Type':'application/json'});
