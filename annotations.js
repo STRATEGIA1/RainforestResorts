@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  }catch(e){hint(e.message);}}
  function locate(anchors,id){const first=anchors.find(a=>elementFor(a));if(!first)return;elementFor(first).scrollIntoView({behavior:'smooth',block:'center'});focusId=id||saved.find(e=>e.targets.some(a=>same(a,first)))?.id;schedule();}
  document.addEventListener('annotation:saved',()=>{draft=[];update();refresh();});
- document.addEventListener('annotation:locate',e=>{const {anchors,page:destination}=e.detail;if(destination===page){locate(anchors);return;}const file=destination==='index'?'index.html':/^B\d+-[a-z]+$/.test(destination)?'blogs/'+destination+'.html':destination+'.html';const url=new URL(file,root);url.hash=new URLSearchParams({review:token||''}).toString();location.href=url.href;});
+ document.addEventListener('annotation:locate',e=>{const {anchors,page:destination}=e.detail;if(destination===page){locate(anchors);return;}const file=destination==='index'?'index.html':/^(CH|AR)\d+$/.test(destination)?'stories/'+destination+'.html':/^B\d+-[a-z]+$/.test(destination)?'blogs/'+destination+'.html':destination+'.html';const url=new URL(file,root);url.hash=new URLSearchParams({review:token||''}).toString();location.href=url.href;});
  window.addEventListener('resize',schedule);window.addEventListener('scroll',schedule,{passive:true});document.addEventListener('load',schedule,true);
  const observer=new ResizeObserver(schedule);candidates.forEach(el=>observer.observe(el));
  if(filterExists())$('hotel').addEventListener('change',schedule);function filterExists(){return !!$('hotel');}
