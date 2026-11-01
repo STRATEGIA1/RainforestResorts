@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  const stem=location.pathname.split('/').pop().replace(/\.html$/,'');
  const page=!stem||stem==='index'?'index':stem;
  if(page==='review-notes-en')return;
- const root=new URL('./',document.querySelector('script[src$="annotations.js"]').src);
+ const root=new URL('./',document.querySelector('script[src*="annotations.js"]').src);
  const tools=document.createElement('aside');tools.className='annotation-tools';tools.setAttribute('aria-label','Herramientas de anotación');
  tools.innerHTML='<button class="annotation-toggle" id="annotation-toggle" aria-expanded="false">✎ Anotar</button> <button class="annotation-secondary" id="annotation-notes">Notas (0)</button> <button class="annotation-secondary" id="annotation-export">Exportar comentarios</button><div id="annotation-controls" hidden><div class="annotation-row"><button data-mode="element" aria-pressed="true" class="annotation-secondary">Objetos</button><button data-mode="region" aria-pressed="false" class="annotation-secondary">Zona de foto</button><button data-mode="text" aria-pressed="false" class="annotation-secondary">Texto</button></div><p id="annotation-instructions">Haz clic en uno o varios elementos. Después, selecciona «Comentar selección».</p><div class="annotation-drafts" id="annotation-drafts"></div><div class="annotation-row"><button id="annotation-comment" disabled>Comentar selección (0)</button><button id="annotation-clear" class="annotation-secondary">Limpiar</button><button id="annotation-exit" class="annotation-secondary">Salir</button></div></div><p class="annotation-hint" id="annotation-hint" role="status"></p>';
  document.body.appendChild(tools);
@@ -14,12 +14,14 @@ document.addEventListener('DOMContentLoaded',()=>{
  const overlay=document.createElement('div');overlay.className='annotation-overlay';document.body.appendChild(overlay);
  const candidates=[...document.querySelectorAll('img,h1,h2,h3,h4,p,li,td,th')].filter(el=>!el.closest('dialog,nav,.annotation-tools,.review-rail,footer'));
  candidates.forEach((el,i)=>el.dataset.annotationKey='a'+i);
+ document.querySelectorAll('.hero h1,.hero-grid > div > p:nth-of-type(2)').forEach(el=>el.setAttribute('data-annotation-ignore',''));
+ document.querySelectorAll('.hero .notice').forEach((el,i)=>{el.dataset.annotationKey='a-notice-'+i;candidates.push(el);});
  const byKey=new Map(candidates.map(el=>[el.dataset.annotationKey,el]));
  const $=id=>document.getElementById(id);let active=false,mode='element',draft=[],saved=[],drag=null,frame=0,focusId=null;
  const hint=s=>$('annotation-hint').textContent=s;
  const headers=()=>({Authorization:'Bearer '+token,'Content-Type':'application/json'});
  const label=el=>el.tagName==='IMG'?'Foto: '+(el.alt||el.getAttribute('src').split('/').pop()).slice(0,210):(el.textContent.trim().replace(/\s+/g,' ').slice(0,210)||el.tagName);
- const targetFor=e=>e.target instanceof Element?e.target.closest('[data-annotation-key]'):null;
+ const targetFor=e=>{const el=e.target instanceof Element?e.target.closest('[data-annotation-key]'):null;return el?.closest('[data-annotation-ignore]')?null:el;};
  const ignored=e=>e.target instanceof Element&&e.target.closest('dialog,.annotation-tools,.annotation-pin,nav,button,input,select,textarea');
  function itemFor(a){const items=a.map(x=>{const e=byKey.get(x.key);return e?.closest('article[id]')?.id;});return items[0]&&items.every(i=>i===items[0])?items[0]:'PAGE-'+page;}
  function normalize(a){return {...a,page,key:a.key,label:a.label.slice(0,220)};}
@@ -48,6 +50,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  const selection=window.getSelection();if(!selection||selection.isCollapsed||!selection.rangeCount)return;
  const range=selection.getRangeAt(0);const node=range.commonAncestorContainer;const el=(node.nodeType===1?node:node.parentElement)?.closest('[data-annotation-key]');
  if(!el||el.tagName==='IMG'||!el.contains(range.startContainer)||!el.contains(range.endContainer)){hint('Selecciona el texto de un solo párrafo a la vez.');return;}
+ if(el.closest('[data-annotation-ignore]'))return;
  const quote=range.toString();if(!quote.trim())return;if(quote.length>2000){hint('Selecciona un máximo de 2.000 caracteres.');return;}
  const before=document.createRange();before.selectNodeContents(el);before.setEnd(range.startContainer,range.startOffset);const start=before.toString().length;
  add({type:'text',key:el.dataset.annotationKey,label:label(el),quote,start,end:start+quote.length});selection.removeAllRanges();
@@ -59,7 +62,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  if(!startNode||!endNode)return null;const range=document.createRange();range.setStart(startNode,startOffset);range.setEnd(endNode,endOffset);return range;
  }
  function elementFor(a){let el=byKey.get(a.key);if(el&&label(el)===a.label)return el;const matches=candidates.filter(e=>label(e)===a.label);return matches.length===1?matches[0]:el;}
- function rectangles(a){const el=elementFor(a);if(!el||!el.getClientRects().length)return [];const b=el.getBoundingClientRect();if(!b.width||!b.height)return [];
+ function rectangles(a){const el=elementFor(a);if(!el||el.closest('[data-annotation-ignore]')||!el.getClientRects().length)return [];const b=el.getBoundingClientRect();if(!b.width||!b.height)return [];
  if(a.type==='text'){const r=textRange(el,a);return r?[...r.getClientRects()].filter(b=>b.width&&b.height):[];}
  if(a.type==='region')return [{left:b.left+a.rect.x*b.width,top:b.top+a.rect.y*b.height,width:a.rect.w*b.width,height:a.rect.h*b.height}];
  return [b];}
@@ -68,7 +71,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  function render(){frame=0;overlay.replaceChildren();saved.forEach((entry,i)=>entry.targets.forEach(a=>paint(a,false,i+1,entry)));draft.forEach(a=>paint(a,true));if(drag?.rect)paint({type:'region',key:drag.el.dataset.annotationKey,rect:drag.rect},true);}
  function schedule(){if(!frame)frame=requestAnimationFrame(render);}
  async function refresh(){if(!token){hint('Abre tu enlace de revisión para ver las anotaciones compartidas.');return;}
- try{const r=await fetch(config.api+'?page='+encodeURIComponent(page),{headers:headers(),cache:'no-store'});const data=await r.json();if(!r.ok)throw Error(data.error||'No se pudieron cargar las anotaciones.');saved=data.reviews.map(e=>{let targets=[];try{targets=JSON.parse(e.anchors||'[]').map(a=>({...a,label:a.label.replace(/^Photo: /,'Foto: ')}));}catch{}return {...e,targets};}).filter(e=>e.targets.length);$('annotation-notes').textContent='Notas ('+saved.length+')';schedule();
+ try{const r=await fetch(config.api+'?page='+encodeURIComponent(page),{headers:headers(),cache:'no-store'});const data=await r.json();if(!r.ok)throw Error(data.error||'No se pudieron cargar las anotaciones.');saved=data.reviews.map(e=>{let targets=[];try{targets=JSON.parse(e.anchors||'[]').map(a=>({...a,label:a.label.replace(/^Photo: /,'Foto: ')}));}catch{}return {...e,targets};}).filter(e=>e.version===config.version&&e.targets.length);$('annotation-notes').textContent='Notas ('+saved.length+')';schedule();
  hint(saved.length+' anotación(es) guardada(s) en esta página.');
  const focus=params.get('annotation');if(focus){const entry=saved.find(e=>e.id===focus);if(entry)locate(entry.targets,entry.id);}
  }catch(e){hint(e.message);}}
