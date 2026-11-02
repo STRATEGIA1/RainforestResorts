@@ -65,9 +65,9 @@
   },
   {
     "id": "CH05",
-    "source": "CH-V",
-    "feed": "assets/social-formats/CH-V-feed.svg",
-    "story": "assets/social-formats/CH-V-story.svg",
+    "source": "CH05-VIDEO",
+    "feed": "assets/social-formats/CH05-VIDEO-feed.svg",
+    "story": "assets/social-formats/CH05-VIDEO-story.svg",
     "story_page": "stories/CH05.html",
     "status": "Prepared for visual review",
     "feed_dimensions": [
@@ -81,11 +81,11 @@
   },
   {
     "id": "CH06",
-    "source": null,
-    "feed": null,
-    "story": null,
+    "source": "CH06-VIDEO",
+    "feed": "assets/social-formats/CH06-VIDEO-feed.svg",
+    "story": "assets/social-formats/CH06-VIDEO-story.svg",
     "story_page": "stories/CH06.html",
-    "status": "Production needed",
+    "status": "Prepared for visual review",
     "feed_dimensions": [
       1080,
       1350
@@ -113,9 +113,9 @@
   },
   {
     "id": "CH08",
-    "source": "CH-B",
-    "feed": "assets/social-formats/CH-B-feed.svg",
-    "story": "assets/social-formats/CH-B-story.svg",
+    "source": "CH08-VIDEO",
+    "feed": "assets/social-formats/CH08-VIDEO-feed.svg",
+    "story": "assets/social-formats/CH08-VIDEO-story.svg",
     "story_page": "stories/CH08.html",
     "status": "Prepared for visual review",
     "feed_dimensions": [
