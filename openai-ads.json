@@ -1,0 +1,229 @@
+{
+  "checked": "2026-11-02",
+  "title": "ChatGPT Ads · Costa Rica itinerary pilot",
+  "currency": "USD",
+  "budget": {
+    "November": 1000,
+    "December": 1000,
+    "total": 2000,
+    "per_resort_month": 500,
+    "status": "Monthly allocation requested by client; activation not authorised"
+  },
+  "markets": {
+    "United States": 2000,
+    "Europe": 0,
+    "Costa Rica": 0
+  },
+  "ads": [
+    {
+      "id": "OA01",
+      "month": "November",
+      "resort": "Chachagua",
+      "persona": "Couples",
+      "stage": "Consideration",
+      "title": "Chachagua for two",
+      "body": "Your Costa Rica forest escape.",
+      "language": "EN",
+      "market": "United States · proposed pilot",
+      "illustrative_prompt": "Plan a Costa Rica itinerary for a couple who love nature and want time to relax.",
+      "context_hints": [
+        "Costa Rica rainforest accommodation for couples",
+        "Chachagua stay with forest walks and time together"
+      ],
+      "photo_keys": [
+        "ch_forest"
+      ],
+      "images": [
+        {
+          "path": "assets/CH-P.jpg",
+          "label": "Chachagua · rainforest walkway"
+        }
+      ],
+      "target_url": "https://chachaguarainforesthotel.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_11&utm_content=oa01",
+      "start": "2026-11-09",
+      "end": "2026-11-30",
+      "copy_status": "New proposal · client approval pending",
+      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+    },
+    {
+      "id": "OA02",
+      "month": "November",
+      "resort": "Arenal",
+      "persona": "Couples",
+      "stage": "Consideration",
+      "title": "Your Arenal stay",
+      "body": "A Costa Rica trip, at your pace.",
+      "language": "EN",
+      "market": "United States · proposed pilot",
+      "illustrative_prompt": "Where should we stay during the Arenal part of our Costa Rica trip as a couple?",
+      "context_hints": [
+        "Arenal accommodation for a couples Costa Rica itinerary",
+        "One Bedroom Vista Arenal stay planning"
+      ],
+      "photo_keys": [
+        "ar_aerial"
+      ],
+      "images": [
+        {
+          "path": "assets/AR-one-bedroom-drone.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal aerial photograph"
+        }
+      ],
+      "target_url": "https://www.arenalrainforest.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_11&utm_content=oa02",
+      "start": "2026-11-09",
+      "end": "2026-11-30",
+      "copy_status": "New proposal · client approval pending",
+      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+    },
+    {
+      "id": "OA03",
+      "month": "December",
+      "resort": "Chachagua",
+      "persona": "Friends / groups",
+      "stage": "Decision",
+      "title": "Chachagua, shared",
+      "body": "Costa Rica villa time, together.",
+      "language": "EN",
+      "market": "United States · proposed pilot",
+      "illustrative_prompt": "Help us plan a Costa Rica trip with friends, including a rainforest villa stay.",
+      "context_hints": [
+        "Chachagua Two Bedroom Villa for friends travelling together",
+        "Costa Rica rainforest accommodation for a group itinerary"
+      ],
+      "photo_keys": [
+        "ch_villa"
+      ],
+      "images": [
+        {
+          "path": "assets/CH-V.jpg",
+          "label": "Chachagua · Two Bedroom Villa terrace"
+        }
+      ],
+      "target_url": "https://chachaguarainforesthotel.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_12&utm_content=oa03",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "copy_status": "New proposal · client approval pending",
+      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+    },
+    {
+      "id": "OA04",
+      "month": "December",
+      "resort": "Arenal",
+      "persona": "Families",
+      "stage": "Decision",
+      "title": "Arenal for family",
+      "body": "Costa Rica stays for your family.",
+      "language": "EN",
+      "market": "United States · proposed pilot",
+      "illustrative_prompt": "Build a family itinerary for Costa Rica with time in the Arenal region.",
+      "context_hints": [
+        "Bungalow Arenal accommodation for a family itinerary",
+        "Arenal family travel accommodation planning"
+      ],
+      "photo_keys": [
+        "ar_bungalow"
+      ],
+      "images": [
+        {
+          "path": "assets/AR-B.jpg",
+          "label": "Arenal · Bungalow Arenal bedroom"
+        }
+      ],
+      "target_url": "https://www.arenalrainforest.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_12&utm_content=oa04",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "copy_status": "New proposal · client approval pending",
+      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+    },
+    {
+      "id": "OA05",
+      "month": "November",
+      "resort": "Both resorts",
+      "persona": "Couples",
+      "stage": "Consideration",
+      "title": "Two sister resorts",
+      "body": "Chachagua + Arenal, Costa Rica.",
+      "language": "EN",
+      "market": "United States · proposed pilot",
+      "illustrative_prompt": "Can we combine two rainforest resort stays during a Costa Rica holiday for two?",
+      "context_hints": [
+        "Rainforest Resorts Chachagua and Arenal combined stay",
+        "Two sister resorts for a Costa Rica couples itinerary"
+      ],
+      "photo_keys": [
+        "ch_forest",
+        "ch_villa",
+        "ar_aerial",
+        "ar_room"
+      ],
+      "images": [
+        {
+          "path": "assets/CH-P.jpg",
+          "label": "Chachagua · rainforest walkway"
+        },
+        {
+          "path": "assets/CH-V.jpg",
+          "label": "Chachagua · Two Bedroom Villa terrace"
+        },
+        {
+          "path": "assets/AR-one-bedroom-drone.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal aerial photograph"
+        },
+        {
+          "path": "assets/AR-one-bedroom-interior.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal bedroom"
+        }
+      ],
+      "target_url": "https://chachaguarainforesthotel.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_11&utm_content=oa05",
+      "start": "2026-11-09",
+      "end": "2026-11-30",
+      "copy_status": "New proposal · client approval pending",
+      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+    },
+    {
+      "id": "OA06",
+      "month": "December",
+      "resort": "Both resorts",
+      "persona": "Friends / groups",
+      "stage": "Consideration",
+      "title": "Winter, your way",
+      "body": "Costa Rica with your group.",
+      "language": "EN",
+      "market": "United States · proposed pilot",
+      "illustrative_prompt": "Plan a January to March Costa Rica itinerary for friends escaping the northern winter.",
+      "context_hints": [
+        "Costa Rica winter escape for friends and groups",
+        "Chachagua and Arenal resort options for a shared holiday"
+      ],
+      "photo_keys": [
+        "ar_aerial",
+        "ar_room",
+        "ch_forest",
+        "ch_villa"
+      ],
+      "images": [
+        {
+          "path": "assets/AR-one-bedroom-drone.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal aerial photograph"
+        },
+        {
+          "path": "assets/AR-one-bedroom-interior.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal bedroom"
+        },
+        {
+          "path": "assets/CH-P.jpg",
+          "label": "Chachagua · rainforest walkway"
+        },
+        {
+          "path": "assets/CH-V.jpg",
+          "label": "Chachagua · Two Bedroom Villa terrace"
+        }
+      ],
+      "target_url": "https://www.arenalrainforest.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_12&utm_content=oa06",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "copy_status": "New proposal · client approval pending",
+      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+    }
+  ]
+}

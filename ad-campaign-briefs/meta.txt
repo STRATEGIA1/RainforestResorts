@@ -1,0 +1,673 @@
+AD CAMPAIGN BRIEF FOR ADLE — META ADS
+Costa Rica your way | STRATEGIA | 2 November 2026
+
+CLIENT: Rainforest Resorts — Chachagua Rainforest Resort & Hot Springs and Arenal Rainforest Resort.
+CAMPAIGN: Costa Rica your way. Publication / acquisition period: November–December 2026. Winter-escape travel focus: January–March 2027. Use the proposed dates attached to each creative; never backdate delivery.
+RECIPIENT: ADLE AI (https://adle.ai/). This is a human-readable briefing document, not a claim of API integration or a platform-specific import schema.
+
+CREATIVE LOCK — MANDATORY
+The client instructs that the approved ad copy and imagery must remain unchanged. Your task is media planning and configuration, not creative generation. Do not rewrite, translate, shorten, improve, generate variations, replace images, alter overlays, apply generative enhancements, or change the hotel identity. Disable automatic text generation, asset substitution and creative enhancements wherever the account allows. Preserve the supplied headline, body, description, Story text, CTA wording, language, destination and approved asset pairing. Only use placements compatible with the approved formats. If character limits, required fields, policy or format constraints prevent verbatim use, report the exact conflict and request a separately approved adaptation; never silently edit the ad.
+Client approval of creative does not authorise spending or activation. Produce a draft setup and readiness report for STRATEGIA. Do not launch, increase spend, transfer budget between resorts/markets/media, or upload customer lists under this brief.
+Some source records still carry production placeholders or legacy draft labels. These are not approved final assets. Hold any item without a matching final approved file / recorded approval; do not manufacture a replacement or label all source concepts launch-ready. Keep existing approval and review history.
+
+BRAND AND DESTINATIONS
+Explain the new Rainforest Resorts family and its two sister properties, with local Travel Designers and accommodation suited to couples, small groups, and larger families/groups. Do not imply all facilities or experiences are automatically shared or included. Preserve Arenal renovation disclosures and exact accommodation claims in the approved copy.
+Chachagua homepage: https://chachaguarainforesthotel.com/
+Arenal homepage: https://www.arenalrainforest.com/
+Route each ad to its own resort. Existing Meta URLs include Meta tracking: for another medium, propose medium-specific tracking as a separate technical change for STRATEGIA approval. Never send Google/OpenAI clicks under a Meta source label.
+
+MARKETS AND CREATIVE LANGUAGE
+Primary: premium / high-income couples, friends/groups and families in the United States and Europe. Secondary: premium domestic travellers in Costa Rica. High income is the commercial target, not an assumed available targeting control.
+US starting gateways: New York/Newark, Miami/Fort Lauderdale, Houston, Atlanta; expansion candidates Dallas and Los Angeles.
+Europe: London / UK pilot first; Frankfurt, Paris, Amsterdam, Madrid and Zurich are unfunded expansion candidates. Check demand, language fit, supported targeting and actual flight availability before expansion.
+Costa Rica: Greater San José / Central Valley first.
+US and Europe: use the same shared English creative per concept. Do not create a separate European English copy. Costa Rica: Spanish creative per concept. No bilingual paid caption. Use the supplied variants without translating.
+Creative-planning weights: couples 50%, groups/friends 30%, families 20%; these are not measured booking shares and not three mandatory ad sets.
+
+MEASUREMENT AND HANDOFF
+Report resort, medium, market, dates, proposed budget cap, objective, geographic controls, placements, exact creative IDs, approval evidence, final asset filenames and tracking. Track visits, engaged visits, qualified Travel Designer enquiries and attributable bookings where instrumentation supports them. No invented reach, CPC, conversions or revenue promises. Validate tracking and account/timezone/currency settings before any later launch approval. Preserve full campaign and monthly caps; show media spend separately from any ADLE fees/taxes, which are not costed here.
+Return: draft configuration, budget reconciliation, exact creative mapping, measurement plan and unresolved dependencies. List unsupported features explicitly. Recommend media-only changes; any creative change is a separate approval request.
+
+STATUS / BUDGET
+Funded medium: Meta Ads on Facebook and Instagram. Total media cap US$6,000 for both resorts over November–December 2026. Each resort: US$3,000 across both months; US$1,500 per month.
+November: US$3,000 both resorts. December: US$3,000 both resorts. Full campaign: US$6,000.
+Per resort per month: US 60% / US$900; UK pilot 25% / US$375; Costa Rica 15% / US$225.
+Both resorts per month: US US$1,800; UK US$750; Costa Rica US$450. Full campaign by market: US US$3,600; UK US$1,500; Costa Rica US$900.
+These are market/month caps, not a budget for every individual creative. Do not duplicate budget when mapping multiple concepts. No money is allocated to Google or OpenAI from these funds.
+
+STRATEGY / AUDIENCE CONFIGURATION
+Use the requested Traffic objective and optimise for landing-page views where available, with each resort's homepage. Keep resorts separate for spend attribution. Start consolidated by resort and market rather than city x persona x funnel-stage fragmentation. Select origin-market geography and verify actual audience controls. Advantage+ audience suggestions can expand; distinguish firm controls from suggestions in the draft setup. Use premium accommodation, nature and travel signals only where supported. Do not invent a universal household-income filter.
+Begin prospecting. Eligible, sufficiently sized remarketing may use up to 20% within each market's existing allocation, not extra money. No forced tiny Costa Rica remarketing ad set. Do not upload lists without separate authorisation. Use approved Feed 4:5 and Story 9:16 final exports only; hold missing assets. Learn More platform button must match the account's available selection without rewriting editorial CTA text.
+
+SOURCES / SETUP CHECK (2 November 2026)
+https://adle.ai/
+https://openai.com/es-419/index/new-chatgpt-ads-format-and-measurement/
+https://help.openai.com/en/articles/20001207-ads-in-chatgpt-the-basics
+https://support.google.com/google-ads/answer/2580383?hl=en
+https://support.google.com/google-ads/answer/9376662?hl=en
+https://learn.chatgpt.com/ads/campaign-targeting
+https://developers.openai.com/ads/custom-audiences
+https://www.sjoairport.com/connectivity/?lang=en
+Consult the proposal for full platform recommendations. Recheck current account controls before implementation.
+
+CREATIVE REFERENCE — APPROVED TEXT LOCKED; NEW OA CONCEPTS REQUIRE APPROVAL
+Read each concept approval state. A brief is not proof that missing final files are approved. Only approved final pairings are eligible for a separately authorised launch.
+
+[
+  {
+    "id": "PA-CH-01",
+    "resort": "Chachagua",
+    "proposed_start": "2026-11-06",
+    "proposed_end": "2026-11-15",
+    "description": "Costa Rica your way",
+    "asset_files": [],
+    "production_gap": "Capture an actual scene with people and obtain permission.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "There is a holiday between the activities, too. At Chachagua Rainforest Resort & Hot Springs, a Travel Designer helps you choose experiences, accommodation, and time to enjoy together.",
+        "headline": "Time Together",
+        "story": "Time Together. Explore the resort and plan your visit.",
+        "cta": "Explore the Resort",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Entre una experiencia y la siguiente también hay viaje. En Chachagua Rainforest Resort & Hot Springs, un Travel Designer te ayuda a elegir naturaleza, alojamiento y pausas según lo que quieren compartir.",
+        "headline": "Tiempo para estar juntos",
+        "story": "Tiempo para estar juntos. Descubre el resort y diseña tu visita.",
+        "cta": "Conoce el resort",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-02",
+    "resort": "Chachagua",
+    "proposed_start": "2026-11-11",
+    "proposed_end": "2026-11-20",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/selected-09.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Centred subject is clear; preserve feet and overhead attachment in an inset. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Your group does not need to want the same thing every hour. Explore regional outings and a base to return to at Chachagua Rainforest Resort & Hot Springs. Confirm activity and transfer arrangements with the team.",
+        "headline": "Different Paces, One Trip",
+        "story": "Different Paces, One Trip. Explore the resort and plan your visit.",
+        "cta": "Explore the Possibilities",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "El grupo no tiene que querer lo mismo a cada hora. Exploren experiencias externas en la región y un lugar al cual regresar en Chachagua Rainforest Resort & Hot Springs. La logística se confirma con el equipo.",
+        "headline": "Distintas ideas, un viaje",
+        "story": "Distintas ideas, un viaje. Descubre el resort y diseña tu visita.",
+        "cta": "Descubre las posibilidades",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-03",
+    "resort": "Chachagua",
+    "proposed_start": "2026-11-18",
+    "proposed_end": "2026-11-27",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/CH-B.jpg"
+    ],
+    "production_gap": "Verify category, currency and advertising rights; prepare a vertical crop distinct from the feed.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "A question can open up the day. Plan nature experiences with Chachagua Rainforest Resort & Hot Springs around your children’s ages and interests. Confirm venue, participation, and transfers before booking.",
+        "headline": "Bring Your Curiosity",
+        "story": "Bring Your Curiosity. Explore the resort and plan your visit.",
+        "cta": "Start Exploring",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Una pregunta puede abrir el día. Planea con Chachagua Rainforest Resort & Hot Springs experiencias de naturaleza según las edades e intereses de tu familia. Sede, participación y traslados se confirman antes de reservar.",
+        "headline": "La curiosidad viene con ustedes",
+        "story": "La curiosidad viene con ustedes. Descubre el resort y diseña tu visita.",
+        "cta": "Empieza a explorar",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-04",
+    "resort": "Chachagua",
+    "proposed_start": "2026-11-23",
+    "proposed_end": "2026-12-02",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/selected-15.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Landscape inset keeps building, access walkway and water feature together; no temperature or private-use claim. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Your accommodation is part of the holiday. Explore Chachagua Rainforest Resort & Hot Springs and enquire about category features, availability, and conditions for your travel dates.",
+        "headline": "Choose Your Place to Return",
+        "story": "Choose Your Place to Return. Explore accommodation and plan your stay.",
+        "cta": "Explore Accommodation",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "La habitación también forma parte del viaje. Conoce las categorías de Chachagua Rainforest Resort & Hot Springs y consulta características, disponibilidad y condiciones para tus fechas.",
+        "headline": "Elige cómo quieres regresar",
+        "story": "Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta.",
+        "cta": "Conoce las categorías",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-05",
+    "resort": "Chachagua",
+    "proposed_start": "2026-11-26",
+    "proposed_end": "2026-11-30",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/CH-V.jpg"
+    ],
+    "production_gap": "Verify category, currency and advertising rights; prepare a vertical crop distinct from the feed.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Dates, travellers, and room arrangements: start with what your group needs. Visit Chachagua Rainforest Resort & Hot Springs and request a proposal with clear accommodation and logistics.",
+        "headline": "Plan the Group Trip",
+        "story": "Plan the Group Trip. Explore accommodation and plan your stay.",
+        "cta": "Enquire About Your Stay",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Chachagua Rainforest Resort & Hot Springs y solicita una propuesta con categorías y logística claras.",
+        "headline": "Planeemos el viaje del grupo",
+        "story": "Planeemos el viaje del grupo. Conoce las categorías y consulta su propuesta.",
+        "cta": "Consulta tu estadía",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-06",
+    "resort": "Chachagua",
+    "proposed_start": "2026-12-03",
+    "proposed_end": "2026-12-12",
+    "description": "Costa Rica your way",
+    "asset_files": [],
+    "production_gap": "Capture an actual scene with people and obtain permission.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Some holiday days work beautifully with fewer bookings. Discover Chachagua Rainforest Resort & Hot Springs and start planning Costa Rica with selected experiences and time of your own.",
+        "headline": "Room for a Pause",
+        "story": "Room for a Pause. Explore the resort and plan your visit.",
+        "cta": "Discover the Resort",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-06_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Hay días que se disfrutan con menos reservas. Descubre Chachagua Rainforest Resort & Hot Springs y empieza a diseñar una visita a Costa Rica con experiencias elegidas y tiempo propio.",
+        "headline": "Una pausa dentro del viaje",
+        "story": "Una pausa dentro del viaje. Descubre el resort y diseña tu visita.",
+        "cta": "Descubre el resort",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-06_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-07",
+    "resort": "Chachagua",
+    "proposed_start": "2026-12-10",
+    "proposed_end": "2026-12-19",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/selected-08.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Keep head, raised hands and feet together; landscape inset avoids cutting equipment. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Canopy or a nature outing: choose what actually interests your group. Enquire through Chachagua Rainforest Resort & Hot Springs about external experiences, participation, and transport.",
+        "headline": "Something to Share",
+        "story": "Something to Share. Explore the resort and plan your visit.",
+        "cta": "Explore the Trip",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Canopy o una experiencia de naturaleza: elijan lo que de verdad les interesa. Desde Chachagua Rainforest Resort & Hot Springs, consulta opciones externas, participación y transporte para su grupo.",
+        "headline": "Una experiencia para compartir",
+        "story": "Una experiencia para compartir. Descubre el resort y diseña tu visita.",
+        "cta": "Explora el viaje",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-08",
+    "resort": "Chachagua",
+    "proposed_start": "2026-12-16",
+    "proposed_end": "2026-12-25",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/selected-00.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Keep the whole grinding slab in a landscape inset; aggressive portrait crops remove the tool. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "The coffee and chocolate tour takes place at Chachagua. Ask Chachagua Rainforest Resort & Hot Springs about ages, access, costs, and logistics for your family, and see how it could fit your stay.",
+        "headline": "Cacao and New Questions",
+        "story": "Cacao and New Questions. Explore the resort and plan your visit.",
+        "cta": "Explore Your Stay",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "El tour de café y chocolate ocurre en Chachagua. Consulta con Chachagua Rainforest Resort & Hot Springs edades, acceso, costos y logística para tu familia, y descubre cómo puede encajar en la estadía.",
+        "headline": "Del cacao a nuevas preguntas",
+        "story": "Del cacao a nuevas preguntas. Descubre el resort y diseña tu visita.",
+        "cta": "Conoce cómo planearlo",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-09",
+    "resort": "Chachagua",
+    "proposed_start": "2026-12-21",
+    "proposed_end": "2026-12-27",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/CH-PA09-DJI0094.jpg"
+    ],
+    "production_gap": "Selected DJI_0094.JPG for this creative. Confirm paid-use clearance and final placement framing before ad activation.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Tell us your dates and what you want from the trip. Ask Chachagua Rainforest Resort & Hot Springs for a proposal with accommodation and stay conditions confirmed for you.",
+        "headline": "Plan Your Next Stay",
+        "story": "Plan Your Next Stay. Explore accommodation and plan your stay.",
+        "cta": "Plan Your Trip",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Cuéntanos sus fechas y lo que esperan del viaje. En Chachagua Rainforest Resort & Hot Springs, consulta una propuesta con la categoría y las condiciones de estadía confirmadas para ustedes.",
+        "headline": "Tu próxima visita, con detalles claros",
+        "story": "Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta.",
+        "cta": "Diseña tu viaje",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-CH-10",
+    "resort": "Chachagua",
+    "proposed_start": "2026-12-26",
+    "proposed_end": "2026-12-31",
+    "description": "Costa Rica your way",
+    "asset_files": [
+      "assets/selected-14.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Landscape inset preserves the building and surrounding canopy; category comes from Jungle Tree House folder. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Your 2027 trip can begin with a conversation. Visit Chachagua Rainforest Resort & Hot Springs and enquire about availability, accommodation, and conditions to turn the idea into a clear proposal.",
+        "headline": "Start With Your Dates",
+        "story": "Start With Your Dates. Explore accommodation and plan your stay.",
+        "cta": "Enquire About Availability",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "El viaje de 2027 puede empezar con una conversación. Visita Chachagua Rainforest Resort & Hot Springs y consulta disponibilidad, categoría y condiciones para convertir la idea en una propuesta concreta.",
+        "headline": "Empecemos por sus fechas",
+        "story": "Empecemos por sus fechas. Conoce las categorías y consulta su propuesta.",
+        "cta": "Consulta disponibilidad",
+        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-01",
+    "resort": "Arenal",
+    "proposed_start": "2026-11-06",
+    "proposed_end": "2026-11-15",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-19.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Landscape inset preserves pool and planting; do not infer heating or a private pool. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "There is a holiday between the activities, too. At Arenal Rainforest Resort, a Travel Designer helps you choose experiences, accommodation, and time to enjoy together. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions.",
+        "headline": "Time Together",
+        "story": "Time Together. Explore the resort and plan your visit. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Explore the Resort",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Entre una experiencia y la siguiente también hay viaje. En Arenal Rainforest Resort, un Travel Designer te ayuda a elegir naturaleza, alojamiento y pausas según lo que quieren compartir. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas.",
+        "headline": "Tiempo para estar juntos",
+        "story": "Tiempo para estar juntos. Descubre el resort y diseña tu visita. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Conoce el resort",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-02",
+    "resort": "Arenal",
+    "proposed_start": "2026-11-11",
+    "proposed_end": "2026-11-20",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-08.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Keep head, raised hands and feet together; landscape inset avoids cutting equipment. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Your group does not need to want the same thing every hour. Explore regional outings and a base to return to at Arenal Rainforest Resort. Confirm activity and transfer arrangements with the team. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions.",
+        "headline": "Different Paces, One Trip",
+        "story": "Different Paces, One Trip. Explore the resort and plan your visit. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Explore the Possibilities",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "El grupo no tiene que querer lo mismo a cada hora. Exploren experiencias externas en la región y un lugar al cual regresar en Arenal Rainforest Resort. La logística se confirma con el equipo. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas.",
+        "headline": "Distintas ideas, un viaje",
+        "story": "Distintas ideas, un viaje. Descubre el resort y diseña tu visita. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Descubre las posibilidades",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-03",
+    "resort": "Arenal",
+    "proposed_start": "2026-11-18",
+    "proposed_end": "2026-11-27",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/CH-B.jpg"
+    ],
+    "production_gap": "Verify category, currency and advertising rights; prepare a vertical crop distinct from the feed.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "A question can open up the day. Plan nature experiences with Arenal Rainforest Resort around your children’s ages and interests. Confirm venue, participation, and transfers before booking. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions. Birdwatching takes place at Chachagua, outside Arenal.",
+        "headline": "Bring Your Curiosity",
+        "story": "Bring Your Curiosity. Explore the resort and plan your visit. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Start Exploring",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Una pregunta puede abrir el día. Planea con Arenal Rainforest Resort experiencias de naturaleza según las edades e intereses de tu familia. Sede, participación y traslados se confirman antes de reservar. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas. La experiencia de aves se realiza en Chachagua, fuera de Arenal.",
+        "headline": "La curiosidad viene con ustedes",
+        "story": "La curiosidad viene con ustedes. Descubre el resort y diseña tu visita. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Empieza a explorar",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-04",
+    "resort": "Arenal",
+    "proposed_start": "2026-11-23",
+    "proposed_end": "2026-12-02",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-21.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Keep landscape inset so both beds remain visible; never crop this into a misleading single-bed layout. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Your accommodation is part of the holiday. Explore Arenal Rainforest Resort and enquire about category features, availability, and conditions for your travel dates. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+        "headline": "Choose Your Place to Return",
+        "story": "Choose Your Place to Return. Explore accommodation and plan your stay. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Explore Accommodation",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "La habitación también forma parte del viaje. Conoce las categorías de Arenal Rainforest Resort y consulta características, disponibilidad y condiciones para tus fechas. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+        "headline": "Elige cómo quieres regresar",
+        "story": "Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Conoce las categorías",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-05",
+    "resort": "Arenal",
+    "proposed_start": "2026-11-26",
+    "proposed_end": "2026-11-30",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-22.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Landscape inset preserves the two-bed arrangement; current occupancy must be confirmed separately. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Dates, travellers, and room arrangements: start with what your group needs. Visit Arenal Rainforest Resort and request a proposal with clear accommodation and logistics. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+        "headline": "Plan the Group Trip",
+        "story": "Plan the Group Trip. Explore accommodation and plan your stay. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Enquire About Your Stay",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Arenal Rainforest Resort y solicita una propuesta con categorías y logística claras. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+        "headline": "Planeemos el viaje del grupo",
+        "story": "Planeemos el viaje del grupo. Conoce las categorías y consulta su propuesta. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Consulta tu estadía",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-06",
+    "resort": "Arenal",
+    "proposed_start": "2026-12-03",
+    "proposed_end": "2026-12-12",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-19.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Landscape inset preserves pool and planting; do not infer heating or a private pool. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Some holiday days work beautifully with fewer bookings. Discover Arenal Rainforest Resort and start planning Costa Rica with selected experiences and time of your own. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions.",
+        "headline": "Room for a Pause",
+        "story": "Room for a Pause. Explore the resort and plan your visit. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Discover the Resort",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Hay días que se disfrutan con menos reservas. Descubre Arenal Rainforest Resort y empieza a diseñar una visita a Costa Rica con experiencias elegidas y tiempo propio. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas.",
+        "headline": "Una pausa dentro del viaje",
+        "story": "Una pausa dentro del viaje. Descubre el resort y diseña tu visita. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Descubre el resort",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-07",
+    "resort": "Arenal",
+    "proposed_start": "2026-12-10",
+    "proposed_end": "2026-12-19",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-09.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Centred subject is clear; preserve feet and overhead attachment in an inset. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Canopy or a nature outing: choose what actually interests your group. Enquire through Arenal Rainforest Resort about external experiences, participation, and transport. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions.",
+        "headline": "Something to Share",
+        "story": "Something to Share. Explore the resort and plan your visit. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Explore the Trip",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Canopy o una experiencia de naturaleza: elijan lo que de verdad les interesa. Desde Arenal Rainforest Resort, consulta opciones externas, participación y transporte para su grupo. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas.",
+        "headline": "Una experiencia para compartir",
+        "story": "Una experiencia para compartir. Descubre el resort y diseña tu visita. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Explora el viaje",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-08",
+    "resort": "Arenal",
+    "proposed_start": "2026-12-16",
+    "proposed_end": "2026-12-25",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-01.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Keep landscape inset to preserve hands, cacao and mould. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "The coffee and chocolate tour takes place at Chachagua. Ask Arenal Rainforest Resort about ages, access, costs, and logistics for your family, and see how it could fit your stay. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions.",
+        "headline": "Cacao and New Questions",
+        "story": "Cacao and New Questions. Explore the resort and plan your visit. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Explore Your Stay",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "El tour de café y chocolate ocurre en Chachagua. Consulta con Arenal Rainforest Resort edades, acceso, costos y logística para tu familia, y descubre cómo puede encajar en la estadía. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas.",
+        "headline": "Del cacao a nuevas preguntas",
+        "story": "Del cacao a nuevas preguntas. Descubre el resort y diseña tu visita. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Conoce cómo planearlo",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-09",
+    "resort": "Arenal",
+    "proposed_start": "2026-12-21",
+    "proposed_end": "2026-12-27",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-18.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Portrait composition is suitable; retain tap and basin rim in the feed frame. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Tell us your dates and what you want from the trip. Ask Arenal Rainforest Resort for a proposal with accommodation and stay conditions confirmed for you. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+        "headline": "Plan Your Next Stay",
+        "story": "Plan Your Next Stay. Explore accommodation and plan your stay. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Plan Your Trip",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "Cuéntanos sus fechas y lo que esperan del viaje. En Arenal Rainforest Resort, consulta una propuesta con la categoría y las condiciones de estadía confirmadas para ustedes. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+        "headline": "Tu próxima visita, con detalles claros",
+        "story": "Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Diseña tu viaje",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_es"
+      }
+    ]
+  },
+  {
+    "id": "PA-AR-10",
+    "resort": "Arenal",
+    "proposed_start": "2026-12-26",
+    "proposed_end": "2026-12-31",
+    "description": "Renovación por etapas durante 2027",
+    "asset_files": [
+      "assets/selected-16.jpg"
+    ],
+    "production_gap": "Selected after visual inspection. Inset preserves both basins; useful as a detail, not a bedroom or volcano-view image. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "market_variants": [
+      {
+        "market": "United States & Europe · United Kingdom pilot",
+        "language": "EN",
+        "copy": "Your 2027 trip can begin with a conversation. Visit Arenal Rainforest Resort and enquire about availability, accommodation, and conditions to turn the idea into a clear proposal. Arenal is being renewed in stages during 2027; work may cause noise or changes to areas and services. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+        "headline": "Start With Your Dates",
+        "story": "Start With Your Dates. Explore accommodation and plan your stay. Arenal: work continues in 2027 and may cause noise or changes. Confirm conditions.",
+        "cta": "Enquire About Availability",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_en"
+      },
+      {
+        "market": "Costa Rica",
+        "language": "ES",
+        "copy": "El viaje de 2027 puede empezar con una conversación. Visita Arenal Rainforest Resort y consulta disponibilidad, categoría y condiciones para convertir la idea en una propuesta concreta. Arenal continúa en renovación por etapas durante 2027; las obras pueden generar ruido o cambios en áreas y servicios. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+        "headline": "Empecemos por sus fechas",
+        "story": "Empecemos por sus fechas. Conoce las categorías y consulta su propuesta. Arenal: obras durante 2027; pueden generar ruido o cambios. Consulta condiciones.",
+        "cta": "Consulta disponibilidad",
+        "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_es"
+      }
+    ]
+  }
+]
