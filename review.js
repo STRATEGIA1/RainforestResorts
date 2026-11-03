@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
  $('review-action').addEventListener('change',updateAction);
  $('close-review').onclick=()=>{if(!busy)d.close();};d.addEventListener('cancel',e=>{if(busy)e.preventDefault();});
  function openReview(id,approving=false,anchors=[],page=null){
- item=id;selectedAnchors=anchors;selectedPage=page;requestId=null;$('review-title').textContent='Review · '+item;$('review-version').textContent='Version '+config?.version;$('review-comment').value='';$('confirm-copy').checked=false;$('review-action').value=approving?'approve_copy':'comment';updateAction();message('');
+ item=id;selectedAnchors=anchors;selectedPage=page;requestId=null;$('review-title').textContent='Review · '+(config.itemLabels?.[item]||item);$('review-version').textContent='Version '+config?.version;$('review-comment').value='';$('confirm-copy').checked=false;$('review-action').value=approving?'approve_copy':'comment';updateAction();message('');
  $('review-targets').replaceChildren();if(anchors.length){const t=document.createElement('p');t.textContent=anchors.length+' selected item(s): '+anchors.map(a=>a.type==='text'?'“'+a.quote+'”':a.label).join(' · ');$('review-targets').appendChild(t);}
  if(!d.open)d.showModal();const ready=!!(config?.api&&token);$('save-review').disabled=!ready;if(!ready){$('review-history').textContent='';message('Open your STRATEGIA review link to save comments.');}else load();}
  document.querySelectorAll('[data-review],[data-approve]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();openReview(b.dataset.review||b.dataset.approve,!!b.dataset.approve);}));

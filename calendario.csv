@@ -1,58 +1,38 @@
 ﻿ID,Publicación/inicio,Fin,Propiedad/canal,Persona,Categoría primaria,Sede,Tema,Estadía objetivo,Formato,Estado
-CH01,2026-11-04,,Chachagua FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
+CH02,2026-11-04,,Chachagua FB/IG,Amigos,Experiencias in house,On-site,Naturaleza/vida silvestre,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR01,2026-11-05,,Arenal FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-PA-AR-01,2026-11-06,2026-11-15,Arenal Meta,Parejas,Experiencias in house,On-site,Reconocimiento,Enero–marzo 2027,Feed + Stories,Borrador; necesita producción
-PA-CH-01,2026-11-06,2026-11-15,Chachagua Meta,Parejas,Experiencias in house,On-site,Reconocimiento,Enero–marzo 2027,Feed + Stories,Borrador; necesita producción
-CH02,2026-11-07,,Chachagua FB/IG,Amigos,Experiencias in house,On-site,Naturaleza/vida silvestre,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B04,2026-11-09,,Blog Chachagua ES/EN,Parejas,Hospedajes,Mixto: Chachagua / Arenal / parque externo,Bienestar/reconexión,Febrero–abril 2027,Artículo,Borrador editorial
+CH01,2026-11-07,,Chachagua FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
+B01,2026-11-09,,Blog Chachagua ES/EN,Parejas,Hospedajes,Mixto: Chachagua / Arenal / parque externo,Bienestar/reconexión,Febrero–abril 2027,Artículo,Borrador editorial
 AR02,2026-11-10,,Arenal FB/IG,Amigos,Experiencias off-site,Off-site,Aventura/exploración,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B04-S1,2026-11-10,,FB/IG promoción blog,Parejas,Hospedajes,Mixto: Chachagua / Arenal / parque externo,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
-PA-AR-02,2026-11-11,2026-11-20,Arenal Meta,Amigos,Experiencias off-site,Off-site,Reconocimiento,Enero–marzo 2027,Feed + Stories,Borrador; necesita producción
-PA-CH-02,2026-11-11,2026-11-20,Chachagua Meta,Amigos,Experiencias off-site,Off-site,Reconocimiento,Enero–marzo 2027,Feed + Stories,Borrador; necesita producción
-CH03,2026-11-12,,Chachagua FB/IG,Parejas,Experiencias off-site,Off-site,Aventura/exploración,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
+B01-S1,2026-11-10,,FB/IG promoción blog,Parejas,Hospedajes,Mixto: Chachagua / Arenal / parque externo,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
+CH04,2026-11-12,,Chachagua FB/IG,Familias,Experiencias culinarias,On-site,Cultura/tradiciones,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 NL01,2026-11-12,,Chachagua Newsletter · EN/ES,Agencias,Lanzamiento,Mixto,Conocer para recomendar,Febrero–abril 2027,Newsletter,"Borrador de lanzamiento; envío propuesto, no programado"
 AR03,2026-11-14,,Arenal FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B04-S2,2026-11-15,,FB/IG promoción blog,Parejas,Hospedajes,Mixto: Chachagua / Arenal / parque externo,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
-CH04,2026-11-16,,Chachagua FB/IG,Familias,Experiencias culinarias,On-site,Cultura/tradiciones,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-PA-AR-03,2026-11-18,2026-11-27,Arenal Meta,Familias,Experiencias de naturaleza,On-site Chachagua / off-site desde Arenal,Reconocimiento,Enero–marzo 2027,Feed + Stories,Borrador; necesita adaptación
-PA-CH-03,2026-11-18,2026-11-27,Chachagua Meta,Familias,Experiencias de naturaleza,On-site Chachagua / off-site desde Arenal,Reconocimiento,Enero–marzo 2027,Feed + Stories,Borrador; necesita adaptación
+B01-S2,2026-11-15,,FB/IG promoción blog,Parejas,Hospedajes,Mixto: Chachagua / Arenal / parque externo,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
+CH03,2026-11-16,,Chachagua FB/IG,Parejas,Experiencias off-site,Off-site,Aventura/exploración,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR04,2026-11-19,,Arenal FB/IG,Familias,Experiencias culinarias,Off-site Chachagua,Cultura/tradiciones,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 CH05,2026-11-21,,Chachagua FB/IG,Amigos,Hospedajes,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B01,2026-11-23,,Blog Chachagua ES/EN,Parejas,Experiencias in house,On-site Chachagua,Bienestar/reconexión,Enero–marzo 2027,Artículo,Borrador editorial
-PA-AR-04,2026-11-23,2026-12-02,Arenal Meta,Parejas,Hospedajes,On-site,Consideración,Enero–marzo 2027,Feed + Stories,Borrador; necesita adaptación
-PA-CH-04,2026-11-23,2026-12-02,Chachagua Meta,Parejas,Hospedajes,On-site,Consideración,Enero–marzo 2027,Feed + Stories,Borrador; necesita adaptación
+B02,2026-11-23,,Blog Chachagua ES/EN,Parejas,Experiencias in house,On-site Chachagua,Bienestar/reconexión,Enero–marzo 2027,Artículo,Borrador editorial
 AR05,2026-11-24,,Arenal FB/IG,Amigos,Hospedajes,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B01-S1,2026-11-24,,FB/IG promoción blog,Parejas,Experiencias in house,On-site Chachagua,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
-PA-AR-05,2026-11-26,2026-11-30,Arenal Meta,Amigos,Hospedajes,On-site,Decisión,Enero–marzo 2027,Feed + Stories,Borrador; necesita adaptación
-PA-CH-05,2026-11-26,2026-11-30,Chachagua Meta,Amigos,Hospedajes,On-site,Decisión,Enero–marzo 2027,Feed + Stories,Borrador; necesita adaptación
+B02-S1,2026-11-24,,FB/IG promoción blog,Parejas,Experiencias in house,On-site Chachagua,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
 CH06,2026-11-27,,Chachagua FB/IG,Parejas,Experiencias in house,On-site,Bienestar/reconexión,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR06,2026-11-28,,Arenal FB/IG,Parejas,Experiencias off-site,Off-site,Agua/paisaje,Enero–marzo 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B01-S2,2026-11-30,,FB/IG promoción blog,Parejas,Experiencias in house,On-site Chachagua,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
+B02-S2,2026-11-30,,FB/IG promoción blog,Parejas,Experiencias in house,On-site Chachagua,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
 CH07,2026-12-03,,Chachagua FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-PA-AR-06,2026-12-03,2026-12-12,Arenal Meta,Parejas,Experiencias in house,On-site,Reconocimiento,Febrero–abril 2027,Feed + Stories,Borrador; necesita producción
-PA-CH-06,2026-12-03,2026-12-12,Chachagua Meta,Parejas,Experiencias in house,On-site,Reconocimiento,Febrero–abril 2027,Feed + Stories,Borrador; necesita producción
 AR07,2026-12-04,,Arenal FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B02,2026-12-07,,Blog Chachagua ES/EN,Amigos,Experiencias off-site,Off-site La Fortuna / Peñas Blancas / Pocosol,Aventura/exploración,Enero–marzo 2027,Artículo,Borrador editorial
-B02-S1,2026-12-08,,FB/IG promoción blog,Amigos,Experiencias off-site,Off-site La Fortuna / Peñas Blancas / Pocosol,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
+B03,2026-12-07,,Blog Chachagua ES/EN,Amigos,Experiencias off-site,Off-site La Fortuna / Peñas Blancas / Pocosol,Aventura/exploración,Enero–marzo 2027,Artículo,Borrador editorial
+B03-S1,2026-12-08,,FB/IG promoción blog,Amigos,Experiencias off-site,Off-site La Fortuna / Peñas Blancas / Pocosol,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
 CH08,2026-12-08,,Chachagua FB/IG,Familias,Experiencias de naturaleza,On-site,Naturaleza/vida silvestre,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR08,2026-12-09,,Arenal FB/IG,Familias,Experiencias de naturaleza,Off-site Chachagua,Naturaleza/vida silvestre,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-PA-AR-07,2026-12-10,2026-12-19,Arenal Meta,Amigos,Experiencias off-site,Off-site,Reconocimiento,Febrero–abril 2027,Feed + Stories,Borrador; necesita producción
-PA-CH-07,2026-12-10,2026-12-19,Chachagua Meta,Amigos,Experiencias off-site,Off-site,Reconocimiento,Febrero–abril 2027,Feed + Stories,Borrador; necesita producción
 CH09,2026-12-12,,Chachagua FB/IG,Amigos,Experiencias off-site,Off-site,Agua/paisaje,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR09,2026-12-13,,Arenal FB/IG,Solo,Experiencias off-site,Off-site,Naturaleza/vida silvestre,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B02-S2,2026-12-14,,FB/IG promoción blog,Amigos,Experiencias off-site,Off-site La Fortuna / Peñas Blancas / Pocosol,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
-PA-AR-08,2026-12-16,2026-12-25,Arenal Meta,Familias,Experiencias culinarias,On-site Chachagua / off-site desde Arenal,Consideración,Febrero–abril 2027,Feed + Stories,Borrador; necesita producción
-PA-CH-08,2026-12-16,2026-12-25,Chachagua Meta,Familias,Experiencias culinarias,On-site Chachagua / off-site desde Arenal,Consideración,Febrero–abril 2027,Feed + Stories,Borrador; necesita producción
+B03-S2,2026-12-14,,FB/IG promoción blog,Amigos,Experiencias off-site,Off-site La Fortuna / Peñas Blancas / Pocosol,Promoción lectura,Enero–marzo 2027,Foto/enlace,Borrador; enlace CMS pendiente
 CH10,2026-12-17,,Chachagua FB/IG,Parejas,Experiencias in house,On-site,Naturaleza/vida silvestre,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR10,2026-12-18,,Arenal FB/IG,Parejas,Hospedajes,On-site,Bienestar/reconexión,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-B03,2026-12-21,,Blog Chachagua ES/EN,Familias,Experiencias culinarias,On-site Chachagua,Cultura/tradiciones,Febrero–abril 2027,Artículo,Borrador editorial
-PA-AR-09,2026-12-21,2026-12-27,Arenal Meta,Parejas,Hospedajes,On-site,Decisión,Febrero–abril 2027,Feed + Stories,Borrador; necesita adaptación
-PA-CH-09,2026-12-21,2026-12-27,Chachagua Meta,Parejas,Hospedajes,On-site,Decisión,Febrero–abril 2027,Feed + Stories,Borrador; necesita adaptación
-B03-S1,2026-12-22,,FB/IG promoción blog,Familias,Experiencias culinarias,On-site Chachagua,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
+B04,2026-12-21,,Blog Chachagua ES/EN,Familias,Experiencias culinarias,On-site Chachagua,Cultura/tradiciones,Febrero–abril 2027,Artículo,Borrador editorial
+B04-S1,2026-12-22,,FB/IG promoción blog,Familias,Experiencias culinarias,On-site Chachagua,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
 CH11,2026-12-22,,Chachagua FB/IG,Amigos,Experiencias in house,On-site,Aventura/exploración,Febrero–abril 2027,Foto 4:5,Pendiente de producción de foto o video
 AR11,2026-12-23,,Arenal FB/IG,Amigos,Experiencias off-site,Off-site,Naturaleza/vida silvestre,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
-PA-AR-10,2026-12-26,2026-12-31,Arenal Meta,Parejas,Hospedajes,On-site,Decisión,Febrero–abril 2027,Feed + Stories,Borrador; necesita adaptación
-PA-CH-10,2026-12-26,2026-12-31,Chachagua Meta,Parejas,Hospedajes,On-site,Decisión,Febrero–abril 2027,Feed + Stories,Borrador; necesita adaptación
-B03-S2,2026-12-28,,FB/IG promoción blog,Familias,Experiencias culinarias,On-site Chachagua,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
+B04-S2,2026-12-28,,FB/IG promoción blog,Familias,Experiencias culinarias,On-site Chachagua,Promoción lectura,Febrero–abril 2027,Foto/enlace,Borrador; enlace CMS pendiente
 CH12,2026-12-29,,Chachagua FB/IG,Parejas,Experiencias culinarias,On-site,Descubrimiento culinario,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente
 AR12,2026-12-30,,Arenal FB/IG,Parejas,Experiencias in house,Mixto: atención on-site / excursiones off-site,Bienestar/reconexión,Febrero–abril 2027,Foto 4:5,4:5 y 9:16 preparados; revisión visual pendiente

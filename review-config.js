@@ -1,1 +1,0 @@
-window.REVIEW_CONFIG = {"api": "https://costa-rica-your-way-review.rea-de-traba-1614.chatgpt.site/api/reviews", "version": "c24d88842ad290b79d8b"};

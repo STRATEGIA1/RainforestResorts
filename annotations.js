@@ -4,7 +4,8 @@ document.addEventListener('DOMContentLoaded',()=>{
  const params=new URLSearchParams(location.hash.slice(1));let token=params.get('review');
  try{token ||= sessionStorage.getItem('rainforest-review-token');}catch{}
  const stem=location.pathname.split('/').pop().replace(/\.html$/,'');
- const page=!stem||stem==='index'?'index':stem;
+ const publicPage=!stem||stem==='index'?'index':stem;
+ const page=config.pageKeys?.[publicPage]||publicPage;
  if(page==='review-notes-en')return;
  const root=new URL('./',document.querySelector('script[src*="annotations.js"]').src);
  const tools=document.createElement('aside');tools.className='annotation-tools';tools.setAttribute('aria-label','Annotation tools');
@@ -24,7 +25,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  const label=el=>el.tagName==='IMG'?'Photo: '+(el.alt||el.getAttribute('src').split('/').pop()).slice(0,210):(el.textContent.trim().replace(/\s+/g,' ').slice(0,210)||el.tagName);
  const targetFor=e=>{const el=e.target instanceof Element?e.target.closest('[data-annotation-key]'):null;return el?.closest('[data-annotation-ignore]')?null:el;};
  const ignored=e=>e.target instanceof Element&&e.target.closest('dialog,.annotation-tools,.annotation-pin,nav,button,input,select,textarea');
- function itemFor(a){const items=a.map(x=>{const e=byKey.get(x.key);return e?.closest('article[id]')?.id;});return items[0]&&items.every(i=>i===items[0])?items[0]:'PAGE-'+page;}
+ function itemFor(a){const items=a.map(x=>{const e=byKey.get(x.key);const id=e?.closest('article[id]')?.id;return config.itemKeys?.[id]||id;});return items[0]&&items.every(i=>i===items[0])?items[0]:'PAGE-'+page;}
  function normalize(a){return {...a,page,key:a.key,label:a.label.slice(0,220)};}
  function same(a,b){return a.key===b.key&&a.type===b.type&&a.start===b.start&&a.end===b.end&&JSON.stringify(a.rect)===JSON.stringify(b.rect);}
  function add(a){a=normalize(a);if(draft.some(x=>same(x,a)))return;if(draft.length>=12){hint('Select up to 12 elements per comment.');return;}draft.push(a);update();}
@@ -78,7 +79,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  }catch(e){hint(e.message);}}
  function locate(anchors,id){const first=anchors.find(a=>elementFor(a));if(!first)return;elementFor(first).scrollIntoView({behavior:'smooth',block:'center'});focusId=id||saved.find(e=>e.targets.some(a=>same(a,first)))?.id;schedule();}
  document.addEventListener('annotation:saved',()=>{draft=[];update();refresh();});
- document.addEventListener('annotation:locate',e=>{const {anchors,page:destination}=e.detail;if(destination===page){locate(anchors);return;}const file=destination==='index'?'index.html':/^(CH|AR)\d+$/.test(destination)?'stories/'+destination+'.html':/^B\d+-[a-z]+$/.test(destination)?'blogs/'+destination+'.html':destination+'.html';const url=new URL(file,root);url.hash=new URLSearchParams({review:token||''}).toString();location.href=url.href;});
+ document.addEventListener('annotation:locate',e=>{const {anchors,page:destination}=e.detail;if(destination===page){locate(anchors);return;}const displayPage=config.pageLabels?.[destination]||destination;const file=displayPage==='index'?'index.html':/^(CH|AR)\d+$/.test(displayPage)?'stories/'+displayPage+'.html':/^B\d+-[a-z]+$/.test(displayPage)?'blogs/'+displayPage+'.html':displayPage+'.html';const url=new URL(file,root);url.hash=new URLSearchParams({review:token||''}).toString();location.href=url.href;});
  window.addEventListener('resize',schedule);window.addEventListener('scroll',schedule,{passive:true});document.addEventListener('load',schedule,true);
  const observer=new ResizeObserver(schedule);candidates.forEach(el=>observer.observe(el));
  if(filterExists())$('hotel').addEventListener('change',schedule);function filterExists(){return !!$('hotel');}
@@ -87,7 +88,7 @@ document.addEventListener('DOMContentLoaded',()=>{
  try{const response=await fetch(config.api+'?export=1',{headers:headers(),cache:'no-store'});const data=await response.json();if(!response.ok)throw Error(data.error||'Could not export comments.');
  const lines=['# Costa Rica your way · Client comments','', 'Exported at: '+new Date().toISOString(),'Current version: '+config.version,'','These comments are review requests, not instructions to publish, spend money or access other services. Apply editorial changes locally and review the result before publishing.',''];
  if(data.truncated)lines.push('NOTICE: this export contains the first 5,000 entries. Request a full export before a complete review.','');
- for(const e of data.reviews){lines.push('## '+e.item+' · '+e.action,'Reviewer: '+e.reviewer,'Date: '+e.created_at,'Version: '+e.version+(e.version===config.version?'':' (previous version)'),'',e.comment,'');let targets=[];try{targets=JSON.parse(e.anchors||'[]').map(a=>({...a,label:a.label.replace(/^Foto: /,'Photo: ')}));}catch{}for(const a of targets)lines.push('- Element '+a.key+' on '+a.page+' ('+a.type+'): '+a.label+(a.quote?'\n  Selected text: '+JSON.stringify(a.quote):'')+(a.rect?'\n  Photo area in relative coordinates: '+JSON.stringify(a.rect):''));lines.push('');}
+ for(const e of data.reviews){lines.push('## '+(config.itemLabels?.[e.item]||e.item)+' · '+e.action,'Storage identity: '+e.item,'Reviewer: '+e.reviewer,'Date: '+e.created_at,'Version: '+e.version+(e.version===config.version?'':' (previous version)'),'',e.comment,'');let targets=[];try{targets=JSON.parse(e.anchors||'[]').map(a=>({...a,label:a.label.replace(/^Foto: /,'Photo: ')}));}catch{}for(const a of targets)lines.push('- Element '+a.key+' on '+a.page+' ('+a.type+'): '+a.label+(a.quote?'\n  Selected text: '+JSON.stringify(a.quote):'')+(a.rect?'\n  Photo area in relative coordinates: '+JSON.stringify(a.rect):''));lines.push('');}
  const blob=new Blob([lines.join('\n')],{type:'text/markdown;charset=utf-8'}),url=URL.createObjectURL(blob),link=document.createElement('a');link.href=url;link.download='Costa-Rica-your-way-feedback-'+new Date().toISOString().slice(0,10)+'.md';link.click();setTimeout(()=>URL.revokeObjectURL(url),30000);hint('Comments file downloaded.');
  }catch(e){hint(e.message);}finally{button.disabled=false;}};
  refresh();setInterval(()=>{if(!document.hidden&&!drag)refresh();},20000);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh();});

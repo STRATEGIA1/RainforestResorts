@@ -1,5 +1,5 @@
 AD CAMPAIGN BRIEF FOR ADLE — OPENAI ADS
-Costa Rica your way | STRATEGIA | 2 November 2026
+Costa Rica your way | STRATEGIA | 3 November 2026
 
 CLIENT: Rainforest Resorts — Chachagua Rainforest Resort & Hot Springs and Arenal Rainforest Resort.
 CAMPAIGN: Costa Rica your way. Publication / acquisition period: November–December 2026. Winter-escape travel focus: January–March 2027. Use the proposed dates attached to each creative; never backdate delivery.
@@ -8,6 +8,7 @@ RECIPIENT: ADLE AI (https://adle.ai/). This is a human-readable briefing documen
 CREATIVE LOCK — MANDATORY
 The client instructs that the approved ad copy and imagery must remain unchanged. Your task is media planning and configuration, not creative generation. Do not rewrite, translate, shorten, improve, generate variations, replace images, alter overlays, apply generative enhancements, or change the hotel identity. Disable automatic text generation, asset substitution and creative enhancements wherever the account allows. Preserve the supplied headline, body, description, Story text, CTA wording, language, destination and approved asset pairing. Only use placements compatible with the approved formats. If character limits, required fields, policy or format constraints prevent verbatim use, report the exact conflict and request a separately approved adaptation; never silently edit the ad.
 Client approval of creative does not authorise spending or activation. Produce a draft setup and readiness report for STRATEGIA. Do not launch, increase spend, transfer budget between resorts/markets/media, or upload customer lists under this brief.
+The six revised Meta discovery concepts also require fresh copy approval; do not inherit approval from their earlier versions.
 Some source records still carry production placeholders or legacy draft labels. These are not approved final assets. Hold any item without a matching final approved file / recorded approval; do not manufacture a replacement or label all source concepts launch-ready. Keep existing approval and review history.
 
 BRAND AND DESTINATIONS
@@ -17,11 +18,11 @@ Arenal homepage: https://www.arenalrainforest.com/
 Route each ad to its own resort. Existing Meta URLs include Meta tracking: for another medium, propose medium-specific tracking as a separate technical change for STRATEGIA approval. Never send Google/OpenAI clicks under a Meta source label.
 
 MARKETS AND CREATIVE LANGUAGE
-Primary: premium / high-income couples, friends/groups and families in the United States and Europe. Secondary: premium domestic travellers in Costa Rica. High income is the commercial target, not an assumed available targeting control.
+Funded: premium / high-income couples, friends/groups and families in the United States; premium domestic travellers in Costa Rica. Europe deferred. High income is the commercial target, not an assumed available targeting control.
 US starting gateways: New York/Newark, Miami/Fort Lauderdale, Houston, Atlanta; expansion candidates Dallas and Los Angeles.
-Europe: London / UK pilot first; Frankfurt, Paris, Amsterdam, Madrid and Zurich are unfunded expansion candidates. Check demand, language fit, supported targeting and actual flight availability before expansion.
+Europe: deferred; London / UK would be the first later pilot, only after a revised allocation is approved; Frankfurt, Paris, Amsterdam, Madrid and Zurich are unfunded expansion candidates. Check demand, language fit, supported targeting and actual flight availability before expansion.
 Costa Rica: Greater San José / Central Valley first.
-US and Europe: use the same shared English creative per concept. Do not create a separate European English copy. Costa Rica: Spanish creative per concept. No bilingual paid caption. Use the supplied variants without translating.
+United States: English creative per concept. Europe has no current allocation; a later approved test can use the same English copy. Do not create a separate European English copy. Costa Rica: Spanish creative per concept. No bilingual paid caption. Use the supplied variants without translating.
 Creative-planning weights: couples 50%, groups/friends 30%, families 20%; these are not measured booking shares and not three mandatory ad sets.
 
 MEASUREMENT AND HANDOFF
@@ -29,7 +30,7 @@ Report resort, medium, market, dates, proposed budget cap, objective, geographic
 Return: draft configuration, budget reconciliation, exact creative mapping, measurement plan and unresolved dependencies. List unsupported features explicitly. Recommend media-only changes; any creative change is a separate approval request.
 
 STATUS / BUDGET
-Client allocation: US$1,000 in November and US$1,000 in December 2026; US$2,000 total, additional to Meta. Recommend US-only English delivery and US$500 per resort per month. Four monthly resort caps reconcile to US$2,000. Do not duplicate mixed-resort creative budgets. No launch authorised.
+Client allocation: US$1,000 in November and US$1,000 in December 2026; US$2,000 total, additional to Meta. Recommend US-only English delivery and US$500 per resort per month. Use one Rainforest Resorts advertising account covering both resorts, capped at US$1,000 in November and US$1,000 in December. The 50/50 resort split is for planning and reporting within that account, not separate accounts or per-ad budgets. Paid ads deliver during campaign periods and do not belong in the dated editorial calendar. Do not duplicate mixed-resort creative budgets. No launch authorised.
 
 STRATEGY
 Contextual Costa Rica itinerary planning for couples, friends/groups and families. Use the context hints attached to each concept as relevance descriptions, never exact prompt triggers. Recommend Clicks with fixed bidding and monthly lifetime caps after confirming account minimums, currency, bid requirements, access and geography. Keep Meta allocation US$6,000 unchanged. Europe and Costa Rica have no OpenAI allocation in this initial pilot.
@@ -39,7 +40,7 @@ The attached OA01–OA06 concepts are NEW DRAFTS requiring client copy and image
 Use standard chat cards. Four concepts have one resort image; OA05 and OA06 propose four distinct square images across both resorts, only if enabled. Titles/body are checked against documented limits; final square exports and paid-use checks are pending. Mixed-resort cards share one destination: verify that the linked resort homepage supports the sister-resort promise, otherwise hold until a matching destination is approved. Do not silently substitute a single-resort message. Native Hotel feeds are a separate limited beta and not required.
 ADLE does not publicly list OpenAI support; confirm compatibility. If unsupported, return a manual OpenAI Ads handoff rather than claiming an integration. Return paused draft configuration only, measurement readiness and dependencies. No fabricated reach or bookings.
 
-SOURCES / SETUP CHECK (2 November 2026)
+SOURCES / SETUP CHECK (3 November 2026)
 https://adle.ai/
 https://openai.com/es-419/index/new-chatgpt-ads-format-and-measurement/
 https://help.openai.com/en/articles/20001207-ads-in-chatgpt-the-basics
@@ -56,6 +57,8 @@ Read each concept approval state. A brief is not proof that missing final files 
 {
   "checked": "2026-11-02",
   "title": "ChatGPT Ads · Costa Rica itinerary pilot",
+  "advertising_account": "Rainforest Resorts",
+  "account_structure": "Single account covering both resorts",
   "currency": "USD",
   "budget": {
     "November": 1000,
