@@ -1,0 +1,61 @@
+
+.newsletter-compact{max-width:640px;margin:24px auto 40px;background:#fff5ea;color:#363824;box-shadow:0 10px 35px #3638240c}
+.newsletter-compact *{box-sizing:border-box}
+.newsletter-compact .compact-label{font:11px/1.6 Messina,Arial,sans-serif;letter-spacing:2px;margin:0 0 15px}
+.newsletter-compact h1,.newsletter-compact h2{font-family:MorionLight,Georgia,serif;font-weight:300;letter-spacing:-.5px;line-height:1.12;margin:0 0 20px}
+.newsletter-compact h1{font-size:37px}.newsletter-compact h2{font-size:31px}
+.newsletter-compact p{font:17px/1.6 Morion,Georgia,serif;margin:0 0 18px}
+.newsletter-compact a{color:#915126;text-underline-offset:3px}
+.newsletter-compact .compact-masthead{padding:27px 30px 23px;text-align:center;background:#fff}
+.newsletter-compact .compact-logos{display:flex;align-items:center;justify-content:center;gap:36px}
+.newsletter-compact .compact-logos img{width:205px;max-width:42%;height:54px;object-fit:contain}
+.newsletter-compact .compact-hero{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:center}
+.newsletter-compact section.compact-intro{padding:34px 42px 38px;text-align:center;background:#fff}
+.newsletter-compact .compact-cta{display:inline-block;background:#363824;color:#fff5ea;padding:14px 23px;text-decoration:none;font:11px/1.5 Messina,Arial,sans-serif;letter-spacing:1px;margin-top:5px}
+.newsletter-compact .compact-motion{margin:0}.newsletter-compact .compact-motion img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover}
+.newsletter-compact .compact-motion figcaption{font:12px/1.5 Morion,Georgia,serif;text-align:center;padding:11px 18px;color:#363824;background:#ebe9d9}
+.newsletter-compact section.compact-feature-heading{text-align:center;padding:33px 30px 22px;background:#fff}
+.newsletter-compact section.compact-feature{padding:0;margin:0;border:0}
+.newsletter-compact .compact-feature-title{padding:30px 34px 8px;text-align:center}
+.newsletter-compact .compact-feature-title img{display:block;width:220px;height:61px;object-fit:contain;margin:0 auto 23px}
+.newsletter-compact .compact-photo{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover}
+.newsletter-compact .compact-feature-copy{padding:25px 38px 35px;text-align:center}
+.newsletter-compact .compact-chachagua{background:#ebe9d9}
+.newsletter-compact .compact-arenal{background:#fff;color:#472420}
+.newsletter-compact .compact-arenal a:not(.compact-cta){color:#915126}
+.newsletter-compact .compact-arenal .compact-cta{background:#472420;color:#fff5ea}
+.newsletter-compact p.compact-small{font:13px/1.65 Messina,Arial,sans-serif}
+.newsletter-compact .compact-blog{background:#fff}
+.newsletter-compact .compact-blog .compact-feature-title{background:#FFF5EA}
+.newsletter-compact .compact-close{padding:35px 28px 27px;text-align:center;background:#ebe9d9}
+.newsletter-compact .compact-close h3{font:12px/1.5 Messina,Arial,sans-serif;margin:30px 0 10px;letter-spacing:1px;text-transform:uppercase}
+.newsletter-compact .compact-close p{font:14px/1.8 Messina,Arial,sans-serif}
+.newsletter-compact .compact-close .compact-label{border-top:1px solid #aeab6c;padding-top:23px;margin-top:25px;font-size:10px}
+@media(max-width:600px){.newsletter-compact{margin:0 auto}.newsletter-compact section.compact-intro{padding:30px 24px}.newsletter-compact h1{font-size:32px}.newsletter-compact h2{font-size:29px}.newsletter-compact .compact-feature-copy{padding:24px}.newsletter-compact .compact-logos{gap:23px}.newsletter-compact .compact-masthead{padding:24px 20px}}
+@media(prefers-reduced-motion:reduce){.newsletter-compact .compact-motion img{animation:none}}
+
+.newsletter-compact .compact-split{display:grid;grid-template-columns:1fr 1fr;align-items:stretch}
+.newsletter-compact .compact-split-text{padding:28px 21px 30px;align-self:center;min-width:0}
+.newsletter-compact .compact-split .compact-feature-title{padding:0;text-align:left}
+.newsletter-compact .compact-split .compact-feature-title img{width:180px;max-width:100%;height:52px;margin:0 0 20px}
+.newsletter-compact .compact-split h2{font-size:28px;line-height:1.15;margin-bottom:18px}
+.newsletter-compact .compact-split .compact-feature-copy{padding:0;text-align:left}
+.newsletter-compact .compact-split p{font-size:16px;line-height:1.55;margin-bottom:16px}
+.newsletter-compact .compact-split p.compact-small{font-size:12px;line-height:1.55}
+.newsletter-compact .compact-split>.compact-photo{height:100%;min-height:420px;aspect-ratio:auto;object-fit:cover;object-position:center}
+.newsletter-compact .compact-chachagua .compact-split>.compact-photo{object-position:42% center}
+.newsletter-compact .compact-arenal .compact-split>.compact-photo{object-position:44% center}
+@media(max-width:600px){.newsletter-compact .compact-split{grid-template-columns:1fr}.newsletter-compact .compact-split-text{padding:30px 25px}.newsletter-compact .compact-split>.compact-photo{height:auto;min-height:0;aspect-ratio:16/10}.newsletter-compact .compact-split p{font-size:17px}.newsletter-compact .compact-split p.compact-small{font-size:13px}}
+
+/* Resort features: alternating image placement and compact typography. */
+.newsletter-compact .compact-chachagua .compact-split-text{grid-column:2;grid-row:1}
+.newsletter-compact .compact-chachagua .compact-split>.compact-photo{grid-column:1;grid-row:1}
+.newsletter-compact .compact-split .compact-feature-title img{margin-left:auto;margin-right:auto}
+.newsletter-compact .compact-split h2{font-size:25px}
+.newsletter-compact .compact-split p{font-size:14.5px;line-height:1.55}
+.newsletter-compact .compact-split .compact-cta{display:table;margin-left:auto;margin-right:auto}
+@media(max-width:600px){
+ .newsletter-compact .compact-chachagua .compact-split-text,.newsletter-compact .compact-chachagua .compact-split>.compact-photo{grid-column:auto;grid-row:auto}
+ .newsletter-compact .compact-split h2{font-size:26px}
+ .newsletter-compact .compact-split p{font-size:15.5px}
+}
