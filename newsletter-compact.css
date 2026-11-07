@@ -59,3 +59,12 @@
  .newsletter-compact .compact-split h2{font-size:26px}
  .newsletter-compact .compact-split p{font-size:15.5px}
 }
+
+.newsletter-compact .compact-chain-wordmark{font:400 25px/1.3 Morion,Georgia,serif;letter-spacing:2px}
+.newsletter-compact .compact-intro .compact-logos{margin:0 auto 26px}
+.newsletter-compact .compact-intro .compact-logos img{height:54px}
+.newsletter-compact .compact-close p.compact-close-invitation{font:16px/1.65 Morion,Georgia,serif;max-width:510px;margin:0 auto 23px;color:#363824}
+.newsletter-compact .compact-member-wordmark{margin:24px auto 0;text-align:center;color:#363824}
+.newsletter-compact .compact-member-wordmark span{display:block;font:11px/1.5 Messina,Arial,sans-serif;margin-bottom:8px}
+.newsletter-compact .compact-member-wordmark strong{display:block;font:400 24px/1.3 Morion,Georgia,serif;letter-spacing:1.3px}
+@media(max-width:400px){.newsletter-compact .compact-chain-wordmark{font-size:22px}.newsletter-compact .compact-intro .compact-logos{gap:18px}.newsletter-compact .compact-member-wordmark strong{font-size:21px}}
