@@ -21,3 +21,7 @@
 .chat-creative{background:transparent;border:0}.creative-images{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}.creative-images.multi{grid-template-columns:1fr 1fr}.creative-images figure{margin:0}.creative-images img{width:100%;height:auto;display:block;border-radius:0}.creative-images figcaption{font-size:10px;line-height:1.5;color:#646970;margin-top:6px}.creative-copy{padding:0}.creative-copy h3{font-size:22px;margin:22px 0 10px}.creative-copy p{font-size:15px}.preview-action{margin-top:24px}.preview-action .button{display:inline-block;text-decoration:none}
 
 .blog-language-actions{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}.blog-language-actions .button{display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;background:#6871ec;color:#fff;border-radius:8px;text-decoration:none;line-height:1.5}.blog-language-actions .button:hover{background:#545bd6}.blog-language-actions .button:focus-visible{outline:3px solid #36768a;outline-offset:4px}
+
+/* Shared centered chain masthead across all newsletter editions. */
+.newsletter header.compact-masthead,.newsletter header.nl-masthead{display:flex;align-items:center;justify-content:center;min-height:120px;padding:34px 30px;background:#fff;text-align:center;border:0}
+.newsletter .compact-chain-wordmark{font:400 25px/1.2 Morion,Georgia,serif;letter-spacing:2px;margin:0;color:#363824;text-align:center}
