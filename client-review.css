@@ -25,3 +25,6 @@
 /* Shared centered chain masthead across all newsletter editions. */
 .newsletter header.compact-masthead,.newsletter header.nl-masthead{display:flex;align-items:center;justify-content:center;min-height:120px;padding:34px 30px;background:#fff;text-align:center;border:0}
 .newsletter .compact-chain-wordmark{font:400 25px/1.2 Morion,Georgia,serif;letter-spacing:2px;margin:0;color:#363824;text-align:center}
+
+/* ChatGPT multi-image cards: official square framing. */
+#openai-ads .creative-images img{width:100%;height:auto;aspect-ratio:1 / 1;object-fit:cover;display:block}

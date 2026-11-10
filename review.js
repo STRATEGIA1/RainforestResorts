@@ -65,3 +65,22 @@ document.addEventListener('DOMContentLoaded', () => {
  delete drafts[draftId()];writeDrafts();message('Comment saved and shared. Receipt: '+result.id);document.dispatchEvent(new CustomEvent('annotation:saved'));selectedAnchors=[];selectedPage=null;$('review-targets').replaceChildren();requestId=null;$('review-comment').value='';$('confirm-copy').checked=false;await load();
  }catch(error){message(error.message+' NOT SAVED to the shared portal. '+(storageFailed?'Copy your text before leaving; browser backup is unavailable.':'Your unsent draft is kept on this browser. Use Download unsent drafts for a backup.'));}finally{busy=false;$('save-review').disabled=serverVersion!==config.version;$('close-review').disabled=false;}});
 });
+// One Rainforest Resorts publishing calendar, filtered by month.
+document.addEventListener('DOMContentLoaded', () => {
+ const selector=document.getElementById('publication-month');
+ if(!selector)return;
+ const months=Array.from(document.querySelectorAll('#social .social-month'));
+ function applyMonth(){
+  months.forEach(section=>{section.hidden=section.dataset.month!==selector.value;section.style.display=section.hidden?'none':'';});
+  window.dispatchEvent(new Event('resize'));
+ }
+ function followAnchor(){
+  const target=document.getElementById(location.hash.slice(1));
+  const month=target&&target.closest('#social .social-month');
+  if(month)selector.value=month.dataset.month;
+  applyMonth();
+ }
+ selector.addEventListener('change',applyMonth);
+ window.addEventListener('hashchange',followAnchor);
+ followAnchor();
+});
