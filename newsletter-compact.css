@@ -75,3 +75,5 @@
 
 .newsletter-compact .compact-intro h1{margin-bottom:0}
 .newsletter-compact .compact-intro .compact-logos{margin:40px auto 42px}
+
+@media only screen and (max-width:600px){.newsletter-compact .rr-close-brand,.newsletter-compact .rr-close-campaign{display:block!important;white-space:nowrap!important;line-height:22px!important}.newsletter-compact .rr-close-divider{display:none!important}}
