@@ -1,20 +1,20 @@
 {
-  "checked": "2026-11-10",
+  "checked": "2026-11-13",
   "title": "ChatGPT Ads · Costa Rica itinerary pilot",
   "advertising_account": "Rainforest Resorts",
   "account_structure": "Single account covering both resorts",
   "currency": "USD",
   "budget": {
-    "November": 1000,
-    "December": 1000,
-    "total": 2000,
-    "per_resort_month": 500,
+    "November": 4000,
+    "December": 4000,
+    "total": 8000,
+    "per_resort_month": 2000,
     "status": "Monthly allocation requested by client; activation not authorised"
   },
   "markets": {
-    "United States": 2000,
+    "United States": 6800,
     "Europe": 0,
-    "Costa Rica": 0
+    "Costa Rica": 1200
   },
   "ads": [
     {

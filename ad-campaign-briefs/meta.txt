@@ -30,12 +30,8 @@ Report resort, medium, market, dates, proposed budget cap, objective, geographic
 Return: draft configuration, budget reconciliation, exact creative mapping, measurement plan and unresolved dependencies. List unsupported features explicitly. Recommend media-only changes; any creative change is a separate approval request.
 
 STATUS / BUDGET
-Funded medium: Meta Ads on Facebook and Instagram. Total media cap US$6,000 for both resorts over November–December 2026. Each resort: US$3,000 across both months; US$1,500 per month.
-November: US$3,000 both resorts. December: US$3,000 both resorts. Full campaign: US$6,000.
-Per resort per month: US 85% / US$1,275; Europe deferred / US$0; Costa Rica 15% / US$225.
-Both resorts per month: US US$2,550; Europe US$0; Costa Rica US$450. Full campaign by market: US US$5,100; Europe US$0; Costa Rica US$900. Europe follows US learning only after revised allocation approval.
-Within each market and resort, use TOFU 60%, MOFU 20%, BOFU 20% planning envelopes. Both resorts/all markets per month: TOFU US$1,800, MOFU US$600, BOFU US$600; campaign totals US$3,600 / US$1,200 / US$1,200. These are spend weights, not creative counts.
-These are market/month caps, not a budget for every individual creative. Do not duplicate budget when mapping multiple concepts. No money is allocated to Google or OpenAI from these funds.
+Funded medium: Meta Ads on Facebook and Instagram. Total cap US$4,000 for November–December 2026. Each resort: US$1,000 per month, US$2,000 across both months.
+Both resorts per month: US$2,000; United States 85% / US$1,700; Costa Rica 15% / US$300. Per resort per month: United States US$850; Costa Rica US$150. Full campaign: United States US$3,400; Costa Rica US$600. Europe unfunded.
 
 STRATEGY / AUDIENCE CONFIGURATION
 Use the requested Traffic objective and optimise for landing-page views where available, with each resort's homepage. Keep resorts separate for spend attribution. Start consolidated by resort and market rather than city x persona x funnel-stage fragmentation. Select origin-market geography and verify actual audience controls. Advantage+ audience suggestions can expand; distinguish firm controls from suggestions in the draft setup. Use premium accommodation, nature and travel signals only where supported. Do not invent a universal household-income filter.

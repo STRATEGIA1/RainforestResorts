@@ -1,0 +1,75 @@
+{
+  "checked": "2026-11-13",
+  "currency": "USD",
+  "period": "November–December 2026",
+  "status": "Client-approved budget; no activation authorised",
+  "responsible": {
+    "name": "Sergio Quintero",
+    "role": "Digital Trafficker",
+    "agency": "STRATEGIA"
+  },
+  "budget_by_medium": [
+    {
+      "medium": "Meta Ads",
+      "per_hotel_month": 1000,
+      "per_hotel": 2000,
+      "current_allocation": 4000,
+      "both_resorts_monthly": 2000
+    },
+    {
+      "medium": "ChatGPT Ads",
+      "per_hotel_month": 2000,
+      "per_hotel": 4000,
+      "current_allocation": 8000,
+      "both_resorts_monthly": 4000
+    }
+  ],
+  "monthly_totals": {
+    "2026-11": 6000,
+    "2026-12": 6000
+  },
+  "campaign_total": 12000,
+  "markets": [
+    {
+      "market": "United States",
+      "language": "EN",
+      "share": 0.85,
+      "monthly": 5100.0,
+      "total": 10200.0
+    },
+    {
+      "market": "Costa Rica",
+      "language": "ES",
+      "share": 0.15,
+      "monthly": 900.0,
+      "total": 1800.0
+    }
+  ],
+  "allocation_by_resort_medium": [
+    {
+      "resort": "Arenal",
+      "medium": "Meta Ads",
+      "monthly": 1000,
+      "campaign_total": 2000
+    },
+    {
+      "resort": "Arenal",
+      "medium": "ChatGPT Ads",
+      "monthly": 2000,
+      "campaign_total": 4000
+    },
+    {
+      "resort": "Chachagua",
+      "medium": "Meta Ads",
+      "monthly": 1000,
+      "campaign_total": 2000
+    },
+    {
+      "resort": "Chachagua",
+      "medium": "ChatGPT Ads",
+      "monthly": 2000,
+      "campaign_total": 4000
+    }
+  ],
+  "market_distribution_basis": "85% United States / 15% Costa Rica, applied consistently within each resort and medium for planning. Unsupported delivery remains unspent pending an approved revision."
+}
