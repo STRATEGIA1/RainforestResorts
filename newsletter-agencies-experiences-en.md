@@ -4,9 +4,11 @@ RAINFOREST RESORTSPlan your experiences with Rainforest Resorts
 
 Dear travel partner,
 
-From guided rainforest walks to coffee and cacao and adventures around Arenal, these twelve selected experiences help you shape your clients’ Costa Rica itinerary.
+Chachagua Rainforest Resort & Hot Springs and Arenal Rainforest Resort are just 7.7 km apart. With two resorts to choose from, our Travel Designers can recommend experiences close to both properties and help you plan your clients’ stay.
 
-Whether your clients stay at Chachagua Rainforest Resort & Hot Springs or Arenal Rainforest Resort, our Travel Designers work with your agency to match experiences to their interests and coordinate reservations and transport from the selected resort.
+We’ve selected twelve of our favorite experiences to inspire your clients’ Costa Rica itinerary. For more ideas and recommendations tailored to their interests, call our Travel Designers at +1 888-908-5141
+
+.
 
 
 
@@ -36,11 +38,11 @@ Children’s Eternal Rainforest Expedition
 
 
 
-Río Celeste Hike
+Canyoning Tour
 
 
 
-Caño Negro Wildlife Boat Trip
+La Fortuna Waterfall Guided Hike
 
 
 
@@ -52,11 +54,11 @@ Peñas Blancas Safari Float
 
 
 
-Canyoning Tour
+Río Celeste Hike
 
 
 
-La Fortuna Waterfall Guided Hike
+Caño Negro Wildlife Boat Trip
 
 
 

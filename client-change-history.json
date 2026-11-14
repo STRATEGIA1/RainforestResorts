@@ -456,6 +456,22 @@
       "request": "Swap the final two cards in columns 2 and 3.",
       "change": "Column 2 now ends with Canyoning and La Fortuna Waterfall; column 3 ends with Río Celeste and Caño Negro. One linked image per experience retained.",
       "status": "Applied to preview; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-agency-shared-experiences-intro",
+      "author": "Andrés · browser annotation, audience corrected in chat",
+      "piece": "Newsletter #2 · Travel agencies · NL04-en",
+      "request": "Rewrite the two agency introductory paragraphs: two resorts 7.7 km apart; recommend experiences close to both; twelve favorites and phone consultation for more ideas.",
+      "change": "Updated only agency introduction with the client-provided distance, curated favorites and tel:+18889085141. Guest editorial content unchanged.",
+      "status": "Applied to preview; fresh copy approval pending"
+    },
+    {
+      "comment_id": "chat-20261113-guest-shared-experiences-intro",
+      "author": "Andrés · follow-up instruction",
+      "piece": "Newsletter #2 · Guests · NL03-en",
+      "request": "Adapt the same idea for direct guests: two nearby resorts, multiple experiences and help from Travel Designers.",
+      "change": "Added guest-specific introduction with the two resorts 7.7 km apart, twelve favorite experiences and a direct phone link for more ideas and planning help. Agency version remains addressed to travel partners.",
+      "status": "Applied to preview; fresh copy approval pending"
     }
   ]
 }
