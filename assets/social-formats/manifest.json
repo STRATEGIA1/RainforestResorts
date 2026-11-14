@@ -1438,7 +1438,7 @@
   {
     "id": "PA-CH-01",
     "sources": [
-      "CH-P"
+      "CH-PA01-TWO"
     ],
     "format_page": "stories/PA-CH-01.html",
     "back_to_proposal": "index.html#PA-CH-01",
@@ -1450,13 +1450,13 @@
           1350
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-P-feed.png",
+        "file": null,
         "mime_type": "image/png",
-        "status": "Prepared for visual review",
-        "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+        "status": "Needs portrait adaptation",
+        "source_asset_id": "1meur1Rf4nDyPoZaLmXOcFFRUOmXT_XOa",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.53,
           0.5
         ]
       },
@@ -1467,13 +1467,13 @@
           1920
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-P-story.png",
+        "file": null,
         "mime_type": "image/png",
-        "status": "Prepared for visual review",
-        "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+        "status": "Needs portrait adaptation",
+        "source_asset_id": "1meur1Rf4nDyPoZaLmXOcFFRUOmXT_XOa",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.53,
           0.5
         ]
       }
@@ -1573,7 +1573,7 @@
   {
     "id": "PA-CH-04",
     "sources": [
-      "CH-NEW15"
+      "CH-PA04-RIGHT"
     ],
     "format_page": "stories/PA-CH-04.html",
     "back_to_proposal": "index.html#PA-CH-04",
@@ -1585,13 +1585,13 @@
           1350
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-NEW15-feed.png",
+        "file": "assets/social-formats/CH-PA04-RIGHT-feed.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
         "source_asset_id": "1dmtguBn7YlcP7UDXSNsF52OK1OqE3eKp",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.6,
           0.5
         ]
       },
@@ -1602,13 +1602,13 @@
           1920
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-NEW15-story.png",
+        "file": "assets/social-formats/CH-PA04-RIGHT-story.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
         "source_asset_id": "1dmtguBn7YlcP7UDXSNsF52OK1OqE3eKp",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.65,
           0.5
         ]
       }
@@ -1618,7 +1618,7 @@
   {
     "id": "PA-CH-05",
     "sources": [
-      "CH-V"
+      "CH-PA05-GROUP"
     ],
     "format_page": "stories/PA-CH-05.html",
     "back_to_proposal": "index.html#PA-CH-05",
@@ -1630,13 +1630,13 @@
           1350
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-V-feed.png",
+        "file": "assets/social-formats/CH-PA05-GROUP-feed.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
-        "source_asset_id": "1-8l_tWYuXzfyjTju5HNKVF0Ek3s4d3Jd",
+        "source_asset_id": "1toQtCekwYDKbs7wAjdVYmjT7MI78AX9H",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.51,
           0.5
         ]
       },
@@ -1647,55 +1647,18 @@
           1920
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-V-story.png",
+        "file": null,
         "mime_type": "image/png",
-        "status": "Prepared for visual review",
-        "source_asset_id": "1-8l_tWYuXzfyjTju5HNKVF0Ek3s4d3Jd",
+        "status": "Needs a group-safe portrait composition",
+        "source_asset_id": "1toQtCekwYDKbs7wAjdVYmjT7MI78AX9H",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.51,
           0.5
         ]
       }
     },
     "status": "Prepared for visual review"
-  },
-  {
-    "id": "PA-CH-06",
-    "sources": [],
-    "format_page": "stories/PA-CH-06.html",
-    "back_to_proposal": "index.html#PA-CH-06",
-    "media_formats": {
-      "feed": {
-        "aspect_ratio": "4:5",
-        "dimensions": [
-          1080,
-          1350
-        ],
-        "type": "image",
-        "file": null,
-        "mime_type": "image/png",
-        "status": "Production needed",
-        "source_asset_id": null,
-        "fit": null,
-        "focal_point": null
-      },
-      "story": {
-        "aspect_ratio": "9:16",
-        "dimensions": [
-          1080,
-          1920
-        ],
-        "type": "image",
-        "file": null,
-        "mime_type": "image/png",
-        "status": "Production needed",
-        "source_asset_id": null,
-        "fit": null,
-        "focal_point": null
-      }
-    },
-    "status": "Production needed"
   },
   {
     "id": "PA-CH-07",
@@ -1745,7 +1708,7 @@
   {
     "id": "PA-CH-08",
     "sources": [
-      "CH-NEW00"
+      "CH-PA08-CACAO"
     ],
     "format_page": "stories/PA-CH-08.html",
     "back_to_proposal": "index.html#PA-CH-08",
@@ -1757,13 +1720,13 @@
           1350
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-NEW00-feed.png",
+        "file": "assets/social-formats/CH-PA08-CACAO-feed.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
-        "source_asset_id": "1aLgF90-7TZvQxA9nxQZpB6yFkAlhZ7ct",
+        "source_asset_id": "1lxPzfspkGcWE-3NyFzbnfcUojpTdl9OS",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.51,
           0.5
         ]
       },
@@ -1774,13 +1737,13 @@
           1920
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-NEW00-story.png",
+        "file": "assets/social-formats/CH-PA08-CACAO-story.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
-        "source_asset_id": "1aLgF90-7TZvQxA9nxQZpB6yFkAlhZ7ct",
+        "source_asset_id": "1lxPzfspkGcWE-3NyFzbnfcUojpTdl9OS",
         "fit": "cover",
         "focal_point": [
-          0.5,
+          0.51,
           0.5
         ]
       }
@@ -1790,7 +1753,7 @@
   {
     "id": "PA-CH-09",
     "sources": [
-      "CH-PA09"
+      "CH-PA09-FURNISHED"
     ],
     "format_page": "stories/PA-CH-09.html",
     "back_to_proposal": "index.html#PA-CH-09",
@@ -1802,10 +1765,10 @@
           1350
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-PA09-feed.png",
+        "file": "assets/social-formats/CH-PA09-FURNISHED-feed.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
-        "source_asset_id": "1Vdqj-Ccql1lDuiA3Jdaos3nKBdRZrIfu",
+        "source_asset_id": "1Sa-Ep647B6XLNE20GGvak8KYTpoWf7S2",
         "fit": "cover",
         "focal_point": [
           0.5,
@@ -1819,10 +1782,10 @@
           1920
         ],
         "type": "image",
-        "file": "assets/social-formats/CH-PA09-story.png",
+        "file": "assets/social-formats/CH-PA09-FURNISHED-story.png",
         "mime_type": "image/png",
         "status": "Prepared for visual review",
-        "source_asset_id": "1Vdqj-Ccql1lDuiA3Jdaos3nKBdRZrIfu",
+        "source_asset_id": "1Sa-Ep647B6XLNE20GGvak8KYTpoWf7S2",
         "fit": "cover",
         "focal_point": [
           0.5,

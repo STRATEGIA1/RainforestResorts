@@ -59,25 +59,25 @@ Read each concept approval state. A brief is not proof that missing final files 
     "proposed_end": "2026-11-15",
     "description": "Costa Rica your way",
     "asset_files": [
-      "assets/CH-P.jpg"
+      "assets/CH-PA01-TWO.jpg"
     ],
-    "production_gap": "Rainforest walkway introduces destination nature; no talent or category implied. Paid-use clearance still required.",
+    "production_gap": "Couple source selected from Drive. Complete photo shown for review. A different take or approved composition is needed for 4:5 and 9:16 without cutting either person.",
     "market_variants": [
       {
         "market": "United States",
         "language": "EN",
-        "copy": "Start with Costa Rica: rainforest paths, time outdoors and room to slow down together. Make the Arenal region part of your next trip. Then discover Chachagua Rainforest Resort & Hot Springs, a base for the days you want to share.",
+        "copy": "A little more time together. A little closer to the rainforest. Discover Chachagua Rainforest Resort & Hot Springs in Costa Rica’s Arenal region, and make room for days outdoors with your favorite person.",
         "headline": "A Costa Rica escape for two",
-        "story": "A Costa Rica escape for two. Discover the region, then explore your stay.",
+        "story": "Time together, surrounded by rainforest. Discover Chachagua in Costa Rica.",
         "cta": "Explore the Resort",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_en"
       },
       {
         "market": "Costa Rica",
         "language": "ES",
-        "copy": "Empiecen por Costa Rica: senderos entre el bosque, tiempo al aire libre y espacio para bajar el ritmo juntos. Incluyan la región de Arenal en su próximo viaje y descubran Chachagua Rainforest Resort & Hot Springs, una base para los días que quieren compartir.",
+        "copy": "Más tiempo juntos, más cerca del bosque. Descubran Chachagua Rainforest Resort & Hot Springs, en la región de Arenal, Costa Rica, y disfruten días al aire libre en pareja.",
         "headline": "Una escapada a Costa Rica para dos",
-        "story": "Una escapada a Costa Rica para dos. Descubre la región y luego tu hospedaje.",
+        "story": "Tiempo juntos, rodeados de bosque. Descubran Chachagua en Costa Rica.",
         "cta": "Conoce el resort",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_es"
       }
@@ -154,7 +154,7 @@ Read each concept approval state. A brief is not proof that missing final files 
     "asset_files": [
       "assets/selected-15.jpg"
     ],
-    "production_gap": "Selected after visual inspection. Landscape inset keeps building, access walkway and water feature together; no temperature or private-use claim. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "production_gap": "Closer aerial view of a raised timber building, walkway and round outdoor water feature among trees. Confirm currency, paid-use and any talent permissions before activation.",
     "market_variants": [
       {
         "market": "United States",
@@ -183,56 +183,27 @@ Read each concept approval state. A brief is not proof that missing final files 
     "proposed_end": "2026-11-30",
     "description": "Costa Rica your way",
     "asset_files": [
-      "assets/CH-V.jpg"
+      "assets/CH-PA05-GROUP.jpg"
     ],
-    "production_gap": "Verify category, currency and advertising rights; prepare a vertical crop distinct from the feed.",
+    "production_gap": "Family of five with their guide: six people visible. Feed prepared with the full group; Story requires another take or an approved composition preserving all six people. Paid-use and talent permissions pending.",
     "market_variants": [
       {
         "market": "United States",
         "language": "EN",
-        "copy": "Dates, travellers, and room arrangements: start with what your group needs. Visit Chachagua Rainforest Resort & Hot Springs and request a proposal with clear accommodation and logistics.",
+        "copy": "The best part of a family trip? Discovering something together. From a guided nature outing to time back at your accommodation, plan a Chachagua stay around your group. Tell us your dates and party size, and ask about room arrangements and experiences.",
         "headline": "Plan the Group Trip",
-        "story": "Plan the Group Trip. Explore accommodation and plan your stay.",
+        "story": "Bring the family. Discover Chachagua together and ask about your group’s stay.",
         "cta": "Enquire About Your Stay",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_en"
       },
       {
         "market": "Costa Rica",
         "language": "ES",
-        "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Chachagua Rainforest Resort & Hot Springs y solicita una propuesta con categorías y logística claras.",
+        "copy": "¿Lo mejor de un viaje en familia? Descubrir algo juntos. Desde una salida guiada de naturaleza hasta el regreso al hospedaje, planeen su estadía en Chachagua a la medida del grupo. Cuéntennos sus fechas y cuántas personas viajan para consultar habitaciones y experiencias.",
         "headline": "Planeemos el viaje del grupo",
-        "story": "Planeemos el viaje del grupo. Conoce las categorías y consulta su propuesta.",
+        "story": "Viajen en familia. Descubran Chachagua juntos y consulten la estadía del grupo.",
         "cta": "Consulta tu estadía",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_es"
-      }
-    ]
-  },
-  {
-    "id": "PA-CH-06",
-    "resort": "Chachagua",
-    "proposed_start": "2026-12-03",
-    "proposed_end": "2026-12-12",
-    "description": "Costa Rica your way",
-    "asset_files": [],
-    "production_gap": "Capture an actual scene with people and obtain permission.",
-    "market_variants": [
-      {
-        "market": "United States",
-        "language": "EN",
-        "copy": "Some holiday days work beautifully with fewer bookings. Discover Chachagua Rainforest Resort & Hot Springs and start planning Costa Rica with selected experiences and time of your own.",
-        "headline": "Room for a Pause",
-        "story": "Room for a Pause. Explore the resort and plan your visit.",
-        "cta": "Discover the Resort",
-        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-06_en"
-      },
-      {
-        "market": "Costa Rica",
-        "language": "ES",
-        "copy": "Hay días que se disfrutan con menos reservas. Descubre Chachagua Rainforest Resort & Hot Springs y empieza a diseñar una visita a Costa Rica con experiencias elegidas y tiempo propio.",
-        "headline": "Una pausa dentro del viaje",
-        "story": "Una pausa dentro del viaje. Descubre el resort y diseña tu visita.",
-        "cta": "Descubre el resort",
-        "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-06_es"
       }
     ]
   },
@@ -250,18 +221,18 @@ Read each concept approval state. A brief is not proof that missing final files 
       {
         "market": "United States",
         "language": "EN",
-        "copy": "Canopy or a nature outing: choose what actually interests your group. Enquire through Chachagua Rainforest Resort & Hot Springs about external experiences, participation, and transport.",
-        "headline": "Something to Share",
-        "story": "Something to Share. Explore the resort and plan your visit.",
+        "copy": "We love helping you add a little adventure to your Costa Rica stay. Thinking of zip-lining above the forest with friends? At Chachagua Rainforest Resort & Hot Springs, we can help you explore off-site canopy options. Ask us about participation requirements, costs and transport.",
+        "headline": "Adventure to Share",
+        "story": "We’ll help you explore off-site canopy options for your Costa Rica stay.",
         "cta": "Explore the Trip",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_en"
       },
       {
         "market": "Costa Rica",
         "language": "ES",
-        "copy": "Canopy o una experiencia de naturaleza: elijan lo que de verdad les interesa. Desde Chachagua Rainforest Resort & Hot Springs, consulta opciones externas, participación y transporte para su grupo.",
-        "headline": "Una experiencia para compartir",
-        "story": "Una experiencia para compartir. Descubre el resort y diseña tu visita.",
+        "copy": "Nos encanta ayudarte a sumar aventura a tu estadía en Costa Rica. ¿Te imaginas recorrer el canopy sobre el bosque con amigos? En Chachagua Rainforest Resort & Hot Springs te ayudamos a explorar opciones de canopy fuera del hotel. Consúltanos requisitos de participación, costos y transporte.",
+        "headline": "Aventura para compartir",
+        "story": "Te ayudamos a explorar opciones de canopy fuera del hotel para tu estadía en Costa Rica.",
         "cta": "Explora el viaje",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_es"
       }
@@ -274,25 +245,25 @@ Read each concept approval state. A brief is not proof that missing final files 
     "proposed_end": "2026-12-25",
     "description": "Costa Rica your way",
     "asset_files": [
-      "assets/selected-00.jpg"
+      "assets/CH-PA08-CACAO.jpg"
     ],
-    "production_gap": "Selected after visual inspection. Keep the whole grinding slab in a landscape inset; aggressive portrait crops remove the tool. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+    "production_gap": "Adult participant grinding cacao with a pestle during the Chachagua coffee and chocolate workshop. Confirm currency, paid-use and any talent permissions before activation.",
     "market_variants": [
       {
         "market": "United States",
         "language": "EN",
-        "copy": "The coffee and chocolate tour takes place at Chachagua. Ask Chachagua Rainforest Resort & Hot Springs about ages, access, costs, and logistics for your family, and see how it could fit your stay.",
-        "headline": "Cacao and New Questions",
-        "story": "Cacao and New Questions. Explore the resort and plan your visit.",
+        "copy": "Chocolate tastes even better when you discover how it’s made. At Chachagua’s Coffee & Chocolate Tour, explore the journey from cacao fruit to chocolate and take part in a hands-on cacao workshop. Make it a shared discovery during your family’s Costa Rica stay.",
+        "headline": "Make Time for Chocolate",
+        "story": "From cacao to chocolate: a hands-on discovery at Chachagua.",
         "cta": "Explore Your Stay",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_en"
       },
       {
         "market": "Costa Rica",
         "language": "ES",
-        "copy": "El tour de café y chocolate ocurre en Chachagua. Consulta con Chachagua Rainforest Resort & Hot Springs edades, acceso, costos y logística para tu familia, y descubre cómo puede encajar en la estadía.",
-        "headline": "Del cacao a nuevas preguntas",
-        "story": "Del cacao a nuevas preguntas. Descubre el resort y diseña tu visita.",
+        "copy": "El chocolate se disfruta aún más cuando descubres cómo se hace. En el Tour de Café y Chocolate de Chachagua, conoce el recorrido del fruto del cacao al chocolate y participa en un taller práctico. Compartan este descubrimiento durante su estadía en Costa Rica.",
+        "headline": "Un momento para el chocolate",
+        "story": "Del cacao al chocolate: un descubrimiento práctico en Chachagua.",
         "cta": "Conoce cómo planearlo",
         "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_es"
       }
@@ -305,9 +276,9 @@ Read each concept approval state. A brief is not proof that missing final files 
     "proposed_end": "2026-12-27",
     "description": "Costa Rica your way",
     "asset_files": [
-      "assets/CH-PA09-DJI0094.jpg"
+      "assets/b01-hacienda-cercone-terrace-pool.jpg"
     ],
-    "production_gap": "Selected DJI_0094.JPG for this creative. Confirm paid-use clearance and final placement framing before ad activation.",
+    "production_gap": "Hacienda Cercone covered terrace with timber columns, lounge seating and swimming pool. Confirm currency, paid-use and any talent permissions before activation.",
     "market_variants": [
       {
         "market": "United States",

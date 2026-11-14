@@ -1,0 +1,455 @@
+## PA-CH-01 · United States · EN
+
+Headline: A Costa Rica escape for two
+
+A little more time together. A little closer to the rainforest. Discover Chachagua Rainforest Resort & Hot Springs in Costa Rica’s Arenal region, and make room for days outdoors with your favorite person.
+
+CTA: Explore the Resort
+
+Stories: Time together, surrounded by rainforest. Discover Chachagua in Costa Rica.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_en
+
+## PA-CH-01 · Costa Rica · ES
+
+Headline: Una escapada a Costa Rica para dos
+
+Más tiempo juntos, más cerca del bosque. Descubran Chachagua Rainforest Resort & Hot Springs, en la región de Arenal, Costa Rica, y disfruten días al aire libre en pareja.
+
+CTA: Conoce el resort
+
+Stories: Tiempo juntos, rodeados de bosque. Descubran Chachagua en Costa Rica.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_es
+
+## PA-CH-02 · United States · EN
+
+Headline: Arenal, at different paces
+
+Canopy above the forest or a slower outing close to nature? A Costa Rica trip with friends can make room for different interests. Explore the Arenal region, then plan a stay at Chachagua Rainforest Resort & Hot Springs. External activities and transport are arranged separately.
+
+CTA: Explore the Possibilities
+
+Stories: Arenal, at different paces. Discover the region, then explore your stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_en
+
+## PA-CH-02 · Costa Rica · ES
+
+Headline: Arenal, a distintos ritmos
+
+¿Canopy sobre el bosque o una salida más tranquila cerca de la naturaleza? Un viaje con amigos a Costa Rica puede dejar espacio para distintos intereses. Exploren la región de Arenal y planeen su estadía en Chachagua Rainforest Resort & Hot Springs. Las actividades externas y los traslados se coordinan por separado.
+
+CTA: Descubre las posibilidades
+
+Stories: Arenal, a distintos ritmos. Descubre la región y luego tu hospedaje.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_es
+
+## PA-CH-03 · United States · EN
+
+Headline: Costa Rica starts with curiosity
+
+A birdcall. A new trail. A question your children want to explore. Discover the rainforest side of Costa Rica, then choose Chachagua Rainforest Resort & Hot Springs as a base for your family’s journey. Ask our Travel Designers about experiences suited to your children’s ages.
+
+CTA: Start Exploring
+
+Stories: Costa Rica starts with curiosity. Discover the region, then explore your stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_en
+
+## PA-CH-03 · Costa Rica · ES
+
+Headline: Costa Rica empieza con curiosidad
+
+Un canto de ave. Un sendero nuevo. Una pregunta que tus hijos quieren explorar. Descubre el lado de bosque tropical de Costa Rica y elige Chachagua Rainforest Resort & Hot Springs como base para el viaje en familia. Consulta con nuestros Travel Designers por experiencias adecuadas para las edades de tus hijos.
+
+CTA: Empieza a explorar
+
+Stories: Costa Rica empieza con curiosidad. Descubre la región y luego tu hospedaje.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_es
+
+## PA-CH-04 · United States · EN
+
+Headline: Choose Your Place to Return
+
+Your accommodation is part of the holiday. Explore Chachagua Rainforest Resort & Hot Springs and enquire about category features, availability, and conditions for your travel dates.
+
+CTA: Explore Accommodation
+
+Stories: Choose Your Place to Return. Explore accommodation and plan your stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_en
+
+## PA-CH-04 · Costa Rica · ES
+
+Headline: Elige cómo quieres regresar
+
+La habitación también forma parte del viaje. Conoce las categorías de Chachagua Rainforest Resort & Hot Springs y consulta características, disponibilidad y condiciones para tus fechas.
+
+CTA: Conoce las categorías
+
+Stories: Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_es
+
+## PA-CH-05 · United States · EN
+
+Headline: Plan the Group Trip
+
+The best part of a family trip? Discovering something together. From a guided nature outing to time back at your accommodation, plan a Chachagua stay around your group. Tell us your dates and party size, and ask about room arrangements and experiences.
+
+CTA: Enquire About Your Stay
+
+Stories: Bring the family. Discover Chachagua together and ask about your group’s stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_en
+
+## PA-CH-05 · Costa Rica · ES
+
+Headline: Planeemos el viaje del grupo
+
+¿Lo mejor de un viaje en familia? Descubrir algo juntos. Desde una salida guiada de naturaleza hasta el regreso al hospedaje, planeen su estadía en Chachagua a la medida del grupo. Cuéntennos sus fechas y cuántas personas viajan para consultar habitaciones y experiencias.
+
+CTA: Consulta tu estadía
+
+Stories: Viajen en familia. Descubran Chachagua juntos y consulten la estadía del grupo.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_es
+
+## PA-CH-07 · United States · EN
+
+Headline: Adventure to Share
+
+We love helping you add a little adventure to your Costa Rica stay. Thinking of zip-lining above the forest with friends? At Chachagua Rainforest Resort & Hot Springs, we can help you explore off-site canopy options. Ask us about participation requirements, costs and transport.
+
+CTA: Explore the Trip
+
+Stories: We’ll help you explore off-site canopy options for your Costa Rica stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_en
+
+## PA-CH-07 · Costa Rica · ES
+
+Headline: Aventura para compartir
+
+Nos encanta ayudarte a sumar aventura a tu estadía en Costa Rica. ¿Te imaginas recorrer el canopy sobre el bosque con amigos? En Chachagua Rainforest Resort & Hot Springs te ayudamos a explorar opciones de canopy fuera del hotel. Consúltanos requisitos de participación, costos y transporte.
+
+CTA: Explora el viaje
+
+Stories: Te ayudamos a explorar opciones de canopy fuera del hotel para tu estadía en Costa Rica.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_es
+
+## PA-CH-08 · United States · EN
+
+Headline: Make Time for Chocolate
+
+Chocolate tastes even better when you discover how it’s made. At Chachagua’s Coffee & Chocolate Tour, explore the journey from cacao fruit to chocolate and take part in a hands-on cacao workshop. Make it a shared discovery during your family’s Costa Rica stay.
+
+CTA: Explore Your Stay
+
+Stories: From cacao to chocolate: a hands-on discovery at Chachagua.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_en
+
+## PA-CH-08 · Costa Rica · ES
+
+Headline: Un momento para el chocolate
+
+El chocolate se disfruta aún más cuando descubres cómo se hace. En el Tour de Café y Chocolate de Chachagua, conoce el recorrido del fruto del cacao al chocolate y participa en un taller práctico. Compartan este descubrimiento durante su estadía en Costa Rica.
+
+CTA: Conoce cómo planearlo
+
+Stories: Del cacao al chocolate: un descubrimiento práctico en Chachagua.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_es
+
+## PA-CH-09 · United States · EN
+
+Headline: Plan Your Next Stay
+
+Tell us your dates and what you want from the trip. Ask Chachagua Rainforest Resort & Hot Springs for a proposal with accommodation and stay conditions confirmed for you.
+
+CTA: Plan Your Trip
+
+Stories: Plan Your Next Stay. Explore accommodation and plan your stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_en
+
+## PA-CH-09 · Costa Rica · ES
+
+Headline: Tu próxima visita, con detalles claros
+
+Cuéntanos sus fechas y lo que esperan del viaje. En Chachagua Rainforest Resort & Hot Springs, consulta una propuesta con la categoría y las condiciones de estadía confirmadas para ustedes.
+
+CTA: Diseña tu viaje
+
+Stories: Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_es
+
+## PA-CH-10 · United States · EN
+
+Headline: Start With Your Dates
+
+Your 2027 trip can begin with a conversation. Visit Chachagua Rainforest Resort & Hot Springs and enquire about availability, accommodation, and conditions to turn the idea into a clear proposal.
+
+CTA: Enquire About Availability
+
+Stories: Start With Your Dates. Explore accommodation and plan your stay.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_en
+
+## PA-CH-10 · Costa Rica · ES
+
+Headline: Empecemos por sus fechas
+
+El viaje de 2027 puede empezar con una conversación. Visita Chachagua Rainforest Resort & Hot Springs y consulta disponibilidad, categoría y condiciones para convertir la idea en una propuesta concreta.
+
+CTA: Consulta disponibilidad
+
+Stories: Empecemos por sus fechas. Conoce las categorías y consulta su propuesta.
+
+Link: https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_es
+
+## PA-AR-01 · United States · EN
+
+Headline: A Costa Rica escape for two
+
+Start with Costa Rica: rainforest paths, time outdoors and room to slow down together. Make the Arenal region part of your next trip. Then discover Arenal Rainforest Resort, a base for the days you want to share. Confirm your category and stay conditions.
+
+CTA: Explore the Resort
+
+Stories: A Costa Rica escape for two. Discover the region, then explore your stay.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_en
+
+## PA-AR-01 · Costa Rica · ES
+
+Headline: Una escapada a Costa Rica para dos
+
+Empiecen por Costa Rica: senderos entre el bosque, tiempo al aire libre y espacio para bajar el ritmo juntos. Incluyan la región de Arenal en su próximo viaje y descubran Arenal Rainforest Resort, una base para los días que quieren compartir. Consulta categoría y condiciones para tus fechas.
+
+CTA: Conoce el resort
+
+Stories: Una escapada a Costa Rica para dos. Descubre la región y luego tu hospedaje.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_es
+
+## PA-AR-02 · United States · EN
+
+Headline: Arenal, at different paces
+
+Canopy above the forest or a slower outing close to nature? A Costa Rica trip with friends can make room for different interests. Explore the Arenal region, then plan a stay at Arenal Rainforest Resort. External activities and transport are arranged separately. Confirm your category and stay conditions.
+
+CTA: Explore the Possibilities
+
+Stories: Arenal, at different paces. Discover the region, then explore your stay.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_en
+
+## PA-AR-02 · Costa Rica · ES
+
+Headline: Arenal, a distintos ritmos
+
+¿Canopy sobre el bosque o una salida más tranquila cerca de la naturaleza? Un viaje con amigos a Costa Rica puede dejar espacio para distintos intereses. Exploren la región de Arenal y planeen su estadía en Arenal Rainforest Resort. Las actividades externas y los traslados se coordinan por separado. Consulta categoría y condiciones para tus fechas.
+
+CTA: Descubre las posibilidades
+
+Stories: Arenal, a distintos ritmos. Descubre la región y luego tu hospedaje.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_es
+
+## PA-AR-03 · United States · EN
+
+Headline: Costa Rica starts with curiosity
+
+A birdcall. A new trail. A question your children want to explore. Discover the rainforest side of Costa Rica, then choose Arenal Rainforest Resort as a base for your family’s journey. Ask our Travel Designers about experiences suited to your children’s ages. Confirm your category and stay conditions.
+
+CTA: Start Exploring
+
+Stories: Costa Rica starts with curiosity. Discover the region, then explore your stay.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_en
+
+## PA-AR-03 · Costa Rica · ES
+
+Headline: Costa Rica empieza con curiosidad
+
+Un canto de ave. Un sendero nuevo. Una pregunta que tus hijos quieren explorar. Descubre el lado de bosque tropical de Costa Rica y elige Arenal Rainforest Resort como base para el viaje en familia. Consulta con nuestros Travel Designers por experiencias adecuadas para las edades de tus hijos. Consulta categoría y condiciones para tus fechas.
+
+CTA: Empieza a explorar
+
+Stories: Costa Rica empieza con curiosidad. Descubre la región y luego tu hospedaje.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_es
+
+## PA-AR-04 · United States · EN
+
+Headline: Choose Your Place to Return
+
+Your accommodation is part of the holiday. Explore Arenal Rainforest Resort and enquire about category features, availability, and conditions for your travel dates. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.
+
+CTA: Explore Accommodation
+
+Stories: Choose Your Place to Return. Explore accommodation and plan your stay. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_en
+
+## PA-AR-04 · Costa Rica · ES
+
+Headline: Elige cómo quieres regresar
+
+La habitación también forma parte del viaje. Conoce las categorías de Arenal Rainforest Resort y consulta características, disponibilidad y condiciones para tus fechas. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.
+
+CTA: Conoce las categorías
+
+Stories: Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_es
+
+## PA-AR-05 · United States · EN
+
+Headline: Plan the Group Trip
+
+Dates, travellers, and room arrangements: start with what your group needs. Visit Arenal Rainforest Resort and request a proposal with clear accommodation and logistics. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.
+
+CTA: Enquire About Your Stay
+
+Stories: Plan the Group Trip. Explore accommodation and plan your stay. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_en
+
+## PA-AR-05 · Costa Rica · ES
+
+Headline: Planeemos el viaje del grupo
+
+Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Arenal Rainforest Resort y solicita una propuesta con categorías y logística claras. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.
+
+CTA: Consulta tu estadía
+
+Stories: Planeemos el viaje del grupo. Conoce las categorías y consulta su propuesta. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_es
+
+## PA-AR-06 · United States · EN
+
+Headline: Room for a Pause
+
+Some holiday days work beautifully with fewer bookings. Discover Arenal Rainforest Resort and start planning Costa Rica with selected experiences and time of your own. Confirm your category and stay conditions.
+
+CTA: Discover the Resort
+
+Stories: Room for a Pause. Explore the resort and plan your visit. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_en
+
+## PA-AR-06 · Costa Rica · ES
+
+Headline: Una pausa dentro del viaje
+
+Hay días que se disfrutan con menos reservas. Descubre Arenal Rainforest Resort y empieza a diseñar una visita a Costa Rica con experiencias elegidas y tiempo propio. Consulta categoría y condiciones para tus fechas.
+
+CTA: Descubre el resort
+
+Stories: Una pausa dentro del viaje. Descubre el resort y diseña tu visita. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_es
+
+## PA-AR-07 · United States · EN
+
+Headline: Something to Share
+
+Canopy or a nature outing: choose what actually interests your group. Enquire through Arenal Rainforest Resort about external experiences, participation, and transport. Confirm your category and stay conditions.
+
+CTA: Explore the Trip
+
+Stories: Something to Share. Explore the resort and plan your visit. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_en
+
+## PA-AR-07 · Costa Rica · ES
+
+Headline: Una experiencia para compartir
+
+Canopy o una experiencia de naturaleza: elijan lo que de verdad les interesa. Desde Arenal Rainforest Resort, consulta opciones externas, participación y transporte para su grupo. Consulta categoría y condiciones para tus fechas.
+
+CTA: Explora el viaje
+
+Stories: Una experiencia para compartir. Descubre el resort y diseña tu visita. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_es
+
+## PA-AR-08 · United States · EN
+
+Headline: Cacao and New Questions
+
+The coffee and chocolate tour takes place at Chachagua. Ask Arenal Rainforest Resort about ages, access, costs, and logistics for your family, and see how it could fit your stay. Confirm your category and stay conditions.
+
+CTA: Explore Your Stay
+
+Stories: Cacao and New Questions. Explore the resort and plan your visit. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_en
+
+## PA-AR-08 · Costa Rica · ES
+
+Headline: Del cacao a nuevas preguntas
+
+El tour de café y chocolate ocurre en Chachagua. Consulta con Arenal Rainforest Resort edades, acceso, costos y logística para tu familia, y descubre cómo puede encajar en la estadía. Consulta categoría y condiciones para tus fechas.
+
+CTA: Conoce cómo planearlo
+
+Stories: Del cacao a nuevas preguntas. Descubre el resort y diseña tu visita. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_es
+
+## PA-AR-09 · United States · EN
+
+Headline: Plan Your Next Stay
+
+Tell us your dates and what you want from the trip. Ask Arenal Rainforest Resort for a proposal with accommodation and stay conditions confirmed for you. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.
+
+CTA: Plan Your Trip
+
+Stories: Plan Your Next Stay. Explore accommodation and plan your stay. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_en
+
+## PA-AR-09 · Costa Rica · ES
+
+Headline: Tu próxima visita, con detalles claros
+
+Cuéntanos sus fechas y lo que esperan del viaje. En Arenal Rainforest Resort, consulta una propuesta con la categoría y las condiciones de estadía confirmadas para ustedes. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.
+
+CTA: Diseña tu viaje
+
+Stories: Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_es
+
+## PA-AR-10 · United States · EN
+
+Headline: Start With Your Dates
+
+Your 2027 trip can begin with a conversation. Visit Arenal Rainforest Resort and enquire about availability, accommodation, and conditions to turn the idea into a clear proposal. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.
+
+CTA: Enquire About Availability
+
+Stories: Start With Your Dates. Explore accommodation and plan your stay. Confirm conditions.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_en
+
+## PA-AR-10 · Costa Rica · ES
+
+Headline: Empecemos por sus fechas
+
+El viaje de 2027 puede empezar con una conversación. Visita Arenal Rainforest Resort y consulta disponibilidad, categoría y condiciones para convertir la idea en una propuesta concreta. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.
+
+CTA: Consulta disponibilidad
+
+Stories: Empecemos por sus fechas. Conoce las categorías y consulta su propuesta. Consulta condiciones.
+
+Link: https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_es

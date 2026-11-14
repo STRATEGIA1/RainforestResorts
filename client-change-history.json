@@ -1,0 +1,381 @@
+{
+  "source_version": "c24d88842ad290b79d8b",
+  "date": "2026-11-14",
+  "publication_status": "Revised preview; synchronization in progress",
+  "entries": [
+    {
+      "comment_id": "7dc0b119-57f9-4d19-8ccd-bc071c2d6618",
+      "author": "Andres",
+      "piece": "B02-S1",
+      "request": "Keep the selected friends-on-the-river photograph.",
+      "change": "Retained the photograph as requested; positive feedback recorded without treating it as formal copy approval.",
+      "status": "Retained"
+    },
+    {
+      "comment_id": "701956f7-c11a-4f42-b641-0c6805b80044",
+      "author": "Sergio",
+      "piece": "Meta audience strategy",
+      "request": "Compare lookalike, broad Advantage+ and interest-led TOFU audiences.",
+      "change": "Added three test hypotheses, staged within the existing US TOFU budget, with eligibility and isolation caveats.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "1e90d596-89f4-40c9-8c2a-d3dbf7976f6b",
+      "author": "Maria Jose Barquero",
+      "piece": "CH01 · Instagram",
+      "request": "Replace the introduction with a more expressive sister-resort announcement.",
+      "change": "Revised English caption and Spanish translation; retained the official Arenal Rainforest Resort name and Instagram bio CTA. Facebook remains platform-specific.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "41f6575d-6502-45e9-845c-6ffd06023b48",
+      "author": "Sergio",
+      "piece": "Media investment",
+      "request": "Prioritise the US, defer Europe and show TOFU 60% / MOFU 20% / BOFU 20%.",
+      "change": "Applied the user-confirmed Meta market split: US 85% / Costa Rica 15% / Europe 0%. Added monthly and campaign phase totals; OpenAI remains US$2,000.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "d95ebba9-e2fb-49ba-afc6-c1f8b3f07412",
+      "author": "Sofia",
+      "piece": "B03-S2",
+      "request": "Change the rainforest-walkway photograph selected in the page annotation.",
+      "change": "Resolved the saved a502 photo anchor to B03-S2. Replaced it with a visually inspected coffee preparation detail, matching the family/culinary blog context. The other anchor points to a calendar cell, not another photo.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "1a445d16-60be-4629-8df4-bedae788cee4",
+      "author": "Sofia",
+      "piece": "B04-S2",
+      "request": "Change the repeated terrace photograph.",
+      "change": "Replaced the terrace with an Arenal volcano photograph and checked the centred 4:5 crop.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "d5d2c833-8bd8-4064-a08b-0dd9556bbd81",
+      "author": "Sergio",
+      "piece": "Meta creatives and credibility",
+      "request": "Add destination-first cold-audience options and trust evidence such as reviews and awards.",
+      "change": "Rewrote six existing TOFU concepts (three per resort) in EN/ES to introduce Costa Rica before the resort. Preserved destinations, IDs and Arenal operational disclosures. Added a trust-evidence production requirement; ratings, guest quotations and awards await source/date/permission verification.",
+      "status": "Partially applied · evidence pending"
+    },
+    {
+      "comment_id": "7e13ecfb-2a39-441c-816b-287bbcde9313",
+      "author": "Sofia",
+      "piece": "B04-S2",
+      "request": "Differentiate the two launch-blog invitations.",
+      "change": "Wrote a separate six-night/two-base story angle in EN/ES, with platform-specific CTAs and a distinct image.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "668341fa-607e-4185-8354-edd86a4539a2",
+      "author": "Sofia",
+      "piece": "Organic calendar and photo rhythm",
+      "request": "Vary repeated photos and alternate nature, accommodation, culinary and tour content.",
+      "change": "Removed the repeated Arenal bedroom pairing (AR05 now uses a distinct room angle; AR10 uses the resort pool). Reordered the first four Chachagua slots as nature, accommodation, culinary, excursion, keeping IDs. Changed B03-S2/B04-S2 imagery. Full strict rotation is not claimed: six monthly posts, the three specifically requested videos and the missing CH11 horseback asset still constrain the sequence.",
+      "status": "Applied locally · rotation limits noted"
+    },
+    {
+      "comment_id": "user-browser-20261103-b03-s2",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "B03-S2",
+      "request": "Replace the repeated photograph with this family grinding coffee at the table.",
+      "change": "Selected a visually inspected family workshop frame, preserving all five faces. The visible activity is cacao preparation; exact coffee-grinding match remains unverified.",
+      "status": "Applied locally · coffee-specific match pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-b04-s1",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "B04-S1",
+      "request": "Use a One Bedroom Vista Arenal photograph.",
+      "change": "Replaced the Chachagua terrace with a verified One Bedroom Vista Arenal interior; inset preserves the two-bed layout.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-ch01",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "CH01",
+      "request": "Use another One Bedroom Vista Arenal drone photograph.",
+      "change": "Selected a distinct top-down aerial and identified it as the sister property, retaining the Chachagua post and María José’s Instagram copy.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-ch02",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "CH02",
+      "request": "Use the Ceibo tree and forest, preferably visitors embracing it.",
+      "change": "Selected a client-library La Ceiba Chachagua aerial showing the emergent tree and forest. No visitors are depicted.",
+      "status": "Applied locally · visitor preference unavailable"
+    },
+    {
+      "comment_id": "user-browser-20261103-ar05",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "AR05",
+      "request": "Show more of the Bungalow Arenal terrace.",
+      "change": "Selected a covered-terrace photograph showing the table, chairs, sliding doors and garden.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-ar01",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "AR01",
+      "request": "Use the pool rather than another bed photograph.",
+      "change": "Selected a verified One Bedroom Vista Arenal pool-and-volcano photograph.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-ar07",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "AR07",
+      "request": "Introduce the new One Bedroom Vista Arenal rooms with a warmer invitation to notice the details.",
+      "change": "Revised Instagram and Facebook in English and Spanish.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-ar08",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "AR08",
+      "request": "Describe a birdwatching outing from Arenal to Chachagua warmly; do not crop the animal.",
+      "change": "Revised both platforms and languages; reframed the bird and preserved its complete visible body in the Story. Avoided an unverified exact distance.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-ar09",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "AR09",
+      "request": "Rewrite the Pocosol caption with a natural, descriptive voice and centre the guide without cutting him.",
+      "change": "Revised both platforms in EN/ES; used a subject-centred feed crop and the full source photograph for the Story. Source already ends above the guide’s feet; no additional body crop or invented anatomy. Context identifies this as a Chachagua guide photograph.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-proposal-cover",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "Proposal cover",
+      "request": "Use a One Bedroom Vista Arenal drone photograph on the proposal cover.",
+      "change": "Replaced the Two Bedroom Villa terrace cover with an inspected One Bedroom Vista Arenal aerial.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-calendar-brand-colours",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "Calendar · November and December 2026",
+      "request": "Differentiate Arenal and Chachagua posts with terracotta and olive green in both months, and save this rule in both presentation skills.",
+      "change": "Applied publishing-brand colours in grid and list views for both months, added a labelled legend, and saved the rule in STRATEGIA Creative Plan [EN] and [ES].",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-internal-brief",
+      "source": "Direct user browser annotation in this chat; not a service comment ID",
+      "author": "Andres",
+      "piece": "B04 · English and Spanish / STRATEGIA guest-copy guidance",
+      "request": "Never mention the internal launch brief in guest- or prospect-facing copy. Preserve the Zúñiga family story.",
+      "change": "Removed six launch/brand brief references from both B04 article versions; retained the family narrative. Added the internal-brief boundary to hotel-content and both presentation skills.",
+      "status": "Applied locally"
+    },
+    {
+      "comment_id": "user-browser-20261103-editorial-calendar",
+      "author": "Andres",
+      "piece": "Calendar · November & December / ChatGPT Ads",
+      "request": "Assign dates to every social post; exclude all paid ads from the calendar; use one Rainforest Resorts ChatGPT account.",
+      "change": "Dated editorial calendar retains organic posts, snippets, blogs and guest newsletter only. OpenAI account and handoff now specify one shared account with monthly caps.",
+      "status": "Applied locally; not platform-scheduled or published"
+    },
+    {
+      "comment_id": "user-browser-20261103-family-travel-designers",
+      "author": "Andres",
+      "piece": "B04 · EN/ES",
+      "request": "Develop the Zúñiga family acquisition and investment story separately from the Travel Designers role.",
+      "change": "Replaced the combined paragraph with two developed paragraphs in both languages. Arenal’s future success is expressed as a family ambition, not a guaranteed outcome.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-curated-experiences",
+      "author": "Andres",
+      "piece": "B04 · EN/ES",
+      "request": "Remove internal catalogue preparation; explain curated off-site experiences at both resorts; separate Arenal improvements.",
+      "change": "Guest-facing copy now explains the shared selection of off-site experiences and Travel Designer coordination. Separate paragraph introduces the operating hotel’s new name, improvements begun in 2026 and an invitation to ask for recently renovated rooms.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-b04-brand-voice",
+      "author": "Andres",
+      "piece": "B04 · EN/ES",
+      "request": "Use a natural first-person narrative and keep the combined Chachagua-to-Arenal journey connected throughout the article.",
+      "change": "Rewrote both complete articles in the Rainforest Resorts brand voice, preserving family history, three selected experiences, six-night itinerary, room guidance and clear renovation information. Replaced abstract itinerary transitions with direct recommendations.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-b04-coffee-table",
+      "author": "Andres",
+      "piece": "B04 · Coffee & chocolate · EN/ES",
+      "request": "Describe the tour naturally and recommend details guests should notice, explaining the processes before products reach the table.",
+      "change": "Replaced the generic tour paragraph with first-person recommendations to observe demonstrations, ask about cacao and coffee processes, and notice aromas and flavours during included tastings.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-adviser-style-consistency",
+      "author": "Andres · feedback from Sofía",
+      "piece": "B04 · EN/ES / Hotel content skill",
+      "request": "Use one consistent expert-adviser narrator, natural Spanish and concrete time to enjoy the resort; use experiencias instead of descubrimientos for activities.",
+      "change": "Reviewed both complete articles in first-person singular with consistent tú/you. Removed corporate ownership/reservations voice, added room/patio/pool/evening/dining advice, retained real family history and factual conditions, and saved reusable voice and Spanish vocabulary rules in hotel-content. Aligned remaining Spanish discovery-as-activity wording in newsletter and AR09.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-travel-designers-name",
+      "author": "Andres",
+      "piece": "B04 · Night walk · EN/ES",
+      "request": "Use Nuestros Travel Designers te… instead of the generic equipo in the night-walk advice.",
+      "change": "Named the Travel Designers explicitly in both languages as the advisers who explain the route, equipment and participation requirements.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "user-browser-20261103-b04-closing-and-faqs",
+      "author": "Andres",
+      "piece": "B04 · EN/ES",
+      "request": "Connect Chachagua culture with Arenal springs and regional adventures; revise itinerary, renovated room, volcano orientation and transfer FAQs; carry all Spanish changes and expert narrator into English.",
+      "change": "Expanded the closing to connect both resorts with optional regional adventures. FAQ now starts Sí, podemos / Yes, we can, identifies One Bedroom Vista Arenal as the principal renovated category, records client confirmation that all Arenal room terraces face the volcano with weather-dependent visibility, and explains hotel-booked transfers paid directly to the hotel. Both complete articles retain the same expert-adviser personality.",
+      "status": "Applied locally; publication pending"
+    },
+    {
+      "comment_id": "Local browser annotations · 2026-11-03 · blog covers and numbering",
+      "author": "Andres",
+      "piece": "Blogs and blog snippets",
+      "request": "Number the launch article as Blog 1, update all references, use distinct horizontal covers, retain the couples-blog walkway and fill the safari cover width.",
+      "change": "Renumbered blogs chronologically B01–B04 and all eight snippets, article files, newsletter links, calendar and Excel. Selected Arenal aerial, retained rainforest walkway, safari float and family cacao photographs. Review storage identities remain unchanged; visible labels follow current numbering.",
+      "status": "Applied locally; not published"
+    },
+    {
+      "comment_id": "Local browser annotations · 2026-11-03 · B03 editorial photos / Ceibo",
+      "author": "Andres",
+      "piece": "B03 EN/ES; CH02",
+      "request": "Add two guests with a guide, canopy, safari float and Jungle Tree House photographs; use the specified Ceibo photograph in a relevant creative.",
+      "change": "Visually selected DSC07223-Mejorado-NR.jpg for two guests and a guide; added Ecoglide, Safari 29.jpg and Jungle Tree House imagery with localised captions. Retained the exact Ceibo asset in CH02 and named the tree in both English and Spanish captions. Full original inline compositions preserve people.",
+      "status": "Applied locally; not published"
+    },
+    {
+      "comment_id": "Local browser annotations · 2026-11-03 · CH01 B01-S1 AR03 AR04 photo revisions",
+      "author": "Andres",
+      "piece": "CH01; B01-S1; AR03; AR04",
+      "request": "Move CH01 aerial to B01-S1, find Vista Arenal terrace for CH01, use specified DSC05117 for AR03 and show all coffee-tour tourists in AR04.",
+      "change": "Selected Vista Arenal terrace DSC06705; moved aerial to B01-S1; installed requested AR03 room image; selected DSCF7636 with all five tourists in an uncropped portrait composition. Feed downloads and Stories rebuilt.",
+      "status": "Applied locally; not published"
+    },
+    {
+      "comment_id": "Local browser annotations · 2026-11-03 · Meta and snippet media formats",
+      "author": "Andres",
+      "piece": "All Meta Ads and blog social snippets",
+      "request": "Present downloadable 4:5 and 9:16 image/video formats with the same buttons as organic social posts; save in both EN/ES presentation skills.",
+      "change": "Added per-piece media formats, actual 4:5 preview, PNG feed/Story exports and Story pages for Meta Ads and all blog snippets. Video entries retain paired MP4 exports. Missing media remains explicitly pending. Preserved review IDs and EN/ES copy.",
+      "status": "Applied locally; not published"
+    },
+    {
+      "comment_id": "Local browser annotations · 2026-11-03 · Full-frame previews and current asset label",
+      "author": "Andres",
+      "piece": "Social posts, blog snippets and Meta Ads",
+      "request": "Fill 4:5 previews with the actual photo, remove internal letterboxing and select another group shot where needed. Selected image or video must identify only the current selection.",
+      "change": "Changed portrait exports to full-frame subject-aware crops; selected DSCF7397 for the cultural-tour group. Current source alone appears on each card; previous selections remain only in change history/internal provenance. Editorial blog heroes and native ChatGPT format references retain their appropriate ratios.",
+      "status": "Applied locally; not published"
+    },
+    {
+      "comment_id": "Local browser request · 2026-11-03 · Single media CTA and paired download page",
+      "author": "Andres",
+      "piece": "All social posts, blog social snippets and ads",
+      "request": "Use one View Instagram image 4:5 | Facebook Story 9:16 CTA on every card and a dedicated page with both downloads, statuses, logos, title and Back to proposal returning to that piece.",
+      "change": "Created 58 paired-format pages for 24 organic posts, 8 snippets, 20 Meta Ads and 6 ChatGPT ad concepts. Each card has one media CTA; each selected asset has feed/Story previews and matching PNG or MP4 downloads. Back buttons target the originating card. Native ChatGPT studies remain separately labelled. Missing media has disabled downloads. Saved the rule in both EN/ES skills.",
+      "status": "Applied locally; not published"
+    },
+    {
+      "comment_id": "browser-budget-20261113",
+      "author": "Andres",
+      "piece": "Media investment and Excel download",
+      "request": "US$6,000 per month; United States 85%, Costa Rica 15%. Add STRATEGIA Excel download and Sergio Quintero, Digital Trafficker.",
+      "change": "Meta US$4,000 and ChatGPT US$8,000 for November–December. Monthly market allocations US$5,100 / US$900. Added formula-based Excel with white background, Poppins, STRATEGIA logo and fine black table borders.",
+      "status": "Applied locally and published; Sites version 38 and GitHub Pages",
+      "date": "2026-11-13"
+    },
+    {
+      "comment_id": "browser-chatgpt-images-20261113",
+      "author": "Andres",
+      "piece": "OA05 / OA06",
+      "date": "2026-11-13",
+      "request": "Optimize ChatGPT carousel image size and weight; add download buttons.",
+      "change": "Prepared four 640 x 640 JPEG images per carousel, 65-179 KB each, and combined/per-carousel ZIP downloads. Previews use identical exported crops. Official minimum and internal weight target are distinguished.",
+      "status": "Applied; publication in progress"
+    },
+    {
+      "comment_id": "browser-20261114-meta-1",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-01",
+      "request": "Find a photograph with a couple in Drive.",
+      "change": "Selected Chachagua-210308--Web-3.jpg showing two adults in the pool; complete photo shown. Portrait adaptations pending.",
+      "status": "Applied to preview; portrait adaptation pending"
+    },
+    {
+      "comment_id": "browser-20261114-meta-2",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-01",
+      "request": "Rewrite the unnatural Start with Costa Rica hook in EN and ES.",
+      "change": "New EN hook: A little more time together. A little closer to the rainforest. New ES hook: Más tiempo juntos, más cerca del bosque.",
+      "status": "Applied to preview; fresh approval required"
+    },
+    {
+      "comment_id": "browser-20261114-meta-3",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-04",
+      "request": "Move the framing right to reveal more forest, walkway and exterior water feature.",
+      "change": "Adjusted feed and Story focal points to 60% horizontally; both clean exports rebuilt.",
+      "status": "Applied to preview; fresh approval required"
+    },
+    {
+      "comment_id": "browser-20261114-meta-4",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-05",
+      "request": "Find a Chachagua photograph with a group larger than three or four people.",
+      "change": "Selected DSC07425-Mejorado-NR.jpg: five family members and one guide. Full group retained in feed. Story adaptation pending; destructive crop withheld. Persona now families to match the photo.",
+      "status": "Applied to preview; portrait adaptation pending"
+    },
+    {
+      "comment_id": "browser-20261114-meta-5",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-06",
+      "request": "Delete this ad in both languages.",
+      "change": "Removed the EN/ES concept, copy exports and briefing inventory. Archived original internally and retained its historical review ID.",
+      "status": "Applied to preview; fresh approval required"
+    },
+    {
+      "comment_id": "browser-20261114-meta-6",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-07",
+      "request": "Revise EN/ES, connect the copy to the image, and write in first person.",
+      "change": "Rewrote in first-person brand voice about canopy with friends. Off-site location and participation/cost/transport enquiries retained; no invented testimonial.",
+      "status": "Applied to preview; fresh approval required"
+    },
+    {
+      "comment_id": "browser-20261114-meta-7",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-08",
+      "request": "Replace the headline and find people grinding coffee/cacao or making cacao balls.",
+      "change": "Headline: Make Time for Chocolate / Un momento para el chocolate. Selected DSCF7725-Mejorado-NR.jpg showing a participant grinding cacao. EN/ES copy follows the official hands-on workshop description.",
+      "status": "Applied to preview; fresh approval required"
+    },
+    {
+      "comment_id": "browser-20261114-meta-8",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-CH-09",
+      "request": "Do not use the unfurnished pool photograph DJI_0094.JPG.",
+      "change": "Replaced with the client-selected Hacienda Cercone furnished terrace and pool photograph, identified by accommodation.",
+      "status": "Applied to preview; fresh approval required"
+    }
+  ]
+}
