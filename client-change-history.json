@@ -472,6 +472,126 @@
       "request": "Adapt the same idea for direct guests: two nearby resorts, multiple experiences and help from Travel Designers.",
       "change": "Added guest-specific introduction with the two resorts 7.7 km apart, twelve favorite experiences and a direct phone link for more ideas and planning help. Agency version remains addressed to travel partners.",
       "status": "Applied to preview; fresh copy approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-room-photo-CH01",
+      "author": "Andrés · browser annotation",
+      "piece": "CH01",
+      "request": "Replace photograph with the exact client-selected Drive image 1MWqzDlwxiSk6On9w82ryoJKRhHUUkHgM.",
+      "change": "Selected Arenal-rainforest-drone-pic-4.png and prepared matching 4:5 preview/download and 9:16 Story; original review identity and copy retained.",
+      "status": "Applied to preview; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-room-photo-AR03",
+      "author": "Andrés · browser annotation",
+      "piece": "AR03",
+      "request": "Replace photograph with the exact client-selected Drive image 1Eu2jSKbSS-pUuP7qYzphz39wMbjEDAbQ.",
+      "change": "Selected Sunset Tropical Villa Retreat.png and prepared matching 4:5 preview/download and 9:16 Story; original review identity and copy retained.",
+      "status": "Applied to preview; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-room-photo-AR05",
+      "author": "Andrés · browser annotation and supplied Drive link",
+      "piece": "AR05",
+      "request": "Replace the current photograph with Drive image 12NksJpN99IivjxMK7i0JaLhQrHI7sQKH.",
+      "change": "Selected Volcano Sunrise by the Tropical Pool.png; prepared centred 4:5 and 9:16 compositions, retaining copy and original review identity.",
+      "status": "Applied to preview; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-video-music-CH05",
+      "author": "Andrés · browser annotation",
+      "piece": "CH05",
+      "request": "Replace the unsuitable music; review Instagram reference Demw9wskgnp.",
+      "change": "Replaced the synthesized soundtrack with catalogue acoustic guitar/light percussion; copied the visual stream unchanged. Reference audio and final audible quality could not be listened to in this environment; client listening review remains pending.",
+      "status": "New music/caption proposal; client listening and visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-video-music-CH06",
+      "author": "Andrés · browser annotation",
+      "piece": "CH06",
+      "request": "Choose fitting music and an on-screen message tied to the garden-to-table story; reference DdwgerdxkCn.",
+      "change": "Added timed garden-to-table messages in separate EN and ES exports and replaced music with catalogue acoustic guitar/piano. Reference text/layout inspected. Listening review remains pending.",
+      "status": "New music/caption proposal; client listening and visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-CH06-light-captions",
+      "author": "Andrés · browser annotations and font clarification",
+      "piece": "CH06",
+      "request": "Keep captions longer, below the walkway over the soil; remove black shadow; use genuine Morion Light with sentence case. Verify 4:5 and 9:16 previews.",
+      "change": "Decoded supplied Morion Light webfont into an OpenType rendering font to prevent substitution; re-rendered four language/format files with plain white text, no shadow/outline, and 21.5s / 12.7s cue intervals. Added format-specific posters and explicit 1080×1350 / 1080×1920 preview dimensions.",
+      "status": "Applied to revised preview; fresh visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-morion-regular-both",
+      "author": "Andrés · browser request",
+      "piece": "CH05 / CH06",
+      "request": "Use Morion Regular instead of Light in both videos.",
+      "change": "Re-rendered video captions with the decoded brand Morion Regular font, preserving sentence case, white text without shadow, placement, timing and existing soundtrack. Both 4:5 and 9:16 outputs updated.",
+      "status": "Applied locally; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-CH05-three-overlays",
+      "author": "Andrés · browser comment",
+      "piece": "CH05",
+      "request": "Three sequential overlays: Sugar comes from sugarcane / A Costa Rican cultural experience, / right here at the resort. Use Morion Regular at the preceding video text proportion.",
+      "change": "Replaced the single title with three timed messages in both 4:5 and 9:16, using Morion Regular at 56px per 1080px width, white, centered, without shadow. Original music retained.",
+      "status": "Applied locally; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-CH05-two-overlays",
+      "author": "Andrés · browser comment",
+      "piece": "CH05",
+      "request": "Two sequential overlays: Sugar comes from sugarcane / A taste of Costa Rican tradition. Keep the same text proportion and allow longer reading time.",
+      "change": "Replaced three messages with two messages, each visible for about six seconds, in both 4:5 and 9:16, using Morion Regular at 56px per 1080px width, white, centered, without shadow. Original music retained.",
+      "status": "Applied locally; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-cover-language-label",
+      "author": "Andrés · browser comment",
+      "piece": "Proposal cover",
+      "request": "Remove English First from the cover date line.",
+      "change": "Removed the visible language-order label from the cover and its generator. Creative language order and review identities retained.",
+      "status": "Applied; publication in progress"
+    },
+    {
+      "comment_id": "browser-20261114-couple-B02-S1",
+      "author": "Andrés · browser comment",
+      "piece": "B02-S1",
+      "request": "Choose a photograph showing a couple, matching shared time and choosing a pace together.",
+      "change": "Selected Chachagua-210308-5306-Print.jpg from the client photo library and prepared matching 4:5 and 9:16 exports preserving both guests. Copy, second selected terrace, stable IDs and historic review keys retained.",
+      "status": "Applied; revised visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-couple-B02-S2",
+      "author": "Andrés · browser comment",
+      "piece": "B02-S2",
+      "request": "Choose a photograph showing a couple, matching shared time and choosing a pace together.",
+      "change": "Selected Chachagua-210308--Web-5.jpg from the client photo library and prepared matching 4:5 and 9:16 exports preserving both guests. Copy, second selected terrace, stable IDs and historic review keys retained.",
+      "status": "Applied; revised visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-river-couple-B02-S2",
+      "author": "Andrés · browser comment",
+      "piece": "B02-S2",
+      "request": "Replace B02-S2 pool image because it is too similar to B02-S1; choose a couple in a different context.",
+      "change": "Selected Chachagua-210308--Web-11.jpg from the client photo library and prepared matching 4:5 and 9:16 exports preserving both guests. Copy, second selected terrace, stable IDs and historic review keys retained.",
+      "status": "Applied; revised visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-B02-blog-couple-photos",
+      "author": "Andrés · browser comment and reference screenshot",
+      "piece": "B02 · EN / ES",
+      "request": "Use the hand-holding couple as the blog cover, move the walkway image into the article, and include about two couple photographs.",
+      "change": "Used the full horizontal hand-holding pool photograph as cover, placed the river couple after the resort-pause introduction, and moved the walkway into the walking section. Both language editions retain the terrace image and all article text.",
+      "status": "Applied; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-B02-terrace-couple-and-walkway-placement",
+      "author": "Andrés · browser comments",
+      "piece": "B02 · EN / ES",
+      "request": "Find the couple seated at the table on this terrace; move the walkway below Choosing Somewhere You Want to Return To.",
+      "change": "Selected IMG_5920-Edit-2-Edit.jpg from the exact Two Bedroom Villa Drive folder and replaced the empty terrace in both editions; moved the walkway directly below the requested heading and its Spanish equivalent. Full horizontal compositions preserved.",
+      "status": "Applied; visual approval pending"
     }
   ]
 }

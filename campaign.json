@@ -49,8 +49,10 @@
       "location": "On-site Chachagua",
       "stay": "Enero–marzo 2027",
       "codes": [
+        "RR-B02-COUPLE-01",
         "CH-P",
-        "CH-V"
+        "RR-B02-COUPLE-RIVER",
+        "CH-B02-TERRACE-COUPLE"
       ],
       "missing": "Yoga retirado hasta confirmar disponibilidad. Tour de café y cacao actual.",
       "es": "Tres maneras de compartir el bosque sin llenar la agenda",
@@ -63,9 +65,14 @@
       "meta_en": "Plan a couples stay at Chachagua with a guided nature walk, coffee and cacao, and time to relax, leaving time to rest between experiences.",
       "count_es": 1581,
       "count_en": 1536,
-      "hero_code": "CH-P",
-      "cover_code": "CH-P",
-      "review_id": "B01"
+      "hero_code": "RR-B02-COUPLE-01",
+      "cover_code": "RR-B02-COUPLE-01",
+      "review_id": "B01",
+      "inline_codes": [
+        "CH-P",
+        "RR-B02-COUPLE-RIVER",
+        "CH-B02-TERRACE-COUPLE"
+      ]
     },
     {
       "id": "B03",
@@ -161,14 +168,14 @@
       "location": "On-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "AR-VISTA-TERRACE"
+        "AR-CH01-DRONE-CLIENT"
       ],
       "title": "Your Chachagua story now has a sister resort",
       "facebook": "An afternoon on your terrace can be the beginning of a bigger Costa Rica story. Chachagua Rainforest Resort & Hot Springs and its sister property, Arenal Rainforest Resort, come together under Rainforest Resorts. Our local Travel Designers help choose accommodation, experiences and time for yourselves. Explore Chachagua’s categories, or ask how both properties could fit one trip. Accommodation and transfers are quoted for your dates.\n\n---\n\nUna tarde en la terraza puede abrir una nueva historia en Costa Rica. Chachagua Rainforest Resort & Hot Springs y su propiedad hermana, Arenal Rainforest Resort, se reúnen bajo Rainforest Resorts. Nuestros Travel Designers locales ayudan a elegir alojamiento, experiencias y tiempo para ustedes. Conozcan las categorías de Chachagua o consulten cómo combinar ambas propiedades. Alojamiento y traslados se cotizan para sus fechas.",
       "instagram": "Already in love with Chachagua Rainforest Resort & Hot Springs?\n\nGet ready to fall in love all over again.\n\nMeet our sister property, Arenal Rainforest Resort. Two rainforest escapes, one Costa Rican resort family: Rainforest Resorts.\n\nTwice the rainforest magic, twice the reasons to visit!\n\nDiscover more through the link in our bio.\n\n---\n\n¿Ya te enamoraste de Chachagua Rainforest Resort & Hot Springs?\n\nPrepárate para enamorarte de nuevo.\n\nConoce nuestra propiedad hermana, Arenal Rainforest Resort. Dos escapadas al bosque tropical, una familia costarricense de resorts: Rainforest Resorts.\n\n¡El doble de magia en el bosque, el doble de razones para visitarnos!\n\nDescubre más en el enlace de nuestra biografía.",
       "url": "https://chachaguarainforesthotel.com/rooms-and-villas/",
       "format": "Foto 4:5",
-      "gap": "Selected from client Drive and visually inspected; final creative approval pending.",
+      "gap": "Exact client-selected source; revised image approval pending.",
       "stay": "Enero–marzo 2027",
       "objective": "Consideración y visitas al producto",
       "status": "Borrador; necesita adaptación",
@@ -190,14 +197,14 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-VISTA-TERRACE-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-CH01-DRONE-CLIENT-feed.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1cbQTW5Jdm0g0d6L82FYPLpWq_537vY_i",
+          "source_asset_id": "1MWqzDlwxiSk6On9w82ryoJKRhHUUkHgM",
           "fit": "cover",
           "focal_point": [
-            0.55,
-            0.55
+            0.46,
+            0.5
           ]
         },
         "story": {
@@ -207,14 +214,14 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-VISTA-TERRACE-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-CH01-DRONE-CLIENT-story.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1cbQTW5Jdm0g0d6L82FYPLpWq_537vY_i",
+          "source_asset_id": "1MWqzDlwxiSk6On9w82ryoJKRhHUUkHgM",
           "fit": "cover",
           "focal_point": [
-            0.55,
-            0.55
+            0.46,
+            0.5
           ]
         }
       },
@@ -471,7 +478,42 @@
         "feed": "assets/social-videos/CH05-feed.mp4",
         "story": "assets/social-videos/CH05-story.mp4",
         "poster": "assets/social-videos/CH05-poster.jpg",
-        "source_in": 0
+        "source_in": 0,
+        "music_source": {
+          "provider": "HeyGen audio catalogue",
+          "catalog_id": "cde483f72df54ec893d7327d68e00f10",
+          "description": "Acoustic guitar with light percussion",
+          "listening_review": "not_performed; audio input unavailable",
+          "status": "New soundtrack proposal for client listening review"
+        },
+        "review_note": "Updated music; visual footage and source timing retained.",
+        "caption_style": {
+          "font_size_px": 56,
+          "color": "#FFFFFF",
+          "shadow": false,
+          "outline": false,
+          "case": "Sentence case: initial capital only",
+          "vertical_position": "75% of frame height",
+          "font_family": "Morion Regular",
+          "font_file": "video-project/Morion-Regular.otf",
+          "cues": [
+            {
+              "text": "Sugar comes from sugarcane",
+              "start": 0.3,
+              "end": 6.35
+            },
+            {
+              "text": "A taste of Costa Rican\ntradition.",
+              "start": 6.5,
+              "end": 12.5
+            }
+          ]
+        },
+        "story_poster": "assets/social-videos/CH05-story-poster.jpg",
+        "on_screen_copy": [
+          "Sugar comes from sugarcane",
+          "A taste of Costa Rican tradition."
+        ]
       },
       "media_formats": {
         "feed": {
@@ -548,7 +590,45 @@
         "feed": "assets/social-videos/CH06-feed.mp4",
         "story": "assets/social-videos/CH06-story.mp4",
         "poster": "assets/social-videos/CH06-poster.jpg",
-        "source_in": 2
+        "source_in": 2,
+        "music_source": {
+          "provider": "HeyGen audio catalogue",
+          "catalog_id": "42b31625b1a44643b86d4a029130e1d5",
+          "description": "Acoustic guitar and ambient piano",
+          "listening_review": "not_performed; audio input unavailable",
+          "status": "New soundtrack proposal for client listening review"
+        },
+        "review_note": "Updated music; visual footage and source timing retained.",
+        "languages": [
+          "EN",
+          "ES"
+        ],
+        "default_language": "EN",
+        "feed_es": "assets/social-videos/CH06-feed-es.mp4",
+        "story_es": "assets/social-videos/CH06-story-es.mp4",
+        "poster_es": "assets/social-videos/CH06-poster-es.jpg",
+        "caption_style": {
+          "font_family": "Morion Regular",
+          "font_file": "video-project/Morion-Regular.otf",
+          "font_size_px": 56,
+          "color": "#FFFFFF",
+          "shadow": false,
+          "outline": false,
+          "case": "Sentence case: initial capital only",
+          "vertical_position": "75% of frame height, below the walkway over the soil",
+          "cues": [
+            {
+              "start_seconds": 0.5,
+              "end_seconds": 22.0
+            },
+            {
+              "start_seconds": 22.3,
+              "end_seconds": 35.0
+            }
+          ]
+        },
+        "story_poster": "assets/social-videos/CH06-story-poster.jpg",
+        "story_poster_es": "assets/social-videos/CH06-story-poster-es.jpg"
       },
       "media_formats": {
         "feed": {
@@ -566,7 +646,11 @@
           "focal_point": [
             0.5,
             0.5
-          ]
+          ],
+          "language_variants": {
+            "EN": "assets/social-videos/CH06-feed.mp4",
+            "ES": "assets/social-videos/CH06-feed-es.mp4"
+          }
         },
         "story": {
           "aspect_ratio": "9:16",
@@ -583,7 +667,11 @@
           "focal_point": [
             0.5,
             0.5
-          ]
+          ],
+          "language_variants": {
+            "EN": "assets/social-videos/CH06-story.mp4",
+            "ES": "assets/social-videos/CH06-story-es.mp4"
+          }
         }
       },
       "publication_brand": "Rainforest Resorts",
@@ -591,7 +679,17 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "on_screen_copy": {
+        "EN": [
+          "Good food begins long before the first bite.",
+          "From our garden to your table."
+        ],
+        "ES": [
+          "La buena mesa empieza mucho antes del primer bocado.",
+          "De nuestra huerta a tu mesa."
+        ]
+      }
     },
     {
       "id": "CH07",
@@ -1171,14 +1269,14 @@
       "location": "On-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "AR03-ROOM"
+        "AR-AR03-SUNSET-CLIENT"
       ],
       "title": "Choose the category, understand the conditions",
       "facebook": "Bungalow Arenal and One Bedroom Vista Arenal are different categories. Request photographs and features for the option being quoted. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.\n\n---\n\nBungalow Arenal y One Bedroom Vista Arenal son categorías distintas. Pide fotografías y características de la opción que se cotiza. Consulta con nuestros Travel Designers por las mejores habitaciones disponibles y las tarifas de lanzamiento para tus fechas.",
       "instagram": "An informed accommodation choice. Explore Bungalow Arenal and ask about its features. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.\n\n---\n\nUna elección con información clara. Conozcan Bungalow Arenal y consulten sus características. Consulta con nuestros Travel Designers por las mejores habitaciones disponibles y las tarifas de lanzamiento para tus fechas.",
       "url": "https://www.arenalrainforest.com/#rooms",
       "format": "Foto 4:5",
-      "gap": "Selected from client Drive and visually inspected; final creative approval pending.",
+      "gap": "Exact client-selected source; revised image approval pending.",
       "stay": "Enero–marzo 2027",
       "objective": "Consideración y visitas al producto",
       "status": "Borrador; necesita adaptación",
@@ -1191,7 +1289,7 @@
       "instagram_en": "An informed accommodation choice. Explore Bungalow Arenal and ask about its features. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.",
       "language": "EN first / ES second",
       "production_note_renovation": "Guest-facing social copy focuses on current accommodation and introductory-rate enquiries. Before booking, Travel Designers must explain the specific unit, expected work, possible construction noise and operating services for the guest dates. No fixed discount or availability is promised.",
-      "visual_context": "One Bedroom Vista Arenal photograph; the caption compares accommodation categories.",
+      "visual_context": "Client-selected exterior room photograph at sunset; the caption compares accommodation categories.",
       "media_formats": {
         "feed": {
           "aspect_ratio": "4:5",
@@ -1200,14 +1298,14 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR03-ROOM-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-AR03-SUNSET-CLIENT-feed.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1WvyEboi8i5NMRB-ZVQzuiOyh6p-s8Te-",
+          "source_asset_id": "1Eu2jSKbSS-pUuP7qYzphz39wMbjEDAbQ",
           "fit": "cover",
           "focal_point": [
-            0.52,
-            0.58
+            0.48,
+            0.5
           ]
         },
         "story": {
@@ -1217,14 +1315,14 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR03-ROOM-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-AR03-SUNSET-CLIENT-story.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1WvyEboi8i5NMRB-ZVQzuiOyh6p-s8Te-",
+          "source_asset_id": "1Eu2jSKbSS-pUuP7qYzphz39wMbjEDAbQ",
           "fit": "cover",
           "focal_point": [
             0.6,
-            0.58
+            0.5
           ]
         }
       },
@@ -1317,14 +1415,14 @@
       "location": "On-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "AR-REV-TERRACE"
+        "AR-AR05-VOLCANO-CLIENT"
       ],
       "title": "Planning you can share",
       "facebook": "Before allocating rooms among friends, share the number of travellers and preferred sleeping arrangements. Ask Arenal for a proposal with confirmed categories and layouts. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.\n\n---\n\nAntes de repartir habitaciones entre amigos, compartan cuántos viajan y cómo quieren dormir. Arenal puede preparar una propuesta con categorías y distribución confirmadas. Consulta con nuestros Travel Designers por las mejores habitaciones disponibles y las tarifas de lanzamiento para tus fechas.",
       "instagram": "Make sure everyone understands where they will rest. Ask Arenal about categories for your group. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.\n\n---\n\nQue todos entiendan dónde van a descansar. Consulta categorías y distribución para tu grupo en Arenal. Consulta con nuestros Travel Designers por las mejores habitaciones disponibles y las tarifas de lanzamiento para tus fechas.",
       "url": "https://www.arenalrainforest.com/#rooms",
       "format": "Foto 4:5",
-      "gap": "Replacement selected after visual inspection: Bungalow Arenal covered terrace with round timber table and chairs beside sliding doors, tile floor and tropical planting. Final visual approval pending.",
+      "gap": "Exact client-selected source; revised visual approval pending.",
       "stay": "Enero–marzo 2027",
       "objective": "Consideración y visitas al producto",
       "status": "Borrador; necesita adaptación",
@@ -1345,10 +1443,10 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-REV-TERRACE-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-AR05-VOLCANO-CLIENT-feed.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1B_Q-h4M0FuXTc7NOdW4bhgRF7XS_L17S",
+          "source_asset_id": "12NksJpN99IivjxMK7i0JaLhQrHI7sQKH",
           "fit": "cover",
           "focal_point": [
             0.5,
@@ -1362,10 +1460,10 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-REV-TERRACE-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-AR05-VOLCANO-CLIENT-story.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1B_Q-h4M0FuXTc7NOdW4bhgRF7XS_L17S",
+          "source_asset_id": "12NksJpN99IivjxMK7i0JaLhQrHI7sQKH",
           "fit": "cover",
           "focal_point": [
             0.5,
@@ -1378,7 +1476,8 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "visual_context": "Client-selected pool, deck and volcano-view image at Arenal Rainforest Resort."
     },
     {
       "id": "AR06",
@@ -2018,7 +2117,7 @@
       "location": "On-site Chachagua",
       "stay": "Enero–marzo 2027",
       "codes": [
-        "CH-P",
+        "RR-B02-COUPLE-01",
         "CH-V"
       ],
       "facebook": "A nature walk, coffee and cacao, and time to enjoy the resort. Three ways to share Chachagua without filling every hour. Read how to leave time for the two of you. Read the article through this post’s link.\n\n---\n\nUna caminata, café y cacao, y tiempo para disfrutar del resort. Tres maneras de compartir Chachagua sin llenar cada hora. En el blog contamos cómo distribuirlas y conservar tiempo para ustedes. Lee el artículo en el enlace de esta publicación.",
@@ -2039,14 +2138,14 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-P-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/RR-B02-COUPLE-01-feed.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+          "source_asset_id": "1KJz2H7ByrIpj1B4SWo5_STdjFTOSUnfX",
           "fit": "cover",
           "focal_point": [
-            0.5,
-            0.5
+            0.35,
+            0.72
           ]
         },
         "story": {
@@ -2056,14 +2155,14 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-P-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/RR-B02-COUPLE-01-story.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+          "source_asset_id": "1KJz2H7ByrIpj1B4SWo5_STdjFTOSUnfX",
           "fit": "cover",
           "focal_point": [
-            0.5,
-            0.5
+            0.34,
+            0.75
           ]
         }
       },
@@ -2080,7 +2179,7 @@
       "location": "On-site Chachagua",
       "stay": "Enero–marzo 2027",
       "codes": [
-        "CH-P",
+        "RR-B02-COUPLE-RIVER",
         "CH-V"
       ],
       "facebook": "Your accommodation is part of the time between experiences, too. Read our couples stay suggestion and begin with the pace you want to share. Read the article through this post’s link.\n\n---\n\nEl alojamiento también se disfruta entre experiencias. Lee nuestra propuesta de viaje en pareja y empieza por elegir el ritmo que quieren compartir. Lee el artículo en el enlace de esta publicación.",
@@ -2101,13 +2200,13 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-P-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/RR-B02-COUPLE-RIVER-feed.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+          "source_asset_id": "1gLVMnHOKWIRgJCchjo0FjKPSH_zwaYCz",
           "fit": "cover",
           "focal_point": [
-            0.5,
+            0.6,
             0.5
           ]
         },
@@ -2118,13 +2217,13 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-P-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/RR-B02-COUPLE-RIVER-story.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+          "source_asset_id": "1gLVMnHOKWIRgJCchjo0FjKPSH_zwaYCz",
           "fit": "cover",
           "focal_point": [
-            0.5,
+            0.6,
             0.5
           ]
         }
