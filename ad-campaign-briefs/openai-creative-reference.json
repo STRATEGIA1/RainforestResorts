@@ -1,20 +1,20 @@
 {
-  "checked": "2026-11-10",
+  "checked": "2026-11-13",
   "title": "ChatGPT Ads · Costa Rica itinerary pilot",
   "advertising_account": "Rainforest Resorts",
   "account_structure": "Single account covering both resorts",
   "currency": "USD",
   "budget": {
-    "November": 1000,
-    "December": 1000,
-    "total": 2000,
-    "per_resort_month": 500,
+    "November": 4000,
+    "December": 4000,
+    "total": 8000,
+    "per_resort_month": 2000,
     "status": "Monthly allocation requested by client; activation not authorised"
   },
   "markets": {
-    "United States": 2000,
+    "United States": 6800,
     "Europe": 0,
-    "Costa Rica": 0
+    "Costa Rica": 1200
   },
   "ads": [
     {
@@ -40,27 +40,48 @@
       ],
       "images": [
         {
-          "path": "assets/CH-P.jpg",
-          "label": "Chachagua · rainforest walkway"
+          "path": "chatgpt-carousel-images/OA05/01-chachagua-rainforest-walkway.jpg",
+          "label": "Chachagua · rainforest walkway",
+          "source_path": "assets/CH-P.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 156484,
+          "mime_type": "image/jpeg"
         },
         {
-          "path": "assets/CH-V.jpg",
-          "label": "Chachagua · Two Bedroom Villa terrace"
+          "path": "chatgpt-carousel-images/OA05/02-chachagua-two-bedroom-villa-terrace.jpg",
+          "label": "Chachagua · Two Bedroom Villa terrace",
+          "source_path": "assets/CH-V.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 154316,
+          "mime_type": "image/jpeg"
         },
         {
-          "path": "assets/AR-one-bedroom-drone.jpg",
-          "label": "Arenal · One Bedroom Vista Arenal aerial photograph"
+          "path": "chatgpt-carousel-images/OA05/03-arenal-one-bedroom-vista-aerial.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal aerial photograph",
+          "source_path": "assets/AR-one-bedroom-drone.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 178733,
+          "mime_type": "image/jpeg"
         },
         {
-          "path": "assets/AR-one-bedroom-interior.jpg",
-          "label": "Arenal · One Bedroom Vista Arenal bedroom"
+          "path": "chatgpt-carousel-images/OA05/04-arenal-one-bedroom-vista-bedroom.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal bedroom",
+          "source_path": "assets/AR-one-bedroom-interior.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 65115,
+          "mime_type": "image/jpeg"
         }
       ],
       "target_url": "https://chachaguarainforesthotel.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_11&utm_content=oa05",
       "start": "2026-11-09",
       "end": "2026-11-30",
       "copy_status": "New proposal · client approval pending",
-      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+      "image_status": "Square JPEG exports prepared and visually checked · client approval and paid-use confirmation pending",
+      "download_zip": "chatgpt-carousel-images/OA05-ChatGPT-carousel-640.zip"
     },
     {
       "id": "OA06",
@@ -85,27 +106,48 @@
       ],
       "images": [
         {
-          "path": "assets/AR-one-bedroom-drone.jpg",
-          "label": "Arenal · One Bedroom Vista Arenal aerial photograph"
+          "path": "chatgpt-carousel-images/OA06/01-arenal-one-bedroom-vista-aerial.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal aerial photograph",
+          "source_path": "assets/AR-one-bedroom-drone.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 178733,
+          "mime_type": "image/jpeg"
         },
         {
-          "path": "assets/AR-one-bedroom-interior.jpg",
-          "label": "Arenal · One Bedroom Vista Arenal bedroom"
+          "path": "chatgpt-carousel-images/OA06/02-arenal-one-bedroom-vista-bedroom.jpg",
+          "label": "Arenal · One Bedroom Vista Arenal bedroom",
+          "source_path": "assets/AR-one-bedroom-interior.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 65115,
+          "mime_type": "image/jpeg"
         },
         {
-          "path": "assets/CH-P.jpg",
-          "label": "Chachagua · rainforest walkway"
+          "path": "chatgpt-carousel-images/OA06/03-chachagua-rainforest-walkway.jpg",
+          "label": "Chachagua · rainforest walkway",
+          "source_path": "assets/CH-P.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 156484,
+          "mime_type": "image/jpeg"
         },
         {
-          "path": "assets/CH-V.jpg",
-          "label": "Chachagua · Two Bedroom Villa terrace"
+          "path": "chatgpt-carousel-images/OA06/04-chachagua-two-bedroom-villa-terrace.jpg",
+          "label": "Chachagua · Two Bedroom Villa terrace",
+          "source_path": "assets/CH-V.jpg",
+          "width": 640,
+          "height": 640,
+          "bytes": 154316,
+          "mime_type": "image/jpeg"
         }
       ],
       "target_url": "https://www.arenalrainforest.com/?utm_source=openai&utm_medium=paid&utm_campaign=costa_rica_your_way_2026_12&utm_content=oa06",
       "start": "2026-12-01",
       "end": "2026-12-31",
       "copy_status": "New proposal · client approval pending",
-      "image_status": "Selected existing photographs · final square export and paid-use check pending"
+      "image_status": "Square JPEG exports prepared and visually checked · client approval and paid-use confirmation pending",
+      "download_zip": "chatgpt-carousel-images/OA06-ChatGPT-carousel-640.zip"
     }
   ]
 }

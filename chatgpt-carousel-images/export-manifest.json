@@ -1,0 +1,202 @@
+{
+  "specifications": {
+    "checked": "2026-11-13",
+    "source": "https://developers.openai.com/ads/campaign-management#ads--creative",
+    "required_ratio": "1:1",
+    "minimum_pixels": [
+      640,
+      640
+    ],
+    "images_per_ad": [
+      4,
+      6
+    ],
+    "supported_types": [
+      "JPEG",
+      "PNG",
+      "WebP"
+    ],
+    "published_maximum_file_bytes": null,
+    "export_pixels": [
+      640,
+      640
+    ],
+    "export_type": "JPEG",
+    "internal_target_bytes": 200000,
+    "weight_note": "200 KB is our optimization target, not a published OpenAI maximum."
+  },
+  "carousels": {
+    "OA05": [
+      {
+        "order": 1,
+        "key": "ch_forest",
+        "source_path": "assets/CH-P.jpg",
+        "source_pixels": [
+          1600,
+          899
+        ],
+        "path": "chatgpt-carousel-images/OA05/01-chachagua-rainforest-walkway.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 156484,
+        "quality": 90,
+        "centering": [
+          0.5,
+          0.5
+        ],
+        "sha256": "15dc723841ccbd02d78c6a2b6e4ef38192f333a62e30e16716c84635168cfe0b"
+      },
+      {
+        "order": 2,
+        "key": "ch_villa",
+        "source_path": "assets/CH-V.jpg",
+        "source_pixels": [
+          1024,
+          683
+        ],
+        "path": "chatgpt-carousel-images/OA05/02-chachagua-two-bedroom-villa-terrace.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 154316,
+        "quality": 90,
+        "centering": [
+          0.5,
+          0.5
+        ],
+        "sha256": "198e388c423258117bc578065c13f2069dccaf11fcaae4092340685031b4d885"
+      },
+      {
+        "order": 3,
+        "key": "ar_aerial",
+        "source_path": "assets/AR-one-bedroom-drone.jpg",
+        "source_pixels": [
+          1680,
+          945
+        ],
+        "path": "chatgpt-carousel-images/OA05/03-arenal-one-bedroom-vista-aerial.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 178733,
+        "quality": 90,
+        "centering": [
+          0.3,
+          0.5
+        ],
+        "sha256": "74bf000097fb798c8d9627598c49e1f849fbba45bc22fb3225868d3d23df1424"
+      },
+      {
+        "order": 4,
+        "key": "ar_room",
+        "source_path": "assets/AR-one-bedroom-interior.jpg",
+        "source_pixels": [
+          1680,
+          1120
+        ],
+        "path": "chatgpt-carousel-images/OA05/04-arenal-one-bedroom-vista-bedroom.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 65115,
+        "quality": 90,
+        "centering": [
+          0.35,
+          0.5
+        ],
+        "sha256": "7e51218b292181dc7dfaa61edc8824a1f7a8053e0c78c943f20b72948fb63ed6"
+      }
+    ],
+    "OA06": [
+      {
+        "order": 1,
+        "key": "ar_aerial",
+        "source_path": "assets/AR-one-bedroom-drone.jpg",
+        "source_pixels": [
+          1680,
+          945
+        ],
+        "path": "chatgpt-carousel-images/OA06/01-arenal-one-bedroom-vista-aerial.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 178733,
+        "quality": 90,
+        "centering": [
+          0.3,
+          0.5
+        ],
+        "sha256": "74bf000097fb798c8d9627598c49e1f849fbba45bc22fb3225868d3d23df1424"
+      },
+      {
+        "order": 2,
+        "key": "ar_room",
+        "source_path": "assets/AR-one-bedroom-interior.jpg",
+        "source_pixels": [
+          1680,
+          1120
+        ],
+        "path": "chatgpt-carousel-images/OA06/02-arenal-one-bedroom-vista-bedroom.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 65115,
+        "quality": 90,
+        "centering": [
+          0.35,
+          0.5
+        ],
+        "sha256": "7e51218b292181dc7dfaa61edc8824a1f7a8053e0c78c943f20b72948fb63ed6"
+      },
+      {
+        "order": 3,
+        "key": "ch_forest",
+        "source_path": "assets/CH-P.jpg",
+        "source_pixels": [
+          1600,
+          899
+        ],
+        "path": "chatgpt-carousel-images/OA06/03-chachagua-rainforest-walkway.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 156484,
+        "quality": 90,
+        "centering": [
+          0.5,
+          0.5
+        ],
+        "sha256": "15dc723841ccbd02d78c6a2b6e4ef38192f333a62e30e16716c84635168cfe0b"
+      },
+      {
+        "order": 4,
+        "key": "ch_villa",
+        "source_path": "assets/CH-V.jpg",
+        "source_pixels": [
+          1024,
+          683
+        ],
+        "path": "chatgpt-carousel-images/OA06/04-chachagua-two-bedroom-villa-terrace.jpg",
+        "pixels": [
+          640,
+          640
+        ],
+        "bytes": 154316,
+        "quality": 90,
+        "centering": [
+          0.5,
+          0.5
+        ],
+        "sha256": "198e388c423258117bc578065c13f2069dccaf11fcaae4092340685031b4d885"
+      }
+    ]
+  }
+}
