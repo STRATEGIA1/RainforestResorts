@@ -440,6 +440,22 @@
       "request": "Use one linked photograph per experience with its name on the photo, following the supplied mosaic reference.",
       "change": "Replaced chapter photos, numbered descriptions and text links with twelve linked photographic cards. Preserved Rainforest Resorts typography and palette; mobile cards stack at full width.",
       "status": "Applied to preview; fresh visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-newsletter-brighter-intro",
+      "author": "Andrés · browser annotation",
+      "piece": "Newsletter #2 · Guests and agencies",
+      "request": "Lighter introductory background.",
+      "change": "Introductory background changed to near-white #FFFDFA.",
+      "status": "Applied to preview; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-newsletter-column-swap",
+      "author": "Andrés · browser annotation",
+      "piece": "Newsletter #2 · Guests and agencies",
+      "request": "Swap the final two cards in columns 2 and 3.",
+      "change": "Column 2 now ends with Canyoning and La Fortuna Waterfall; column 3 ends with Río Celeste and Caño Negro. One linked image per experience retained.",
+      "status": "Applied to preview; visual approval pending"
     }
   ]
 }

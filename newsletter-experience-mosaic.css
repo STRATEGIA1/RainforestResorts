@@ -12,3 +12,6 @@
 .nl-experience-tile:focus-visible{outline:3px solid #915126;outline-offset:4px}
 @media(max-width:760px){.newsletter .nl-mosaic-section{padding:30px 24px}.newsletter .nl-mosaic-section h2{font-size:31px}.nl-mosaic{gap:12px}.nl-mosaic-column{gap:12px}.newsletter .nl-tile-name{font-size:12px;bottom:13px;left:12px;right:10px}}
 @media(max-width:600px){.nl-mosaic{display:block}.nl-mosaic-column{gap:16px;margin-bottom:16px}.newsletter .nl-tile-name{font-size:16px;bottom:20px;left:20px;right:18px}.nl-experience-tile.portrait img{aspect-ratio:4/5}.nl-experience-tile.wide img{aspect-ratio:2/1}}
+
+/* Brighter introductory background for both experience editions. */
+.newsletter:has(.nl-mosaic-section) .nl-intro{background:#fffdfa}
