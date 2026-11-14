@@ -1,0 +1,14 @@
+/* Rainforest Resorts · one linked image per experience. */
+.newsletter .nl-mosaic-section{padding:38px 30px 48px;background:#f4f0e8}
+.newsletter .nl-mosaic-section h2{max-width:670px;margin:0 auto 30px;text-align:center;font-size:36px;color:#363824}
+.nl-mosaic{display:flex;align-items:flex-start;gap:16px}
+.nl-mosaic-column{display:flex;flex:1;min-width:0;flex-direction:column;gap:16px}
+.newsletter a.nl-experience-tile{position:relative;display:block;overflow:hidden;border-radius:14px;background:#363824;color:#fff5ea;text-decoration:none;isolation:isolate}
+.nl-experience-tile img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.nl-experience-tile.portrait img{aspect-ratio:3/4}
+.nl-experience-tile.wide img{aspect-ratio:2/1}
+.nl-experience-tile:after{content:"";position:absolute;inset:42% 0 0;background:linear-gradient(transparent,rgba(10,24,15,.84));z-index:1;pointer-events:none}
+.newsletter .nl-tile-name{position:absolute;bottom:16px;left:16px;right:14px;z-index:2;font:13px/1.35 Messina,Arial,sans-serif;letter-spacing:.45px;text-transform:uppercase;color:#fff; text-shadow:0 1px 3px #000}
+.nl-experience-tile:focus-visible{outline:3px solid #915126;outline-offset:4px}
+@media(max-width:760px){.newsletter .nl-mosaic-section{padding:30px 24px}.newsletter .nl-mosaic-section h2{font-size:31px}.nl-mosaic{gap:12px}.nl-mosaic-column{gap:12px}.newsletter .nl-tile-name{font-size:12px;bottom:13px;left:12px;right:10px}}
+@media(max-width:600px){.nl-mosaic{display:block}.nl-mosaic-column{gap:16px;margin-bottom:16px}.newsletter .nl-tile-name{font-size:16px;bottom:20px;left:20px;right:18px}.nl-experience-tile.portrait img{aspect-ratio:4/5}.nl-experience-tile.wide img{aspect-ratio:2/1}}
