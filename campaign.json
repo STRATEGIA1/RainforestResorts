@@ -2385,12 +2385,12 @@
   ],
   "ads": [
     {
-      "id": "PA-CH-01",
-      "hotel": "Chachagua",
+      "id": "PA-RR-01",
+      "hotel": "Rainforest Resorts",
       "stage": "Reconocimiento",
       "persona": "Parejas",
-      "start": "2026-11-06",
-      "end": "2026-11-15",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias in house",
       "location": "On-site",
       "title": "Una escapada a Costa Rica para dos",
@@ -2403,14 +2403,14 @@
       "description": "Costa Rica your way",
       "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_es",
       "codes": [
-        "CH-PA01-TWO"
+        "RR-COUPLE-45"
       ],
       "kind": "human",
       "status": "Borrador; necesita producción",
       "stay": "Enero–marzo 2027",
       "story_es": "Tiempo juntos, rodeados de bosque. Descubran Chachagua en Costa Rica.",
       "story_en": "Time together, surrounded by rainforest. Discover Chachagua in Costa Rica.",
-      "gap": "Couple source selected from Drive. Complete photo shown for review. A different take or approved composition is needed for 4:5 and 9:16 without cutting either person.",
+      "gap": "Two adults enjoying a Chachagua pool together; both visible subjects are centred and preserved in the portrait crops. Confirm current offering, paid-use and any talent permissions before activation.",
       "market_variants": [
         {
           "market": "United States",
@@ -2422,10 +2422,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2434,12 +2431,11 @@
           "headline": "Una escapada a Costa Rica para dos",
           "story": "Tiempo juntos, rodeados de bosque. Descubran Chachagua en Costa Rica.",
           "cta": "Conoce el resort",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-01_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised following client browser comments; fresh copy and visual approval pending",
+      "review_status": "Revised proposal; fresh copy/visual approval required",
       "media_formats": {
         "feed": {
           "aspect_ratio": "4:5",
@@ -2448,15 +2444,16 @@
             1350
           ],
           "type": "image",
-          "file": null,
-          "mime_type": "image/png",
-          "status": "Needs portrait adaptation",
-          "source_asset_id": "1meur1Rf4nDyPoZaLmXOcFFRUOmXT_XOa",
-          "fit": "cover",
+          "file": "assets/social-formats/RR-COUPLE-45-feed.webp",
+          "mime_type": "image/webp",
+          "source_asset_id": "1KJz2H7ByrIpj1B4SWo5_STdjFTOSUnfX",
           "focal_point": [
-            0.53,
-            0.5
-          ]
+            0.36,
+            0.72
+          ],
+          "fit": "cover",
+          "status": "Prepared for visual review",
+          "zoom": 1.5
         },
         "story": {
           "aspect_ratio": "9:16",
@@ -2465,26 +2462,30 @@
             1920
           ],
           "type": "image",
-          "file": null,
-          "mime_type": "image/png",
-          "status": "Needs portrait adaptation",
-          "source_asset_id": "1meur1Rf4nDyPoZaLmXOcFFRUOmXT_XOa",
-          "fit": "cover",
+          "file": "assets/social-formats/RR-COUPLE-45-story.webp",
+          "mime_type": "image/webp",
+          "source_asset_id": "1KJz2H7ByrIpj1B4SWo5_STdjFTOSUnfX",
           "focal_point": [
-            0.53,
-            0.5
-          ]
+            0.34,
+            0.75
+          ],
+          "fit": "cover",
+          "status": "Prepared for visual review",
+          "zoom": 1.2
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "legacy_review_id": "PA-CH-01",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-02",
-      "hotel": "Chachagua",
+      "id": "PA-RR-02",
+      "hotel": "Rainforest Resorts",
       "stage": "Reconocimiento",
       "persona": "Amigos",
-      "start": "2026-11-11",
-      "end": "2026-11-20",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias off-site",
       "location": "Off-site",
       "title": "Arenal, a distintos ritmos",
@@ -2516,10 +2517,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2528,12 +2526,11 @@
           "headline": "Arenal, a distintos ritmos",
           "story": "Arenal, a distintos ritmos. Descubre la región y luego tu hospedaje.",
           "cta": "Descubre las posibilidades",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-02_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised from Sergio’s destination-first recommendation; fresh copy approval required.",
+      "review_status": "Revised proposal; fresh copy/visual approval required",
       "media_formats": {
         "feed": {
           "aspect_ratio": "4:5",
@@ -2570,15 +2567,18 @@
           ]
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "legacy_review_id": "PA-CH-02",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-03",
-      "hotel": "Chachagua",
+      "id": "PA-RR-03",
+      "hotel": "Rainforest Resorts",
       "stage": "Reconocimiento",
       "persona": "Familias",
-      "start": "2026-11-18",
-      "end": "2026-11-27",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias de naturaleza",
       "location": "On-site Chachagua / off-site desde Arenal",
       "title": "Costa Rica empieza con curiosidad",
@@ -2610,10 +2610,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2622,12 +2619,11 @@
           "headline": "Costa Rica empieza con curiosidad",
           "story": "Costa Rica empieza con curiosidad. Descubre la región y luego tu hospedaje.",
           "cta": "Empieza a explorar",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-03_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised from Sergio’s destination-first recommendation; fresh copy approval required.",
+      "review_status": "Revised proposal; fresh copy/visual approval required",
       "media_formats": {
         "feed": {
           "aspect_ratio": "4:5",
@@ -2664,15 +2660,18 @@
           ]
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "legacy_review_id": "PA-CH-03",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-04",
-      "hotel": "Chachagua",
+      "id": "PA-RR-04",
+      "hotel": "Rainforest Resorts",
       "stage": "Consideración",
       "persona": "Parejas",
-      "start": "2026-11-23",
-      "end": "2026-12-02",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Hospedajes",
       "location": "On-site",
       "title": "Elige cómo quieres regresar",
@@ -2704,10 +2703,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2716,8 +2712,7 @@
           "headline": "Elige cómo quieres regresar",
           "story": "Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta.",
           "cta": "Conoce las categorías",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-04_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -2758,15 +2753,18 @@
         }
       },
       "publication_brand": "Rainforest Resorts",
-      "review_status": "Revised following client browser comments; fresh copy and visual approval pending"
+      "review_status": "Revised proposal; fresh copy/visual approval required",
+      "legacy_review_id": "PA-CH-04",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-05",
-      "hotel": "Chachagua",
+      "id": "PA-RR-05",
+      "hotel": "Rainforest Resorts",
       "stage": "Decisión",
       "persona": "Familias",
-      "start": "2026-11-26",
-      "end": "2026-11-30",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Hospedajes",
       "location": "On-site",
       "title": "Planeemos el viaje del grupo",
@@ -2779,14 +2777,14 @@
       "description": "Costa Rica your way",
       "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_es",
       "codes": [
-        "CH-PA05-GROUP"
+        "RR-FAMILY-EXPLORE"
       ],
       "kind": "room",
       "status": "Borrador; necesita adaptación",
       "stay": "Enero–marzo 2027",
       "story_es": "Viajen en familia. Descubran Chachagua juntos y consulten la estadía del grupo.",
       "story_en": "Bring the family. Discover Chachagua together and ask about your group’s stay.",
-      "gap": "Family of five with their guide: six people visible. Feed prepared with the full group; Story requires another take or an approved composition preserving all six people. Paid-use and talent permissions pending.",
+      "gap": "Mother and two children from the same family discovering tropical fruit during their nature outing. Story adaptation pending: preserve the interaction without cutting subjects.",
       "market_variants": [
         {
           "market": "United States",
@@ -2798,10 +2796,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2810,8 +2805,7 @@
           "headline": "Planeemos el viaje del grupo",
           "story": "Viajen en familia. Descubran Chachagua juntos y consulten la estadía del grupo.",
           "cta": "Consulta tu estadía",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_11_trafico&utm_content=pa-ch-05_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -2823,13 +2817,13 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA05-GROUP-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/RR-FAMILY-EXPLORE-feed.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
-          "source_asset_id": "1toQtCekwYDKbs7wAjdVYmjT7MI78AX9H",
+          "source_asset_id": "1PB2S92ohECtfMU6VW5jo268Wfy0Q9u8f",
           "fit": "cover",
           "focal_point": [
-            0.51,
+            0.52,
             0.5
           ]
         },
@@ -2842,7 +2836,7 @@
           "type": "image",
           "file": null,
           "mime_type": "image/png",
-          "status": "Needs a group-safe portrait composition",
+          "status": "Adaptation pending; preserve the family interaction",
           "source_asset_id": "1toQtCekwYDKbs7wAjdVYmjT7MI78AX9H",
           "fit": "cover",
           "focal_point": [
@@ -2852,15 +2846,18 @@
         }
       },
       "publication_brand": "Rainforest Resorts",
-      "review_status": "Revised following client browser comments; fresh copy and visual approval pending"
+      "review_status": "Revised proposal; fresh copy/visual approval required",
+      "legacy_review_id": "PA-CH-05",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-07",
-      "hotel": "Chachagua",
+      "id": "PA-RR-06",
+      "hotel": "Rainforest Resorts",
       "stage": "Reconocimiento",
       "persona": "Amigos",
-      "start": "2026-12-10",
-      "end": "2026-12-19",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias off-site",
       "location": "Off-site",
       "title": "Aventura para compartir",
@@ -2892,10 +2889,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2904,8 +2898,7 @@
           "headline": "Aventura para compartir",
           "story": "Te ayudamos a explorar opciones de canopy fuera del hotel para tu estadía en Costa Rica.",
           "cta": "Explora el viaje",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-07_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -2946,15 +2939,18 @@
         }
       },
       "publication_brand": "Rainforest Resorts",
-      "review_status": "Revised following client browser comments; fresh copy and visual approval pending"
+      "review_status": "Revised proposal; fresh copy/visual approval required",
+      "legacy_review_id": "PA-CH-07",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-08",
-      "hotel": "Chachagua",
+      "id": "PA-RR-07",
+      "hotel": "Rainforest Resorts",
       "stage": "Consideración",
       "persona": "Familias",
-      "start": "2026-12-16",
-      "end": "2026-12-25",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias culinarias",
       "location": "On-site Chachagua / off-site desde Arenal",
       "title": "Un momento para el chocolate",
@@ -2986,10 +2982,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -2998,8 +2991,7 @@
           "headline": "Un momento para el chocolate",
           "story": "Del cacao al chocolate: un descubrimiento práctico en Chachagua.",
           "cta": "Conoce cómo planearlo",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-08_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -3040,19 +3032,22 @@
         }
       },
       "publication_brand": "Rainforest Resorts",
-      "review_status": "Revised following client browser comments; fresh copy and visual approval pending",
+      "review_status": "Revised proposal; fresh copy/visual approval required",
       "fact_sources": [
         "https://chachaguarainforesthotel.com/experiences/coffee-cacao/",
         "https://chachaguarainforesthotel.com/es/experiences/tour-de-cafe-chocolate/"
-      ]
+      ],
+      "legacy_review_id": "PA-CH-08",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-09",
-      "hotel": "Chachagua",
+      "id": "PA-RR-08",
+      "hotel": "Rainforest Resorts",
       "stage": "Decisión",
       "persona": "Parejas",
-      "start": "2026-12-21",
-      "end": "2026-12-27",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Hospedajes",
       "location": "On-site",
       "title": "Tu próxima visita, con detalles claros",
@@ -3084,10 +3079,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -3096,8 +3088,7 @@
           "headline": "Tu próxima visita, con detalles claros",
           "story": "Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta.",
           "cta": "Diseña tu viaje",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-09_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -3138,15 +3129,18 @@
         }
       },
       "publication_brand": "Rainforest Resorts",
-      "review_status": "Revised following client browser comments; fresh copy and visual approval pending",
-      "visual_context": "Hacienda Cercone · Terrace seating and pool. This photo shows this accommodation’s setting."
+      "review_status": "Revised proposal; fresh copy/visual approval required",
+      "visual_context": "Hacienda Cercone · Terrace seating and pool. This photo shows this accommodation’s setting.",
+      "legacy_review_id": "PA-CH-09",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-CH-10",
-      "hotel": "Chachagua",
+      "id": "PA-RR-09",
+      "hotel": "Rainforest Resorts",
       "stage": "Decisión",
       "persona": "Parejas",
-      "start": "2026-12-26",
+      "start": "2026-11-16",
       "end": "2026-12-31",
       "category": "Hospedajes",
       "location": "On-site",
@@ -3179,10 +3173,7 @@
           "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -3191,8 +3182,7 @@
           "headline": "Empecemos por sus fechas",
           "story": "Empecemos por sus fechas. Conoce las categorías y consulta su propuesta.",
           "cta": "Consulta disponibilidad",
-          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://chachaguarainforesthotel.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=chachagua_2026_12_trafico&utm_content=pa-ch-10_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -3232,15 +3222,19 @@
           ]
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "legacy_review_id": "PA-CH-10",
+      "property": "Chachagua",
+      "schedule_type": "shared_paid_media_flight",
+      "review_status": "Revised proposal; fresh copy/visual approval required"
     },
     {
-      "id": "PA-AR-01",
-      "hotel": "Arenal",
+      "id": "PA-RR-10",
+      "hotel": "Rainforest Resorts",
       "stage": "Reconocimiento",
       "persona": "Parejas",
-      "start": "2026-11-06",
-      "end": "2026-11-15",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias in house",
       "location": "On-site",
       "title": "Una escapada a Costa Rica para dos",
@@ -3272,10 +3266,7 @@
           "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -3284,12 +3275,11 @@
           "headline": "Una escapada a Costa Rica para dos",
           "story": "Una escapada a Costa Rica para dos. Descubre la región y luego tu hospedaje.",
           "cta": "Conoce el resort",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised from Sergio’s destination-first recommendation; fresh copy approval required.",
+      "review_status": "Revised proposal; fresh copy/visual approval required",
       "media_formats": {
         "feed": {
           "aspect_ratio": "4:5",
@@ -3326,248 +3316,59 @@
           ]
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "legacy_review_id": "PA-AR-01",
+      "property": "Arenal",
+      "schedule_type": "shared_paid_media_flight"
     },
     {
-      "id": "PA-AR-02",
-      "hotel": "Arenal",
-      "stage": "Reconocimiento",
-      "persona": "Amigos",
-      "start": "2026-11-11",
-      "end": "2026-11-20",
-      "category": "Experiencias off-site",
-      "location": "Off-site",
-      "title": "Arenal, a distintos ritmos",
-      "copy": "¿Canopy sobre el bosque o una salida más tranquila cerca de la naturaleza? Un viaje con amigos a Costa Rica puede dejar espacio para distintos intereses. Exploren la región de Arenal y planeen su estadía en Arenal Rainforest Resort. Las actividades externas y los traslados se coordinan por separado.",
-      "headline_en": "Arenal, at different paces",
-      "copy_en": "Canopy above the forest or a slower outing close to nature? A Costa Rica trip with friends can make room for different interests. Explore the Arenal region, then plan a stay at Arenal Rainforest Resort. External activities and transport are arranged separately.",
-      "cta_editorial": "Descubre las posibilidades",
-      "cta_en": "Explore the Possibilities",
-      "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
-      "description": "Arenal accommodation options",
-      "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_es",
-      "codes": [
-        "EX-NEW08"
-      ],
-      "kind": "external",
-      "status": "Borrador; necesita producción",
-      "stay": "Enero–marzo 2027",
-      "story_es": "Arenal, a distintos ritmos. Descubre la región y luego tu hospedaje.",
-      "story_en": "Arenal, at different paces. Discover the region, then explore your stay.",
-      "gap": "Selected after visual inspection. Keep head, raised hands and feet together; landscape inset avoids cutting equipment. Confirm current product/venue, paid-use and likeness permissions as applicable.",
-      "market_variants": [
-        {
-          "market": "United States",
-          "language": "EN",
-          "copy": "Canopy above the forest or a slower outing close to nature? A Costa Rica trip with friends can make room for different interests. Explore the Arenal region, then plan a stay at Arenal Rainforest Resort. External activities and transport are arranged separately. Confirm your category and stay conditions.",
-          "headline": "Arenal, at different paces",
-          "story": "Arenal, at different paces. Discover the region, then explore your stay.",
-          "cta": "Explore the Possibilities",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_en",
-          "markets": [
-            "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
-        },
-        {
-          "market": "Costa Rica",
-          "language": "ES",
-          "copy": "¿Canopy sobre el bosque o una salida más tranquila cerca de la naturaleza? Un viaje con amigos a Costa Rica puede dejar espacio para distintos intereses. Exploren la región de Arenal y planeen su estadía en Arenal Rainforest Resort. Las actividades externas y los traslados se coordinan por separado. Consulta categoría y condiciones para tus fechas.",
-          "headline": "Arenal, a distintos ritmos",
-          "story": "Arenal, a distintos ritmos. Descubre la región y luego tu hospedaje.",
-          "cta": "Descubre las posibilidades",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-02_es",
-          "monthly_budget_per_hotel": 150
-        }
-      ],
-      "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised from Sergio’s destination-first recommendation; fresh copy approval required.",
-      "media_formats": {
-        "feed": {
-          "aspect_ratio": "4:5",
-          "dimensions": [
-            1080,
-            1350
-          ],
-          "type": "image",
-          "file": "assets/social-formats/EX-NEW08-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1OFpol_wOLGI2IaC0Ohx8oRRFdLxyoG-y",
-          "fit": "cover",
-          "focal_point": [
-            0.43,
-            0.5
-          ]
-        },
-        "story": {
-          "aspect_ratio": "9:16",
-          "dimensions": [
-            1080,
-            1920
-          ],
-          "type": "image",
-          "file": "assets/social-formats/EX-NEW08-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1OFpol_wOLGI2IaC0Ohx8oRRFdLxyoG-y",
-          "fit": "cover",
-          "focal_point": [
-            0.43,
-            0.5
-          ]
-        }
-      },
-      "publication_brand": "Rainforest Resorts"
-    },
-    {
-      "id": "PA-AR-03",
-      "hotel": "Arenal",
-      "stage": "Reconocimiento",
-      "persona": "Familias",
-      "start": "2026-11-18",
-      "end": "2026-11-27",
-      "category": "Experiencias de naturaleza",
-      "location": "On-site Chachagua / off-site desde Arenal",
-      "title": "Costa Rica empieza con curiosidad",
-      "copy": "Un canto de ave. Un sendero nuevo. Una pregunta que tus hijos quieren explorar. Descubre el lado de bosque tropical de Costa Rica y elige Arenal Rainforest Resort como base para el viaje en familia. Consulta con nuestros Travel Designers por experiencias adecuadas para las edades de tus hijos.",
-      "headline_en": "Costa Rica starts with curiosity",
-      "copy_en": "A birdcall. A new trail. A question your children want to explore. Discover the rainforest side of Costa Rica, then choose Arenal Rainforest Resort as a base for your family’s journey. Ask our Travel Designers about experiences suited to your children’s ages.",
-      "cta_editorial": "Empieza a explorar",
-      "cta_en": "Start Exploring",
-      "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
-      "description": "Arenal accommodation options",
-      "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_es",
-      "codes": [
-        "CH-B"
-      ],
-      "kind": "bird",
-      "status": "Borrador; necesita adaptación",
-      "stay": "Enero–marzo 2027",
-      "story_es": "Costa Rica empieza con curiosidad. Descubre la región y luego tu hospedaje.",
-      "story_en": "Costa Rica starts with curiosity. Discover the region, then explore your stay.",
-      "gap": "Verify category, currency and advertising rights; prepare a vertical crop distinct from the feed.",
-      "market_variants": [
-        {
-          "market": "United States",
-          "language": "EN",
-          "copy": "A birdcall. A new trail. A question your children want to explore. Discover the rainforest side of Costa Rica, then choose Arenal Rainforest Resort as a base for your family’s journey. Ask our Travel Designers about experiences suited to your children’s ages. Confirm your category and stay conditions.",
-          "headline": "Costa Rica starts with curiosity",
-          "story": "Costa Rica starts with curiosity. Discover the region, then explore your stay.",
-          "cta": "Start Exploring",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_en",
-          "markets": [
-            "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
-        },
-        {
-          "market": "Costa Rica",
-          "language": "ES",
-          "copy": "Un canto de ave. Un sendero nuevo. Una pregunta que tus hijos quieren explorar. Descubre el lado de bosque tropical de Costa Rica y elige Arenal Rainforest Resort como base para el viaje en familia. Consulta con nuestros Travel Designers por experiencias adecuadas para las edades de tus hijos. Consulta categoría y condiciones para tus fechas.",
-          "headline": "Costa Rica empieza con curiosidad",
-          "story": "Costa Rica empieza con curiosidad. Descubre la región y luego tu hospedaje.",
-          "cta": "Empieza a explorar",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-03_es",
-          "monthly_budget_per_hotel": 150
-        }
-      ],
-      "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised from Sergio’s destination-first recommendation; fresh copy approval required.",
-      "media_formats": {
-        "feed": {
-          "aspect_ratio": "4:5",
-          "dimensions": [
-            1080,
-            1350
-          ],
-          "type": "image",
-          "file": "assets/social-formats/CH-B-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1U1olXXmNE4XZzjk-syAfgJDzIBar5eok",
-          "fit": "cover",
-          "focal_point": [
-            0.29,
-            0.5
-          ]
-        },
-        "story": {
-          "aspect_ratio": "9:16",
-          "dimensions": [
-            1080,
-            1920
-          ],
-          "type": "image",
-          "file": "assets/social-formats/CH-B-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1U1olXXmNE4XZzjk-syAfgJDzIBar5eok",
-          "fit": "cover",
-          "focal_point": [
-            0.29,
-            0.5
-          ]
-        }
-      },
-      "publication_brand": "Rainforest Resorts"
-    },
-    {
-      "id": "PA-AR-04",
-      "hotel": "Arenal",
+      "id": "PA-RR-11",
+      "hotel": "Rainforest Resorts",
       "stage": "Consideración",
       "persona": "Parejas",
-      "start": "2026-11-23",
-      "end": "2026-12-02",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Hospedajes",
       "location": "On-site",
       "title": "Elige cómo quieres regresar",
-      "copy": "La habitación también forma parte del viaje. Conoce las categorías de Arenal Rainforest Resort y consulta características, disponibilidad y condiciones para tus fechas. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+      "copy": "La habitación también forma parte del viaje. Conoce las categorías de Arenal Rainforest Resort y consulta características, disponibilidad y condiciones para tus fechas.",
       "headline_en": "Choose Your Place to Return",
-      "copy_en": "Your accommodation is part of the holiday. Explore Arenal Rainforest Resort and enquire about category features, availability, and conditions for your travel dates. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+      "copy_en": "Your accommodation is part of the holiday. Explore Arenal Rainforest Resort and enquire about category features, availability, and conditions for your travel dates.",
       "cta_editorial": "Conoce las categorías",
       "cta_en": "Explore Accommodation",
       "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
       "description": "Arenal accommodation options",
       "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_es",
       "codes": [
-        "AR-NEW21"
+        "RR-VISTA-VOLCANO"
       ],
       "kind": "room",
       "status": "Borrador; necesita adaptación",
       "stay": "Enero–marzo 2027",
       "story_es": "Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
       "story_en": "Choose Your Place to Return. Explore accommodation and plan your stay. Confirm conditions.",
-      "gap": "Selected after visual inspection. Keep landscape inset so both beds remain visible; never crop this into a misleading single-bed layout. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+      "gap": "Deck and pool at One Bedroom Vista Arenal with Arenal volcano beyond the tropical garden; this does not establish the view from every unit. Confirm current offering, paid-use and any talent permissions before activation.",
       "market_variants": [
         {
           "market": "United States",
           "language": "EN",
-          "copy": "Your accommodation is part of the holiday. Explore Arenal Rainforest Resort and enquire about category features, availability, and conditions for your travel dates. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+          "copy": "Your accommodation is part of the holiday. Explore Arenal Rainforest Resort and enquire about category features, availability, and conditions for your travel dates.",
           "headline": "Choose Your Place to Return",
           "story": "Choose Your Place to Return. Explore accommodation and plan your stay. Confirm conditions.",
           "cta": "Explore Accommodation",
           "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
           "language": "ES",
-          "copy": "La habitación también forma parte del viaje. Conoce las categorías de Arenal Rainforest Resort y consulta características, disponibilidad y condiciones para tus fechas. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+          "copy": "La habitación también forma parte del viaje. Conoce las categorías de Arenal Rainforest Resort y consulta características, disponibilidad y condiciones para tus fechas.",
           "headline": "Elige cómo quieres regresar",
           "story": "Elige cómo quieres regresar. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
           "cta": "Conoce las categorías",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-04_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -3579,15 +3380,15 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-NEW21-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1UGUDRb7wKPMUpY3MsBKUPM2fc3GZu0vZ",
-          "fit": "cover",
+          "file": "assets/social-formats/RR-VISTA-VOLCANO-feed.webp",
+          "mime_type": "image/webp",
+          "source_asset_id": "1y4ps9l8Vgi2ew_FgB79qZLmr-VqoIHeZ",
           "focal_point": [
             0.5,
             0.5
-          ]
+          ],
+          "fit": "cover",
+          "status": "Prepared for visual review"
         },
         "story": {
           "aspect_ratio": "9:16",
@@ -3596,71 +3397,72 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-NEW21-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1UGUDRb7wKPMUpY3MsBKUPM2fc3GZu0vZ",
-          "fit": "cover",
+          "file": "assets/social-formats/RR-VISTA-VOLCANO-story.webp",
+          "mime_type": "image/webp",
+          "source_asset_id": "1y4ps9l8Vgi2ew_FgB79qZLmr-VqoIHeZ",
           "focal_point": [
             0.5,
             0.5
-          ]
+          ],
+          "fit": "cover",
+          "status": "Prepared for visual review"
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "visual_context": "One Bedroom Vista Arenal · Deck and volcano view",
+      "legacy_review_id": "PA-AR-04",
+      "property": "Arenal",
+      "schedule_type": "shared_paid_media_flight",
+      "review_status": "Revised proposal; fresh copy/visual approval required"
     },
     {
-      "id": "PA-AR-05",
-      "hotel": "Arenal",
+      "id": "PA-RR-12",
+      "hotel": "Rainforest Resorts",
       "stage": "Decisión",
       "persona": "Amigos",
-      "start": "2026-11-26",
-      "end": "2026-11-30",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Hospedajes",
       "location": "On-site",
       "title": "Planeemos el viaje del grupo",
-      "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Arenal Rainforest Resort y solicita una propuesta con categorías y logística claras. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+      "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Arenal Rainforest Resort y solicita una propuesta con categorías y logística claras.",
       "headline_en": "Plan the Group Trip",
-      "copy_en": "Dates, travellers, and room arrangements: start with what your group needs. Visit Arenal Rainforest Resort and request a proposal with clear accommodation and logistics. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+      "copy_en": "Dates, travellers, and room arrangements: start with what your group needs. Visit Arenal Rainforest Resort and request a proposal with clear accommodation and logistics.",
       "cta_editorial": "Consulta tu estadía",
       "cta_en": "Enquire About Your Stay",
       "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
       "description": "Arenal accommodation options",
       "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_es",
       "codes": [
-        "AR-NEW22"
+        "RR-GROUP-BRIDGES"
       ],
       "kind": "room",
       "status": "Borrador; necesita adaptación",
       "stay": "Enero–marzo 2027",
       "story_es": "Planeemos el viaje del grupo. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
       "story_en": "Plan the Group Trip. Explore accommodation and plan your stay. Confirm conditions.",
-      "gap": "Selected after visual inspection. Landscape inset preserves the two-bed arrangement; current occupancy must be confirmed separately. Confirm current product/venue, paid-use and likeness permissions as applicable.",
+      "gap": "Group of tourists with a guide on an Arenal-region hanging bridge. Regional off-site outing; this is not resort accommodation. Confirm current offering, paid-use and any talent permissions before activation.",
       "market_variants": [
         {
           "market": "United States",
           "language": "EN",
-          "copy": "Dates, travellers, and room arrangements: start with what your group needs. Visit Arenal Rainforest Resort and request a proposal with clear accommodation and logistics. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
+          "copy": "Dates, travellers, and room arrangements: start with what your group needs. Visit Arenal Rainforest Resort and request a proposal with clear accommodation and logistics.",
           "headline": "Plan the Group Trip",
           "story": "Plan the Group Trip. Explore accommodation and plan your stay. Confirm conditions.",
           "cta": "Enquire About Your Stay",
           "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
           "language": "ES",
-          "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Arenal Rainforest Resort y solicita una propuesta con categorías y logística claras. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
+          "copy": "Fechas, viajeros y distribución de habitaciones: empecemos por lo que su grupo necesita. Visita Arenal Rainforest Resort y solicita una propuesta con categorías y logística claras.",
           "headline": "Planeemos el viaje del grupo",
           "story": "Planeemos el viaje del grupo. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
           "cta": "Consulta tu estadía",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-05_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -3672,15 +3474,16 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-NEW22-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1WvyEboi8i5NMRB-ZVQzuiOyh6p-s8Te-",
-          "fit": "cover",
+          "file": "assets/social-formats/RR-GROUP-BRIDGES-feed.webp",
+          "mime_type": "image/webp",
+          "source_asset_id": "1E8mO75vfCP4DSqfndV_SH_CTJ19uhk28",
           "focal_point": [
             0.5,
-            0.5
-          ]
+            0.68
+          ],
+          "fit": "cover",
+          "status": "Prepared for visual review",
+          "zoom": 1.35
         },
         "story": {
           "aspect_ratio": "9:16",
@@ -3689,119 +3492,32 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-NEW22-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1WvyEboi8i5NMRB-ZVQzuiOyh6p-s8Te-",
-          "fit": "cover",
+          "file": "assets/social-formats/RR-GROUP-BRIDGES-story.webp",
+          "mime_type": "image/webp",
+          "source_asset_id": "1E8mO75vfCP4DSqfndV_SH_CTJ19uhk28",
           "focal_point": [
             0.5,
-            0.5
-          ]
+            0.68
+          ],
+          "fit": "cover",
+          "status": "Prepared for visual review",
+          "zoom": 1.35
         }
       },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "visual_context": "Tourists on an Arenal-region guided outing · Off-site",
+      "legacy_review_id": "PA-AR-05",
+      "property": "Arenal",
+      "schedule_type": "shared_paid_media_flight",
+      "review_status": "Revised proposal; fresh copy/visual approval required"
     },
     {
-      "id": "PA-AR-06",
-      "hotel": "Arenal",
-      "stage": "Reconocimiento",
-      "persona": "Parejas",
-      "start": "2026-12-03",
-      "end": "2026-12-12",
-      "category": "Experiencias in house",
-      "location": "On-site",
-      "title": "Una pausa dentro del viaje",
-      "copy": "Hay días que se disfrutan con menos reservas. Descubre Arenal Rainforest Resort y empieza a diseñar una visita a Costa Rica con experiencias elegidas y tiempo propio. Consulta categoría y condiciones para tus fechas.",
-      "headline_en": "Room for a Pause",
-      "copy_en": "Some holiday days work beautifully with fewer bookings. Discover Arenal Rainforest Resort and start planning Costa Rica with selected experiences and time of your own. Confirm your category and stay conditions.",
-      "cta_editorial": "Descubre el resort",
-      "cta_en": "Discover the Resort",
-      "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
-      "description": "Arenal accommodation options",
-      "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_es",
-      "codes": [
-        "AR-NEW19"
-      ],
-      "kind": "human",
-      "status": "Borrador; necesita producción",
-      "stay": "Febrero–abril 2027",
-      "story_es": "Una pausa dentro del viaje. Descubre el resort y diseña tu visita. Consulta condiciones.",
-      "story_en": "Room for a Pause. Explore the resort and plan your visit. Confirm conditions.",
-      "gap": "Selected after visual inspection. Landscape inset preserves pool and planting; do not infer heating or a private pool. Confirm current product/venue, paid-use and likeness permissions as applicable.",
-      "market_variants": [
-        {
-          "market": "United States",
-          "language": "EN",
-          "copy": "Some holiday days work beautifully with fewer bookings. Discover Arenal Rainforest Resort and start planning Costa Rica with selected experiences and time of your own. Confirm your category and stay conditions.",
-          "headline": "Room for a Pause",
-          "story": "Room for a Pause. Explore the resort and plan your visit. Confirm conditions.",
-          "cta": "Discover the Resort",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_en",
-          "markets": [
-            "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
-        },
-        {
-          "market": "Costa Rica",
-          "language": "ES",
-          "copy": "Hay días que se disfrutan con menos reservas. Descubre Arenal Rainforest Resort y empieza a diseñar una visita a Costa Rica con experiencias elegidas y tiempo propio. Consulta categoría y condiciones para tus fechas.",
-          "headline": "Una pausa dentro del viaje",
-          "story": "Una pausa dentro del viaje. Descubre el resort y diseña tu visita. Consulta condiciones.",
-          "cta": "Descubre el resort",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-06_es",
-          "monthly_budget_per_hotel": 150
-        }
-      ],
-      "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "media_formats": {
-        "feed": {
-          "aspect_ratio": "4:5",
-          "dimensions": [
-            1080,
-            1350
-          ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW19-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1LmNv4GnQNURwR46Z5YgA1S5OyRc5k2jk",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        },
-        "story": {
-          "aspect_ratio": "9:16",
-          "dimensions": [
-            1080,
-            1920
-          ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW19-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1LmNv4GnQNURwR46Z5YgA1S5OyRc5k2jk",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        }
-      },
-      "publication_brand": "Rainforest Resorts"
-    },
-    {
-      "id": "PA-AR-07",
-      "hotel": "Arenal",
+      "id": "PA-RR-13",
+      "hotel": "Rainforest Resorts",
       "stage": "Reconocimiento",
       "persona": "Amigos",
-      "start": "2026-12-10",
-      "end": "2026-12-19",
+      "start": "2026-11-16",
+      "end": "2026-12-31",
       "category": "Experiencias off-site",
       "location": "Off-site",
       "title": "Una experiencia para compartir",
@@ -3833,10 +3549,7 @@
           "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_en",
           "markets": [
             "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
+          ]
         },
         {
           "market": "Costa Rica",
@@ -3845,8 +3558,7 @@
           "headline": "Una experiencia para compartir",
           "story": "Una experiencia para compartir. Descubre el resort y diseña tu visita. Consulta condiciones.",
           "cta": "Explora el viaje",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_es",
-          "monthly_budget_per_hotel": 150
+          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-07_es"
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
@@ -3886,286 +3598,11 @@
           ]
         }
       },
-      "publication_brand": "Rainforest Resorts"
-    },
-    {
-      "id": "PA-AR-08",
-      "hotel": "Arenal",
-      "stage": "Consideración",
-      "persona": "Familias",
-      "start": "2026-12-16",
-      "end": "2026-12-25",
-      "category": "Experiencias culinarias",
-      "location": "On-site Chachagua / off-site desde Arenal",
-      "title": "Del cacao a nuevas preguntas",
-      "copy": "El tour de café y chocolate ocurre en Chachagua. Consulta con Arenal Rainforest Resort edades, acceso, costos y logística para tu familia, y descubre cómo puede encajar en la estadía. Consulta categoría y condiciones para tus fechas.",
-      "headline_en": "Cacao and New Questions",
-      "copy_en": "The coffee and chocolate tour takes place at Chachagua. Ask Arenal Rainforest Resort about ages, access, costs, and logistics for your family, and see how it could fit your stay. Confirm your category and stay conditions.",
-      "cta_editorial": "Conoce cómo planearlo",
-      "cta_en": "Explore Your Stay",
-      "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
-      "description": "Arenal accommodation options",
-      "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_es",
-      "codes": [
-        "CH-NEW01"
-      ],
-      "kind": "cacao",
-      "status": "Borrador; necesita producción",
-      "stay": "Febrero–abril 2027",
-      "story_es": "Del cacao a nuevas preguntas. Descubre el resort y diseña tu visita. Consulta condiciones.",
-      "story_en": "Cacao and New Questions. Explore the resort and plan your visit. Confirm conditions.",
-      "gap": "Selected after visual inspection. Keep landscape inset to preserve hands, cacao and mould. Confirm current product/venue, paid-use and likeness permissions as applicable.",
-      "market_variants": [
-        {
-          "market": "United States",
-          "language": "EN",
-          "copy": "The coffee and chocolate tour takes place at Chachagua. Ask Arenal Rainforest Resort about ages, access, costs, and logistics for your family, and see how it could fit your stay. Confirm your category and stay conditions.",
-          "headline": "Cacao and New Questions",
-          "story": "Cacao and New Questions. Explore the resort and plan your visit. Confirm conditions.",
-          "cta": "Explore Your Stay",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_en",
-          "markets": [
-            "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
-        },
-        {
-          "market": "Costa Rica",
-          "language": "ES",
-          "copy": "El tour de café y chocolate ocurre en Chachagua. Consulta con Arenal Rainforest Resort edades, acceso, costos y logística para tu familia, y descubre cómo puede encajar en la estadía. Consulta categoría y condiciones para tus fechas.",
-          "headline": "Del cacao a nuevas preguntas",
-          "story": "Del cacao a nuevas preguntas. Descubre el resort y diseña tu visita. Consulta condiciones.",
-          "cta": "Conoce cómo planearlo",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-08_es",
-          "monthly_budget_per_hotel": 150
-        }
-      ],
-      "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "media_formats": {
-        "feed": {
-          "aspect_ratio": "4:5",
-          "dimensions": [
-            1080,
-            1350
-          ],
-          "type": "image",
-          "file": "assets/social-formats/CH-NEW01-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1LnKcanLFxfBqL-Ldcs7XCQ40NGYRqci4",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        },
-        "story": {
-          "aspect_ratio": "9:16",
-          "dimensions": [
-            1080,
-            1920
-          ],
-          "type": "image",
-          "file": "assets/social-formats/CH-NEW01-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1LnKcanLFxfBqL-Ldcs7XCQ40NGYRqci4",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        }
-      },
-      "publication_brand": "Rainforest Resorts"
-    },
-    {
-      "id": "PA-AR-09",
-      "hotel": "Arenal",
-      "stage": "Decisión",
-      "persona": "Parejas",
-      "start": "2026-12-21",
-      "end": "2026-12-27",
-      "category": "Hospedajes",
-      "location": "On-site",
-      "title": "Tu próxima visita, con detalles claros",
-      "copy": "Cuéntanos sus fechas y lo que esperan del viaje. En Arenal Rainforest Resort, consulta una propuesta con la categoría y las condiciones de estadía confirmadas para ustedes. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
-      "headline_en": "Plan Your Next Stay",
-      "copy_en": "Tell us your dates and what you want from the trip. Ask Arenal Rainforest Resort for a proposal with accommodation and stay conditions confirmed for you. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
-      "cta_editorial": "Diseña tu viaje",
-      "cta_en": "Plan Your Trip",
-      "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
-      "description": "Arenal accommodation options",
-      "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_es",
-      "codes": [
-        "AR-NEW18"
-      ],
-      "kind": "room",
-      "status": "Borrador; necesita adaptación",
-      "stay": "Febrero–abril 2027",
-      "story_es": "Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
-      "story_en": "Plan Your Next Stay. Explore accommodation and plan your stay. Confirm conditions.",
-      "gap": "Selected after visual inspection. Portrait composition is suitable; retain tap and basin rim in the feed frame. Confirm current product/venue, paid-use and likeness permissions as applicable.",
-      "market_variants": [
-        {
-          "market": "United States",
-          "language": "EN",
-          "copy": "Tell us your dates and what you want from the trip. Ask Arenal Rainforest Resort for a proposal with accommodation and stay conditions confirmed for you. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
-          "headline": "Plan Your Next Stay",
-          "story": "Plan Your Next Stay. Explore accommodation and plan your stay. Confirm conditions.",
-          "cta": "Plan Your Trip",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_en",
-          "markets": [
-            "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
-        },
-        {
-          "market": "Costa Rica",
-          "language": "ES",
-          "copy": "Cuéntanos sus fechas y lo que esperan del viaje. En Arenal Rainforest Resort, consulta una propuesta con la categoría y las condiciones de estadía confirmadas para ustedes. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
-          "headline": "Tu próxima visita, con detalles claros",
-          "story": "Tu próxima visita, con detalles claros. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
-          "cta": "Diseña tu viaje",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-09_es",
-          "monthly_budget_per_hotel": 150
-        }
-      ],
-      "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "media_formats": {
-        "feed": {
-          "aspect_ratio": "4:5",
-          "dimensions": [
-            1080,
-            1350
-          ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW18-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1TW4nw5W_yxDO6ETuLY0zmrs1Zozqfyl8",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        },
-        "story": {
-          "aspect_ratio": "9:16",
-          "dimensions": [
-            1080,
-            1920
-          ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW18-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1TW4nw5W_yxDO6ETuLY0zmrs1Zozqfyl8",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        }
-      },
-      "publication_brand": "Rainforest Resorts"
-    },
-    {
-      "id": "PA-AR-10",
-      "hotel": "Arenal",
-      "stage": "Decisión",
-      "persona": "Parejas",
-      "start": "2026-12-26",
-      "end": "2026-12-31",
-      "category": "Hospedajes",
-      "location": "On-site",
-      "title": "Empecemos por sus fechas",
-      "copy": "El viaje de 2027 puede empezar con una conversación. Visita Arenal Rainforest Resort y consulta disponibilidad, categoría y condiciones para convertir la idea en una propuesta concreta. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
-      "headline_en": "Start With Your Dates",
-      "copy_en": "Your 2027 trip can begin with a conversation. Visit Arenal Rainforest Resort and enquire about availability, accommodation, and conditions to turn the idea into a clear proposal. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
-      "cta_editorial": "Consulta disponibilidad",
-      "cta_en": "Enquire About Availability",
-      "platform_button": "Más información / Learn More (verificar disponibilidad en cuenta)",
-      "description": "Arenal accommodation options",
-      "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_es",
-      "codes": [
-        "AR-NEW16"
-      ],
-      "kind": "room",
-      "status": "Borrador; necesita adaptación",
-      "stay": "Febrero–abril 2027",
-      "story_es": "Empecemos por sus fechas. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
-      "story_en": "Start With Your Dates. Explore accommodation and plan your stay. Confirm conditions.",
-      "gap": "Selected after visual inspection. Inset preserves both basins; useful as a detail, not a bedroom or volcano-view image. Confirm current product/venue, paid-use and likeness permissions as applicable.",
-      "market_variants": [
-        {
-          "market": "United States",
-          "language": "EN",
-          "copy": "Your 2027 trip can begin with a conversation. Visit Arenal Rainforest Resort and enquire about availability, accommodation, and conditions to turn the idea into a clear proposal. Confirm your category and stay conditions. Image: a detail of One Bedroom Vista Arenal.",
-          "headline": "Start With Your Dates",
-          "story": "Start With Your Dates. Explore accommodation and plan your stay. Confirm conditions.",
-          "cta": "Enquire About Availability",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_en",
-          "markets": [
-            "United States"
-          ],
-          "market_allocations_per_resort_month": {
-            "United States": 1275
-          }
-        },
-        {
-          "market": "Costa Rica",
-          "language": "ES",
-          "copy": "El viaje de 2027 puede empezar con una conversación. Visita Arenal Rainforest Resort y consulta disponibilidad, categoría y condiciones para convertir la idea en una propuesta concreta. Consulta categoría y condiciones para tus fechas. Imagen: detalle de One Bedroom Vista Arenal.",
-          "headline": "Empecemos por sus fechas",
-          "story": "Empecemos por sus fechas. Conoce las categorías y consulta su propuesta. Consulta condiciones.",
-          "cta": "Consulta disponibilidad",
-          "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_12_trafico&utm_content=pa-ar-10_es",
-          "monthly_budget_per_hotel": 150
-        }
-      ],
-      "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "media_formats": {
-        "feed": {
-          "aspect_ratio": "4:5",
-          "dimensions": [
-            1080,
-            1350
-          ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW16-feed.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1758gqaEU1XqRr_cu_C-3_h4nNzHAi6bS",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        },
-        "story": {
-          "aspect_ratio": "9:16",
-          "dimensions": [
-            1080,
-            1920
-          ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW16-story.png",
-          "mime_type": "image/png",
-          "status": "Prepared for visual review",
-          "source_asset_id": "1758gqaEU1XqRr_cu_C-3_h4nNzHAi6bS",
-          "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
-        }
-      },
-      "publication_brand": "Rainforest Resorts"
+      "publication_brand": "Rainforest Resorts",
+      "legacy_review_id": "PA-AR-07",
+      "property": "Arenal",
+      "schedule_type": "shared_paid_media_flight",
+      "review_status": "Revised proposal; fresh copy/visual approval required"
     }
   ],
   "language_policy": {
@@ -4266,5 +3703,29 @@
     "subject_en": "12 selected experiences for your clients’ Costa Rica itinerary",
     "preheader_en": "Help your clients choose experiences from Chachagua or Arenal with our Travel Designers.",
     "experiences": 12
+  },
+  "meta_flight": {
+    "brand": "Rainforest Resorts",
+    "channel": "Meta Ads · Facebook & Instagram",
+    "start": "2026-11-16",
+    "end": "2026-12-31",
+    "timezone": "America/Costa_Rica",
+    "status": "Client-requested campaign flight; no activation performed",
+    "individual_editorial_publication_dates": false,
+    "currency": "USD",
+    "monthly_caps": {
+      "2026-11": 2000,
+      "2026-12": 2000
+    },
+    "campaign_cap": 4000,
+    "market_split": {
+      "United States": 0.85,
+      "Costa Rica": 0.15
+    },
+    "monthly_market_caps": {
+      "United States": 1700,
+      "Costa Rica": 300
+    },
+    "allocation_note": "Shared campaign caps, not a budget for each creative. Preserve the approved resort attribution within the overall media plan."
   }
 }

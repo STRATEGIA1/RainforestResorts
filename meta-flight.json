@@ -1,0 +1,24 @@
+{
+  "brand": "Rainforest Resorts",
+  "channel": "Meta Ads · Facebook & Instagram",
+  "start": "2026-11-16",
+  "end": "2026-12-31",
+  "timezone": "America/Costa_Rica",
+  "status": "Client-requested campaign flight; no activation performed",
+  "individual_editorial_publication_dates": false,
+  "currency": "USD",
+  "monthly_caps": {
+    "2026-11": 2000,
+    "2026-12": 2000
+  },
+  "campaign_cap": 4000,
+  "market_split": {
+    "United States": 0.85,
+    "Costa Rica": 0.15
+  },
+  "monthly_market_caps": {
+    "United States": 1700,
+    "Costa Rica": 300
+  },
+  "allocation_note": "Shared campaign caps, not a budget for each creative. Preserve the approved resort attribution within the overall media plan."
+}

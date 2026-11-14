@@ -1,7 +1,7 @@
 {
   "source_version": "c24d88842ad290b79d8b",
-  "date": "2026-11-14",
-  "publication_status": "Revised preview; synchronization in progress",
+  "date": "2026-11-13",
+  "publication_status": "Local revisions prepared for synchronization",
   "entries": [
     {
       "comment_id": "7dc0b119-57f9-4d19-8ccd-bc071c2d6618",
@@ -376,6 +376,62 @@
       "request": "Do not use the unfurnished pool photograph DJI_0094.JPG.",
       "change": "Replaced with the client-selected Hacienda Cercone furnished terrace and pool photograph, identified by accommodation.",
       "status": "Applied to preview; fresh approval required"
+    },
+    {
+      "comment_id": "browser-20261113-arenal-meta-1",
+      "author": "Andrés · browser annotation / direct instruction",
+      "piece": "Meta concepts",
+      "request": "Remove PA-AR-02, PA-AR-03, PA-AR-06, PA-AR-08, PA-AR-09 and PA-AR-10 in both languages.",
+      "change": "Removed six active concepts; original copy and IDs retained internally for history.",
+      "status": "Applied locally; revised approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-arenal-meta-2",
+      "author": "Andrés · browser annotation / direct instruction",
+      "piece": "PA-CH-01",
+      "request": "All preview photos must be 4:5 with subjects centred.",
+      "change": "Selected another real couple take, prepared subject-preserving full-frame feed and Story exports, and removed the horizontal override.",
+      "status": "Applied locally; revised approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-arenal-meta-3",
+      "author": "Andrés · browser annotation / direct instruction",
+      "piece": "PA-AR-04",
+      "request": "Show the deck and volcano in the selected Vista Arenal photograph.",
+      "change": "Selected the Vista Arenal deck/pool photograph with the volcano beyond; both crops prepared.",
+      "status": "Applied locally; revised approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-arenal-meta-4",
+      "author": "Andrés · browser annotation / direct instruction",
+      "piece": "PA-AR-05",
+      "request": "Choose a photograph of a group of tourists.",
+      "change": "Selected tourists on an Arenal-region hanging bridge; off-site location identified and both crops prepared.",
+      "status": "Applied locally; revised approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-arenal-meta-5",
+      "author": "Andrés · browser annotation / direct instruction",
+      "piece": "Meta Ads",
+      "request": "Renumber remaining ads under Rainforest Resorts.",
+      "change": "Renumbered 13 remaining concepts PA-RR-01 to PA-RR-13; permanent comment/page mappings preserve the original review identities.",
+      "status": "Applied locally; revised approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-arenal-meta-6",
+      "author": "Andrés · browser annotation / direct instruction",
+      "piece": "Meta flight / Calendar",
+      "request": "All remaining ads run 16 November–31 December 2026 under approved November/December Meta budget; no individual publication dates.",
+      "change": "Shared flight stored; editorial calendar excludes Meta items. Meta caps remain US$2,000/month, US$4,000 total, United States 85% / Costa Rica 15%.",
+      "status": "Applied locally; revised approval pending"
+    },
+    {
+      "comment_id": "browser-20261113-family-active",
+      "author": "Andrés · browser annotation",
+      "piece": "PA-RR-05 (previously PA-CH-05)",
+      "request": "Select another photograph of the same family actively exploring.",
+      "change": "Selected DSC07354-Mejorado-NR.jpg: mother and children discovering tropical fruit during their outing. Replaced the static standing-group preview with a subject-centred 4:5 crop; Story remains pending.",
+      "status": "Applied to preview; fresh visual approval pending"
     }
   ]
 }
