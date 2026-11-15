@@ -1,3 +1,3 @@
-# Costa Rica your way
+# Rainforest Resorts
 
-STRATEGIA client proposal. Static publication bundle, English First. Shared reviews use the configured review service and a secret capability link supplied separately. Reviewer names are self-declared; no GitHub account is required. No tokens or credentials belong in this repository.
+The campaign moved to https://strategia.la/rainforest-resorts-2026-noviembre. This repository publishes only browser redirects. The former campaign remains in Git history.
