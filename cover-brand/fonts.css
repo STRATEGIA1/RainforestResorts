@@ -1,0 +1,7 @@
+@font-face{font-family:"Avenir";src:url("Avenir-Roman.woff2") format("woff2");font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:"Avenir";src:url("Avenir-Medium.woff2") format("woff2");font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:"Avenir";src:url("Avenir-Heavy.woff2") format("woff2");font-style:normal;font-weight:800;font-display:swap}
+@font-face{font-family:"Poppins";src:url("Poppins-Regular.woff2") format("woff2");font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:"Poppins";src:url("Poppins-Medium.woff2") format("woff2");font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:"Poppins";src:url("Poppins-SemiBold.woff2") format("woff2");font-style:normal;font-weight:600;font-display:swap}
+:root{--font-primary:"Avenir",sans-serif;--font-secondary:"Poppins",sans-serif}html,body{font-family:var(--font-primary)}button,input,select,textarea{font:inherit}h1,h2,h3,h4{font-family:var(--font-primary);font-weight:800}.meta,.status,.resource,nav,.media-cta,.section-intro{font-family:var(--font-secondary)}

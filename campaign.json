@@ -38,11 +38,12 @@
         }
       ],
       "cover_code": "AR-VOLCANO-LAUNCH",
-      "review_id": "B04"
+      "review_id": "B04",
+      "date_status": "Published per client"
     },
     {
       "id": "B02",
-      "date": "2026-11-23",
+      "date": "2026-11-20",
       "persona": "Parejas",
       "category": "Experiencias in house",
       "theme": "Bienestar/reconexión",
@@ -72,11 +73,12 @@
         "CH-P",
         "RR-B02-COUPLE-RIVER",
         "CH-B02-TERRACE-COUPLE"
-      ]
+      ],
+      "date_status": "Proposed date; requires approval before publication"
     },
     {
       "id": "B03",
-      "date": "2026-12-07",
+      "date": "2026-12-04",
       "persona": "Amigos",
       "category": "Experiencias off-site",
       "theme": "Aventura/exploración",
@@ -122,17 +124,18 @@
           "caption_es": "Safari Float en Peñas Blancas · Una experiencia de río fuera del resort"
         },
         {
-          "code": "CH-NEW15",
+          "code": "CH-B03-CERCONE-KITCHEN",
           "en": "Accommodation That Makes Sharing Easier",
           "es": "Un alojamiento que ayuda a convivir",
-          "caption_en": "Jungle Tree House · Chachagua Rainforest Resort & Hot Springs",
-          "caption_es": "Jungle Tree House · Chachagua Rainforest Resort & Hot Springs"
+          "caption_en": "Hacienda Cercone · Kitchen and shared dining area",
+          "caption_es": "Hacienda Cercone · Cocina y comedor para compartir"
         }
-      ]
+      ],
+      "date_status": "Proposed date; requires approval before publication"
     },
     {
       "id": "B04",
-      "date": "2026-12-21",
+      "date": "2026-12-16",
       "persona": "Familias",
       "category": "Experiencias culinarias",
       "theme": "Cultura/tradiciones",
@@ -155,14 +158,15 @@
       "count_en": 1737,
       "hero_code": "CH-REV-FAMILY",
       "cover_code": "CH-REV-FAMILY",
-      "review_id": "B03"
+      "review_id": "B03",
+      "date_status": "Proposed date; requires approval before publication"
     }
   ],
   "posts": [
     {
-      "id": "CH01",
-      "date": "2026-11-07",
-      "hotel": "Chachagua",
+      "id": "RR-NOV-01",
+      "date": "2026-11-16",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "On-site",
@@ -230,12 +234,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH01",
+      "legacy_review_id": "CH01"
     },
     {
-      "id": "CH02",
-      "date": "2026-11-04",
-      "hotel": "Chachagua",
+      "id": "RR-NOV-03",
+      "date": "2026-11-19",
+      "hotel": "Rainforest Resorts",
       "persona": "Amigos",
       "category": "Experiencias in house",
       "location": "On-site",
@@ -268,8 +275,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-REV-CEIBA-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-REV-CEIBA-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1ZuKkyvisT2TXkh_H69gKDVGTFWC7IeU6",
           "fit": "cover",
@@ -285,8 +292,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-REV-CEIBA-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-REV-CEIBA-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1ZuKkyvisT2TXkh_H69gKDVGTFWC7IeU6",
           "fit": "cover",
@@ -301,12 +308,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH02",
+      "legacy_review_id": "CH02"
     },
     {
-      "id": "CH03",
-      "date": "2026-11-16",
-      "hotel": "Chachagua",
+      "id": "RR-NOV-05",
+      "date": "2026-11-23",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Experiencias off-site",
       "location": "Off-site",
@@ -340,8 +350,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW09-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW09-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1wrgYkQaMaljYVab5bYvlMqILw7SQMVQ3",
           "fit": "cover",
@@ -357,8 +367,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW09-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW09-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1wrgYkQaMaljYVab5bYvlMqILw7SQMVQ3",
           "fit": "cover",
@@ -373,12 +383,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH03",
+      "legacy_review_id": "CH03"
     },
     {
-      "id": "CH04",
-      "date": "2026-11-12",
-      "hotel": "Chachagua",
+      "id": "RR-NOV-07",
+      "date": "2026-11-26",
+      "hotel": "Rainforest Resorts",
       "persona": "Familias",
       "category": "Experiencias culinarias",
       "location": "On-site",
@@ -411,8 +424,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW00-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW00-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1aLgF90-7TZvQxA9nxQZpB6yFkAlhZ7ct",
           "fit": "cover",
@@ -428,8 +441,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW00-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW00-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1aLgF90-7TZvQxA9nxQZpB6yFkAlhZ7ct",
           "fit": "cover",
@@ -444,12 +457,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH04",
+      "legacy_review_id": "CH04"
     },
     {
-      "id": "CH05",
-      "date": "2026-11-21",
-      "hotel": "Chachagua",
+      "id": "RR-NOV-09",
+      "date": "2026-11-29",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Experiencias in house",
       "location": "On-site",
@@ -556,12 +572,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH05",
+      "legacy_review_id": "CH05"
     },
     {
-      "id": "CH06",
-      "date": "2026-11-27",
-      "hotel": "Chachagua",
+      "id": "RR-DEC-01",
+      "date": "2026-12-02",
+      "hotel": "Rainforest Resorts",
       "persona": "Familias",
       "category": "Experiencias culinarias",
       "location": "On-site",
@@ -689,22 +708,25 @@
           "La buena mesa empieza mucho antes del primer bocado.",
           "De nuestra huerta a tu mesa."
         ]
-      }
+      },
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH06",
+      "legacy_review_id": "CH06"
     },
     {
-      "id": "CH07",
-      "date": "2026-12-03",
-      "hotel": "Chachagua",
+      "id": "RR-DEC-03",
+      "date": "2026-12-06",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "On-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "CH-M"
+        "AR-CH07-POOL-CLIENT"
       ],
-      "title": "The details you return to",
-      "facebook": "After a rainforest experience, the place you return to matters too. This bathroom detail comes from the Master Bungalow library. Ask about the category’s current features and how it fits your couples stay.\n\n---\n\nDespués de una experiencia en el bosque, también importa el lugar al que regresan. Este detalle corresponde a la biblioteca de Master Bungalow. Consulta las características actuales de la categoría y cómo encaja con su viaje en pareja.",
-      "instagram": "Returning is part of the holiday. A Master Bungalow detail to begin imagining your stay. Enquire about the category and its current conditions.\n\n---\n\nEl regreso también forma parte del viaje. Un detalle de Master Bungalow para empezar a imaginar su estadía. Consulta la categoría y sus condiciones actuales.",
+      "title": "A pool surrounded by rainforest",
+      "facebook": "A pool framed by tropical greenery, with time to enjoy the surroundings. Explore Arenal Rainforest Resort with our Travel Designers and ask about the accommodation and pool arrangements available for your dates.\n\n---\n\nUna piscina enmarcada por vegetación tropical, con tiempo para disfrutar del entorno. Explora Arenal Rainforest Resort con nuestros Travel Designers y consulta las opciones de alojamiento y piscina disponibles para tus fechas.",
+      "instagram": "A pool framed by tropical greenery, with time to enjoy the surroundings. Explore Arenal Rainforest Resort with our Travel Designers and ask about the accommodation and pool arrangements available for your dates.\n\n---\n\nUna piscina enmarcada por vegetación tropical, con tiempo para disfrutar del entorno. Explora Arenal Rainforest Resort con nuestros Travel Designers y consulta las opciones de alojamiento y piscina disponibles para tus fechas.",
       "url": "https://chachaguarainforesthotel.com/rooms-and-villas/",
       "format": "Foto 4:5",
       "gap": "Master Bungalow bathroom photo; confirm current age restrictions.",
@@ -712,47 +734,39 @@
       "objective": "Consideración y visitas al producto",
       "status": "Borrador; necesita adaptación",
       "rationale": "Ventana editorial propuesta, no lead time medido. Confirmar con reservas por mercado y disponibilidad.",
-      "facebook_es": "Después de una experiencia en el bosque, también importa el lugar al que regresan. Este detalle corresponde a la biblioteca de Master Bungalow. Consulta las características actuales de la categoría y cómo encaja con su viaje en pareja.",
-      "instagram_es": "El regreso también forma parte del viaje. Un detalle de Master Bungalow para empezar a imaginar su estadía. Consulta la categoría y sus condiciones actuales.",
-      "title_es": "Los detalles del regreso",
-      "title_en": "The details you return to",
-      "facebook_en": "After a rainforest experience, the place you return to matters too. This bathroom detail comes from the Master Bungalow library. Ask about the category’s current features and how it fits your couples stay.",
-      "instagram_en": "Returning is part of the holiday. A Master Bungalow detail to begin imagining your stay. Enquire about the category and its current conditions.",
+      "facebook_es": "Una piscina enmarcada por vegetación tropical, con tiempo para disfrutar del entorno. Explora Arenal Rainforest Resort con nuestros Travel Designers y consulta las opciones de alojamiento y piscina disponibles para tus fechas.",
+      "instagram_es": "Una piscina enmarcada por vegetación tropical, con tiempo para disfrutar del entorno. Explora Arenal Rainforest Resort con nuestros Travel Designers y consulta las opciones de alojamiento y piscina disponibles para tus fechas.",
+      "title_es": "Una piscina rodeada de bosque",
+      "title_en": "A pool surrounded by rainforest",
+      "facebook_en": "A pool framed by tropical greenery, with time to enjoy the surroundings. Explore Arenal Rainforest Resort with our Travel Designers and ask about the accommodation and pool arrangements available for your dates.",
+      "instagram_en": "A pool framed by tropical greenery, with time to enjoy the surroundings. Explore Arenal Rainforest Resort with our Travel Designers and ask about the accommodation and pool arrangements available for your dates.",
       "language": "EN first / ES second",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/AR-CH07-POOL-CLIENT-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/CH-M-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1Qy-F8wcXAOjCQp8nct3jfCswfLkxYWSE",
+          "source_asset_id": "1ozZwmMbuUxPn9pfaG2-EXiGjpPBYApwz",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/AR-CH07-POOL-CLIENT-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/CH-M-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1Qy-F8wcXAOjCQp8nct3jfCswfLkxYWSE",
+          "source_asset_id": "1ozZwmMbuUxPn9pfaG2-EXiGjpPBYApwz",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "publication_brand": "Rainforest Resorts",
@@ -760,13 +774,18 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "review_status": "Revised image; visual approval pending",
+      "visual_context": "Client-selected Arenal accommodation pool photograph; copy revised to match the selected scene.",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH07",
+      "legacy_review_id": "CH07"
     },
     {
-      "id": "CH08",
-      "date": "2026-12-08",
-      "hotel": "Chachagua",
-      "persona": "Parejas",
+      "id": "RR-DEC-05",
+      "date": "2026-12-10",
+      "hotel": "Rainforest Resorts",
+      "persona": "Amigos",
       "category": "Experiencias de naturaleza",
       "location": "On-site",
       "theme": "Naturaleza/vida silvestre",
@@ -774,8 +793,8 @@
         "CH08-VIDEO"
       ],
       "title": "A walk into the rainforest",
-      "facebook": "Some of the best moments of a rainforest stay begin with a simple walk. Follow Chachagua’s timber paths through tropical greenery and make time to enjoy the surroundings together. For a closer look at the forest, ask our Travel Designers about the guided nature walk and how to include it in your stay.\n\n---\n\nAlgunos de los mejores momentos de una estadía en el bosque comienzan con un simple paseo. Recorre los senderos de madera de Chachagua entre la vegetación tropical y deja tiempo para disfrutar juntos del entorno. Para conocer el bosque más de cerca, consulta con nuestros Travel Designers por la caminata guiada de naturaleza y cómo incluirla en tu estadía.",
-      "instagram": "Take the path that leaves room to look around. A walk through Chachagua’s rainforest is an invitation to notice the leaves, the light and the moments you share. Ask our Travel Designers about a guided nature walk during your stay.\n\n---\n\nElige el sendero que deja tiempo para mirar alrededor. Un paseo por el bosque de Chachagua invita a descubrir las hojas, la luz y los momentos que comparten. Consulta con nuestros Travel Designers por una caminata guiada de naturaleza durante tu estadía.",
+      "facebook": "Some moments stay with you long after the trip. Friends walking beneath the canopy, pausing to look around, simply enjoying the freedom of being out in the rainforest. At Chachagua, Costa Rica, a shared walk becomes a memory of its own. Ask our Travel Designers about a guided nature walk during your stay.\n\n---\n\nHay momentos que se quedan contigo mucho después del viaje. Amigos caminando bajo los árboles, haciendo una pausa para mirar alrededor y disfrutando la libertad de estar en el bosque. En Chachagua, Costa Rica, una caminata compartida se convierte en un recuerdo propio. Consulta a nuestros Travel Designers por una caminata guiada durante tu estadía.",
+      "instagram": "Some moments stay with you long after the trip. Friends walking beneath the canopy, pausing to look around, simply enjoying the freedom of being out in the rainforest. At Chachagua, Costa Rica, a shared walk becomes a memory of its own. Ask our Travel Designers about a guided nature walk during your stay.\n\n---\n\nHay momentos que se quedan contigo mucho después del viaje. Amigos caminando bajo los árboles, haciendo una pausa para mirar alrededor y disfrutando la libertad de estar en el bosque. En Chachagua, Costa Rica, una caminata compartida se convierte en un recuerdo propio. Consulta a nuestros Travel Designers por una caminata guiada durante tu estadía.",
       "url": "https://chachaguarainforesthotel.com/experiences/",
       "format": "Video 4:5 · 1080 × 1350",
       "gap": "Client-selected source video. Original instrumental music composed for this edit. Experience participation, seasonal produce and arrangements to be confirmed before booking. Video and copy require approval.",
@@ -783,18 +802,24 @@
       "objective": "Consideración y visitas al producto",
       "status": "Review draft · Edited video",
       "rationale": "Ventana editorial propuesta, no lead time medido. Confirmar con reservas por mercado y disponibilidad.",
-      "facebook_es": "Algunos de los mejores momentos de una estadía en el bosque comienzan con un simple paseo. Recorre los senderos de madera de Chachagua entre la vegetación tropical y deja tiempo para disfrutar juntos del entorno. Para conocer el bosque más de cerca, consulta con nuestros Travel Designers por la caminata guiada de naturaleza y cómo incluirla en tu estadía.",
-      "instagram_es": "Elige el sendero que deja tiempo para mirar alrededor. Un paseo por el bosque de Chachagua invita a descubrir las hojas, la luz y los momentos que comparten. Consulta con nuestros Travel Designers por una caminata guiada de naturaleza durante tu estadía.",
+      "facebook_es": "Hay momentos que se quedan contigo mucho después del viaje. Amigos caminando bajo los árboles, haciendo una pausa para mirar alrededor y disfrutando la libertad de estar en el bosque. En Chachagua, Costa Rica, una caminata compartida se convierte en un recuerdo propio. Consulta a nuestros Travel Designers por una caminata guiada durante tu estadía.",
+      "instagram_es": "Hay momentos que se quedan contigo mucho después del viaje. Amigos caminando bajo los árboles, haciendo una pausa para mirar alrededor y disfrutando la libertad de estar en el bosque. En Chachagua, Costa Rica, una caminata compartida se convierte en un recuerdo propio. Consulta a nuestros Travel Designers por una caminata guiada durante tu estadía.",
       "title_es": "Un paseo por el bosque",
       "title_en": "A walk into the rainforest",
-      "facebook_en": "Some of the best moments of a rainforest stay begin with a simple walk. Follow Chachagua’s timber paths through tropical greenery and make time to enjoy the surroundings together. For a closer look at the forest, ask our Travel Designers about the guided nature walk and how to include it in your stay.",
-      "instagram_en": "Take the path that leaves room to look around. A walk through Chachagua’s rainforest is an invitation to notice the leaves, the light and the moments you share. Ask our Travel Designers about a guided nature walk during your stay.",
+      "facebook_en": "Some moments stay with you long after the trip. Friends walking beneath the canopy, pausing to look around, simply enjoying the freedom of being out in the rainforest. At Chachagua, Costa Rica, a shared walk becomes a memory of its own. Ask our Travel Designers about a guided nature walk during your stay.",
+      "instagram_en": "Some moments stay with you long after the trip. Friends walking beneath the canopy, pausing to look around, simply enjoying the freedom of being out in the rainforest. At Chachagua, Costa Rica, a shared walk becomes a memory of its own. Ask our Travel Designers about a guided nature walk during your stay.",
       "language": "EN first / ES second",
       "video": {
         "feed": "assets/social-videos/CH08-feed.mp4",
         "story": "assets/social-videos/CH08-story.mp4",
         "poster": "assets/social-videos/CH08-poster.jpg",
-        "source_in": 0
+        "source_in": 0,
+        "feed_es": "assets/social-videos/CH08-feed-es.mp4",
+        "story_es": "assets/social-videos/CH08-story-es.mp4",
+        "music": "Subtle ambient catalog track c5cdc3f467714d4f8c01463038e188c5, mixed quietly beneath added rainforest field recording by ezwa (public domain; Guadeloupe, not original Chachagua location audio).",
+        "caption_font": "Morion Regular",
+        "caption_position": "75% frame height",
+        "caption_shadow": false
       },
       "media_formats": {
         "feed": {
@@ -837,12 +862,26 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "on_screen_copy": {
+        "EN": [
+          "Some moments stay with you.",
+          "Together in the heart of the rainforest."
+        ],
+        "ES": [
+          "Hay momentos que se quedan contigo.",
+          "Juntos en el corazón del bosque tropical."
+        ]
+      },
+      "review_status": "Revised copy, music and captions; client listening and visual review pending",
+      "legacy_id": "CH08",
+      "legacy_review_id": "CH08"
     },
     {
-      "id": "CH09",
-      "date": "2026-12-12",
-      "hotel": "Chachagua",
+      "id": "RR-DEC-04",
+      "date": "2026-12-08",
+      "hotel": "Rainforest Resorts",
       "persona": "Amigos",
       "category": "Experiencias off-site",
       "location": "Off-site",
@@ -875,8 +914,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW10-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW10-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1e1xhvKuWUZQOKm_OEUikIssySzzVvfCL",
           "fit": "cover",
@@ -892,8 +931,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW10-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW10-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1e1xhvKuWUZQOKm_OEUikIssySzzVvfCL",
           "fit": "cover",
@@ -908,12 +947,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH09",
+      "legacy_review_id": "CH09"
     },
     {
-      "id": "CH10",
-      "date": "2026-12-17",
-      "hotel": "Chachagua",
+      "id": "RR-DEC-06",
+      "date": "2026-12-12",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Experiencias in house",
       "location": "On-site",
@@ -946,8 +988,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW04-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW04-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1aCBDEcXqcYUGEqdthOEibsrVmh9NMq4w",
           "fit": "cover",
@@ -963,8 +1005,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW04-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW04-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1aCBDEcXqcYUGEqdthOEibsrVmh9NMq4w",
           "fit": "cover",
@@ -979,17 +1021,22 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH10",
+      "legacy_review_id": "CH10"
     },
     {
-      "id": "CH11",
-      "date": "2026-12-22",
-      "hotel": "Chachagua",
+      "id": "RR-DEC-11",
+      "date": "2026-12-23",
+      "hotel": "Rainforest Resorts",
       "persona": "Amigos",
       "category": "Experiencias in house",
       "location": "On-site",
       "theme": "Aventura/exploración",
-      "codes": [],
+      "codes": [
+        "CH-HORSEBACK-RIDERS"
+      ],
       "title": "Another pace through the landscape",
       "facebook": "For friends interested in a different shared activity, ask about horseback riding at Chachagua. The team should review previous experience, requirements, and the route for your group. A carefully chosen outing leaves time to enjoy the return.\n\n---\n\nPara quienes desean compartir una actividad distinta, consulta la cabalgata de Chachagua. El equipo debe revisar experiencia previa, requisitos y recorrido para el grupo. Una salida elegida con criterio deja tiempo para seguir disfrutando juntos al regreso.",
       "instagram": "Another pace for discovering the landscape. Ask about horseback riding at Chachagua and whether its conditions suit each person in your group.\n\n---\n\nOtro paso para conocer el paisaje. Consulten cabalgata en Chachagua y revisen si sus condiciones encajan con cada persona del grupo.",
@@ -1009,32 +1056,30 @@
       "language": "EN first / ES second",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/CH-HORSEBACK-RIDERS-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": null,
-          "mime_type": "image/png",
-          "status": "Production needed",
+          "aspect_ratio": "4:5",
+          "status": "Prepared for visual review",
           "source_asset_id": null,
-          "fit": null,
-          "focal_point": null
+          "fit": "cover",
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/CH-HORSEBACK-RIDERS-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": null,
-          "mime_type": "image/png",
-          "status": "Production needed",
+          "aspect_ratio": "9:16",
+          "status": "Prepared for visual review",
           "source_asset_id": null,
-          "fit": null,
-          "focal_point": null
+          "fit": "cover",
+          "mime_type": "image/webp"
         }
       },
       "publication_brand": "Rainforest Resorts",
@@ -1042,12 +1087,16 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH11",
+      "legacy_review_id": "CH11"
     },
     {
-      "id": "CH12",
+      "id": "RR-DEC-13",
       "date": "2026-12-29",
-      "hotel": "Chachagua",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Experiencias culinarias",
       "location": "On-site",
@@ -1081,8 +1130,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW01-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW01-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1LnKcanLFxfBqL-Ldcs7XCQ40NGYRqci4",
           "fit": "cover",
@@ -1098,8 +1147,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW01-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW01-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1LnKcanLFxfBqL-Ldcs7XCQ40NGYRqci4",
           "fit": "cover",
@@ -1114,12 +1163,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "CH12",
+      "legacy_review_id": "CH12"
     },
     {
-      "id": "AR01",
-      "date": "2026-11-05",
-      "hotel": "Arenal",
+      "id": "RR-NOV-02",
+      "date": "2026-11-17",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "On-site",
@@ -1154,8 +1206,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-REV-POOL-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-REV-POOL-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1y4ps9l8Vgi2ew_FgB79qZLmr-VqoIHeZ",
           "fit": "cover",
@@ -1171,8 +1223,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-REV-POOL-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-REV-POOL-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1y4ps9l8Vgi2ew_FgB79qZLmr-VqoIHeZ",
           "fit": "cover",
@@ -1187,12 +1239,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR01",
+      "legacy_review_id": "AR01"
     },
     {
-      "id": "AR02",
-      "date": "2026-11-10",
-      "hotel": "Arenal",
+      "id": "RR-NOV-04",
+      "date": "2026-11-21",
+      "hotel": "Rainforest Resorts",
       "persona": "Amigos",
       "category": "Experiencias off-site",
       "location": "Off-site",
@@ -1225,8 +1280,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW08-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW08-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1OFpol_wOLGI2IaC0Ohx8oRRFdLxyoG-y",
           "fit": "cover",
@@ -1242,8 +1297,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW08-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW08-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1OFpol_wOLGI2IaC0Ohx8oRRFdLxyoG-y",
           "fit": "cover",
@@ -1258,12 +1313,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR02",
+      "legacy_review_id": "AR02"
     },
     {
-      "id": "AR03",
-      "date": "2026-11-14",
-      "hotel": "Arenal",
+      "id": "RR-NOV-06",
+      "date": "2026-11-24",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "On-site",
@@ -1331,12 +1389,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR03",
+      "legacy_review_id": "AR03"
     },
     {
-      "id": "AR04",
-      "date": "2026-11-19",
-      "hotel": "Arenal",
+      "id": "RR-NOV-08",
+      "date": "2026-11-27",
+      "hotel": "Rainforest Resorts",
       "persona": "Familias",
       "category": "Experiencias culinarias",
       "location": "Off-site Chachagua",
@@ -1404,12 +1465,15 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR04",
+      "legacy_review_id": "AR04"
     },
     {
-      "id": "AR05",
-      "date": "2026-11-24",
-      "hotel": "Arenal",
+      "id": "RR-NOV-10",
+      "date": "2026-11-30",
+      "hotel": "Rainforest Resorts",
       "persona": "Amigos",
       "category": "Hospedajes",
       "location": "On-site",
@@ -1477,12 +1541,15 @@
         "Facebook",
         "Instagram"
       ],
-      "visual_context": "Client-selected pool, deck and volcano-view image at Arenal Rainforest Resort."
+      "visual_context": "Client-selected pool, deck and volcano-view image at Arenal Rainforest Resort.",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR05",
+      "legacy_review_id": "AR05"
     },
     {
-      "id": "AR06",
-      "date": "2026-11-28",
-      "hotel": "Arenal",
+      "id": "RR-DEC-02",
+      "date": "2026-12-03",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Experiencias off-site",
       "location": "Off-site",
@@ -1515,8 +1582,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW10-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW10-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1e1xhvKuWUZQOKm_OEUikIssySzzVvfCL",
           "fit": "cover",
@@ -1532,8 +1599,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW10-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW10-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1e1xhvKuWUZQOKm_OEUikIssySzzVvfCL",
           "fit": "cover",
@@ -1548,18 +1615,21 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR06",
+      "legacy_review_id": "AR06"
     },
     {
-      "id": "AR07",
-      "date": "2026-12-04",
-      "hotel": "Arenal",
+      "id": "RR-DEC-07",
+      "date": "2026-12-15",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "On-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "AR-NEW18"
+        "AR-AR07-OUTDOOR-SHOWER"
       ],
       "title": "Comfort begins with a clear choice",
       "facebook": "Wood, stone and the details that make a stay feel special: discover the new One Bedroom Vista Arenal accommodations. Imagine returning here after a day exploring the Arenal region, with time to settle in and enjoy your surroundings. As we renew Arenal Rainforest Resort, our Travel Designers can help you choose among the best rooms currently available and enquire about introductory rates for your dates.\n\n---\n\nMira estos detalles: la madera, la piedra y los acabados de las nuevas habitaciones One Bedroom Vista Arenal. Imagina volver después de recorrer la región de Arenal y tener tiempo para descansar y disfrutar de tu entorno.",
@@ -1581,38 +1651,38 @@
       "production_note_renovation": "Guest-facing social copy focuses on current accommodation and introductory-rate enquiries. Before booking, Travel Designers must explain the specific unit, expected work, possible construction noise and operating services for the guest dates. No fixed discount or availability is promised.",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/AR-AR07-OUTDOOR-SHOWER-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW18-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1TW4nw5W_yxDO6ETuLY0zmrs1Zozqfyl8",
+          "source_asset_id": "1Kxuazcane7Pgy1gawviqBYV4eeD2mqIh",
           "fit": "cover",
           "focal_point": [
-            0.5,
+            0.78,
             0.5
-          ]
+          ],
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/AR-AR07-OUTDOOR-SHOWER-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW18-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1TW4nw5W_yxDO6ETuLY0zmrs1Zozqfyl8",
+          "source_asset_id": "1Kxuazcane7Pgy1gawviqBYV4eeD2mqIh",
           "fit": "cover",
           "focal_point": [
-            0.5,
+            0.85,
             0.5
-          ]
+          ],
+          "mime_type": "image/webp"
         }
       },
       "publication_brand": "Rainforest Resorts",
@@ -1620,12 +1690,16 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR07",
+      "legacy_review_id": "AR07"
     },
     {
-      "id": "AR08",
-      "date": "2026-12-09",
-      "hotel": "Arenal",
+      "id": "RR-DEC-09",
+      "date": "2026-12-19",
+      "hotel": "Rainforest Resorts",
       "persona": "Familias",
       "category": "Experiencias de naturaleza",
       "location": "Off-site Chachagua",
@@ -1658,8 +1732,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-B-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-B-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1U1olXXmNE4XZzjk-syAfgJDzIBar5eok",
           "fit": "cover",
@@ -1675,8 +1749,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-B-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-B-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1U1olXXmNE4XZzjk-syAfgJDzIBar5eok",
           "fit": "cover",
@@ -1691,12 +1765,21 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "video_proposal": {
+        "review_page": "review-drafts/ar08-birdsong/index.html",
+        "recording": "XC251016",
+        "species": "Spotted Antbird / Hylophylax naevioides — provisional photo ID",
+        "clearance": "Audio CC BY-SA 4.0; licence compatibility pending before commercial distribution"
+      },
+      "legacy_id": "AR08",
+      "legacy_review_id": "AR08"
     },
     {
-      "id": "AR09",
-      "date": "2026-12-13",
-      "hotel": "Arenal",
+      "id": "RR-DEC-08",
+      "date": "2026-12-17",
+      "hotel": "Rainforest Resorts",
       "persona": "Solo",
       "category": "Experiencias off-site",
       "location": "Off-site",
@@ -1730,8 +1813,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW12-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW12-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "16slyvIxbOAcmkqxtaKPGl3KPObVlWwTK",
           "fit": "cover",
@@ -1747,8 +1830,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW12-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW12-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "16slyvIxbOAcmkqxtaKPGl3KPObVlWwTK",
           "fit": "cover",
@@ -1763,18 +1846,21 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR09",
+      "legacy_review_id": "AR09"
     },
     {
-      "id": "AR10",
-      "date": "2026-12-18",
-      "hotel": "Arenal",
+      "id": "RR-DEC-10",
+      "date": "2026-12-21",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "On-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "AR-NEW19"
+        "AR-AR10-POOL-CLIENT"
       ],
       "title": "One Rainforest Resorts family, two places to stay",
       "facebook": "The Rainforest Resorts family brings together Chachagua Rainforest Resort & Hot Springs and Arenal Rainforest Resort. A combined stay can connect time within Chachagua’s forest with another base for exploring the Arenal region. Three nights at each is an editorial idea to quote, not a published package. Tell your Travel Designer what you want to discover, and confirm accommodation and transfers. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.\n\n---\n\nLa familia Rainforest Resorts reúne a Chachagua Rainforest Resort & Hot Springs y Arenal Rainforest Resort. Una estadía combinada puede unir tiempo en el bosque de Chachagua con otra base para explorar la región del Arenal. Tres noches en cada propiedad es una idea editorial por cotizar, no un paquete publicado. Comparte tus intereses con un Travel Designer y confirma alojamiento y traslados. Consulta con nuestros Travel Designers por las mejores habitaciones disponibles y las tarifas de lanzamiento para tus fechas.",
@@ -1797,38 +1883,30 @@
       "production_note_renovation": "Guest-facing social copy focuses on current accommodation and introductory-rate enquiries. Before booking, Travel Designers must explain the specific unit, expected work, possible construction noise and operating services for the guest dates. No fixed discount or availability is promised.",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/AR-AR10-POOL-CLIENT-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW19-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1LmNv4GnQNURwR46Z5YgA1S5OyRc5k2jk",
+          "source_asset_id": "1x0tEDQ9fZoveilZl-Krw-67xBmreHfXH",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/AR-AR10-POOL-CLIENT-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW19-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1LmNv4GnQNURwR46Z5YgA1S5OyRc5k2jk",
+          "source_asset_id": "1x0tEDQ9fZoveilZl-Krw-67xBmreHfXH",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "publication_brand": "Rainforest Resorts",
@@ -1836,12 +1914,16 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR10",
+      "legacy_review_id": "AR10"
     },
     {
-      "id": "AR11",
-      "date": "2026-12-23",
-      "hotel": "Arenal",
+      "id": "RR-DEC-12",
+      "date": "2026-12-26",
+      "hotel": "Rainforest Resorts",
       "persona": "Amigos",
       "category": "Experiencias off-site",
       "location": "Off-site",
@@ -1874,8 +1956,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW13-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW13-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1OteDYkJWLsUINX93zuwKNb83kCV6N5au",
           "fit": "cover",
@@ -1891,8 +1973,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW13-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW13-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1OteDYkJWLsUINX93zuwKNb83kCV6N5au",
           "fit": "cover",
@@ -1907,18 +1989,21 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR11",
+      "legacy_review_id": "AR11"
     },
     {
-      "id": "AR12",
+      "id": "RR-DEC-14",
       "date": "2026-12-30",
-      "hotel": "Arenal",
+      "hotel": "Rainforest Resorts",
       "persona": "Parejas",
       "category": "Experiencias in house",
       "location": "Mixto: atención on-site / excursiones off-site",
       "theme": "Bienestar/reconexión",
       "codes": [
-        "AR-V"
+        "AR12-COUPLE-RECLINED-AI"
       ],
       "title": "Your next chapter with Rainforest Resorts",
       "facebook": "A new year, and a resort family to get to know. Rainforest Resorts brings together Arenal Rainforest Resort and sister property Chachagua Rainforest Resort & Hot Springs. Start with a conversation: a couple’s escape, a trip with friends, or a family discovery can follow different rhythms. A local Travel Designer helps choose the accommodation and experiences. Ask our Travel Designers about the best rooms currently available and introductory rates for your dates.\n\n---\n\nUn año nuevo y una familia de resorts por conocer. Rainforest Resorts reúne a Arenal Rainforest Resort y su propiedad hermana, Chachagua Rainforest Resort & Hot Springs. Empieza con una conversación: un viaje en pareja, con amigos o en familia puede seguir distintos ritmos. Un Travel Designer local ayuda a elegir alojamiento y experiencias. Consulta con nuestros Travel Designers por las mejores habitaciones disponibles y las tarifas de lanzamiento para tus fechas.",
@@ -1941,38 +2026,30 @@
       "production_note_renovation": "Guest-facing social copy focuses on current accommodation and introductory-rate enquiries. Before booking, Travel Designers must explain the specific unit, expected work, possible construction noise and operating services for the guest dates. No fixed discount or availability is promised.",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/AR12-COUPLE-RECLINED-AI-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-V-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1LBaIexhhYsjip904Y0bp82g05D7eRbdF",
+          "source_asset_id": null,
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/AR12-COUPLE-RECLINED-AI-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-V-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1LBaIexhhYsjip904Y0bp82g05D7eRbdF",
+          "source_asset_id": null,
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "publication_brand": "Rainforest Resorts",
@@ -1980,20 +2057,24 @@
       "publication_platforms": [
         "Facebook",
         "Instagram"
-      ]
+      ],
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot",
+      "legacy_id": "AR12",
+      "legacy_review_id": "AR12"
     }
   ],
   "snippets": [
     {
       "id": "B01-S1",
       "blog": "B01",
-      "date": "2026-11-10",
+      "date": "2026-11-18",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "Mixto: Chachagua / Arenal / parque externo",
       "stay": "Febrero–abril 2027",
       "codes": [
-        "AR-REV-DRONE"
+        "AR-DECK-CHAIRS-AI"
       ],
       "facebook": "Meet Rainforest Resorts: Chachagua and Arenal are two sister properties with different ways to discover the region. Read the family introduction and an optional combined-stay idea. Read the article through this post’s link.\n\n---\n\nConoce Rainforest Resorts: Chachagua y Arenal son dos propiedades hermanas con distintas formas de descubrir la región. Lee la presentación de la familia y una idea de estadía combinada. Lee el artículo en el enlace de esta publicación.",
       "instagram": "Meet Rainforest Resorts: Chachagua and Arenal are two sister properties with different ways to discover the region. Read the family introduction and an optional combined-stay idea. Article through the profile link.\n\n---\n\nConoce Rainforest Resorts: Chachagua y Arenal son dos propiedades hermanas con distintas formas de descubrir la región. Lee la presentación de la familia y una idea de estadía combinada. Artículo desde el enlace del perfil.",
@@ -2008,48 +2089,42 @@
       "review_id": "B04-S1",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/AR-DECK-CHAIRS-AI-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-REV-DRONE-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1gcvpS9P61s5_Zjtu6j0vOtLWv4zDdqA7",
+          "source_asset_id": null,
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/AR-DECK-CHAIRS-AI-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-REV-DRONE-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1gcvpS9P61s5_Zjtu6j0vOtLWv4zDdqA7",
+          "source_asset_id": null,
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B01-S2",
       "blog": "B01",
-      "date": "2026-11-15",
+      "date": "2026-11-25",
       "persona": "Parejas",
       "category": "Hospedajes",
       "location": "Mixto: Chachagua / Arenal / parque externo",
@@ -2076,8 +2151,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-B04-REGION-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-B04-REGION-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "12bShWiVvcRDiuKpOFk-qBUs1AoJd-VcS",
           "fit": "cover",
@@ -2093,8 +2168,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/AR-B04-REGION-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/AR-B04-REGION-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "12bShWiVvcRDiuKpOFk-qBUs1AoJd-VcS",
           "fit": "cover",
@@ -2106,12 +2181,13 @@
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B02-S1",
       "blog": "B02",
-      "date": "2026-11-24",
+      "date": "2026-11-22",
       "persona": "Parejas",
       "category": "Experiencias in house",
       "location": "On-site Chachagua",
@@ -2168,12 +2244,13 @@
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B02-S2",
       "blog": "B02",
-      "date": "2026-11-30",
+      "date": "2026-11-28",
       "persona": "Parejas",
       "category": "Experiencias in house",
       "location": "On-site Chachagua",
@@ -2230,12 +2307,13 @@
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B03-S1",
       "blog": "B03",
-      "date": "2026-12-08",
+      "date": "2026-12-05",
       "persona": "Amigos",
       "category": "Experiencias off-site",
       "location": "Off-site La Fortuna / Peñas Blancas / Pocosol",
@@ -2292,7 +2370,8 @@
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B03-S2",
@@ -2303,8 +2382,7 @@
       "location": "Off-site La Fortuna / Peñas Blancas / Pocosol",
       "stay": "Enero–marzo 2027",
       "codes": [
-        "CH-V",
-        "CH-P"
+        "CH-B03-CERCONE-KITCHEN"
       ],
       "facebook": "Before booking for friends, share the decisions: beds, transfers, and personal time. Our new article helps start that conversation. Read the article through this post’s link.\n\n---\n\nAntes de reservar para el grupo, hay decisiones que vale la pena compartir: camas, traslados y tiempo propio. Nuestro nuevo artículo reúne ideas para empezar la conversación. Lee el artículo en el enlace de esta publicación.",
       "instagram": "Before booking for friends, share the decisions: beds, transfers, and personal time. Our new article helps start that conversation. Full article through the profile link.\n\n---\n\nAntes de reservar para el grupo, hay decisiones que vale la pena compartir: camas, traslados y tiempo propio. Nuestro nuevo artículo reúne ideas para empezar la conversación. Artículo completo desde el enlace del perfil.",
@@ -2318,55 +2396,48 @@
       "review_id": "B02-S2",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/CH-B03-CERCONE-KITCHEN-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/CH-V-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1-8l_tWYuXzfyjTju5HNKVF0Ek3s4d3Jd",
+          "source_asset_id": "1pywZeDWijjOguPVcUNWhtTaQW_D8TnOZ",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/CH-B03-CERCONE-KITCHEN-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/CH-V-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1-8l_tWYuXzfyjTju5HNKVF0Ek3s4d3Jd",
+          "source_asset_id": "1pywZeDWijjOguPVcUNWhtTaQW_D8TnOZ",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B04-S1",
       "blog": "B04",
-      "date": "2026-12-22",
+      "date": "2026-12-18",
       "persona": "Familias",
       "category": "Experiencias culinarias",
       "location": "On-site Chachagua",
       "stay": "Febrero–abril 2027",
       "codes": [
-        "CH-P",
-        "CH-B"
+        "CH-REV-COFFEE"
       ],
       "facebook": "Where does chocolate come from? Read how to choose coffee and cacao, trails, and birdwatching at Chachagua around your children’s ages. Read the article through this post’s link.\n\n---\n\n¿De dónde viene el chocolate? Esa pregunta puede abrir una experiencia en familia. Lee cómo combinar café y cacao, senderos y aves en Chachagua según las edades de tus hijos. Lee el artículo en el enlace de esta publicación.",
       "instagram": "Where does chocolate come from? Read how to choose coffee and cacao, trails, and birdwatching at Chachagua around your children’s ages. Full article through the profile link.\n\n---\n\n¿De dónde viene el chocolate? Esa pregunta puede abrir una experiencia en familia. Lee cómo combinar café y cacao, senderos y aves en Chachagua según las edades de tus hijos. Artículo completo desde el enlace del perfil.",
@@ -2380,43 +2451,37 @@
       "review_id": "B03-S1",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/CH-REV-COFFEE-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/CH-P-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+          "source_asset_id": "1lkqhFtK3wta30AYp2bsJVqiIj6bjat8f",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/CH-REV-COFFEE-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/CH-P-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1lmC3amAqABu3sZZPwAEDins9YKbkxE-5",
+          "source_asset_id": "1lkqhFtK3wta30AYp2bsJVqiIj6bjat8f",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "review_status": "Revised image; visual approval pending",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     },
     {
       "id": "B04-S2",
@@ -2479,7 +2544,8 @@
       "visual_context": "Cultural tour at sister property Chachagua. Family and guide among sugarcane; selected for a full-frame portrait composition.",
       "hotel": "Rainforest Resorts",
       "publication_page": "https://www.facebook.com/rainforestresorts/",
-      "publication_platform": "Facebook"
+      "publication_platform": "Facebook",
+      "date_status": "Proposed editorial date; not scheduled in HubSpot"
     }
   ],
   "ads": [
@@ -2638,8 +2704,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW09-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW09-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1wrgYkQaMaljYVab5bYvlMqILw7SQMVQ3",
           "fit": "cover",
@@ -2655,8 +2721,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW09-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW09-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1wrgYkQaMaljYVab5bYvlMqILw7SQMVQ3",
           "fit": "cover",
@@ -2731,8 +2797,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-B-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-B-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1U1olXXmNE4XZzjk-syAfgJDzIBar5eok",
           "fit": "cover",
@@ -2748,8 +2814,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-B-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-B-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1U1olXXmNE4XZzjk-syAfgJDzIBar5eok",
           "fit": "cover",
@@ -2823,8 +2889,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA04-RIGHT-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-PA04-RIGHT-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1dmtguBn7YlcP7UDXSNsF52OK1OqE3eKp",
           "fit": "cover",
@@ -2840,8 +2906,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA04-RIGHT-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-PA04-RIGHT-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1dmtguBn7YlcP7UDXSNsF52OK1OqE3eKp",
           "fit": "cover",
@@ -3009,8 +3075,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW08-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW08-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1OFpol_wOLGI2IaC0Ohx8oRRFdLxyoG-y",
           "fit": "cover",
@@ -3026,8 +3092,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW08-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW08-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1OFpol_wOLGI2IaC0Ohx8oRRFdLxyoG-y",
           "fit": "cover",
@@ -3102,8 +3168,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA08-CACAO-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-PA08-CACAO-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1lxPzfspkGcWE-3NyFzbnfcUojpTdl9OS",
           "fit": "cover",
@@ -3119,8 +3185,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA08-CACAO-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-PA08-CACAO-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1lxPzfspkGcWE-3NyFzbnfcUojpTdl9OS",
           "fit": "cover",
@@ -3199,8 +3265,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA09-FURNISHED-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-PA09-FURNISHED-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1Sa-Ep647B6XLNE20GGvak8KYTpoWf7S2",
           "fit": "cover",
@@ -3216,8 +3282,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-PA09-FURNISHED-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-PA09-FURNISHED-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1Sa-Ep647B6XLNE20GGvak8KYTpoWf7S2",
           "fit": "cover",
@@ -3293,8 +3359,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW14-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW14-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1MF4HaRJprGLvGXpK6Vwn2AOUZS_eeWOe",
           "fit": "cover",
@@ -3310,8 +3376,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/CH-NEW14-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/CH-NEW14-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1MF4HaRJprGLvGXpK6Vwn2AOUZS_eeWOe",
           "fit": "cover",
@@ -3346,7 +3412,7 @@
       "description": "Arenal accommodation options",
       "url": "https://www.arenalrainforest.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=arenal_2026_11_trafico&utm_content=pa-ar-01_es",
       "codes": [
-        "AR-NEW19"
+        "RR-B02-COUPLE-RIVER"
       ],
       "kind": "human",
       "status": "Borrador; necesita producción",
@@ -3378,47 +3444,40 @@
         }
       ],
       "market_policy": "English for the funded United States audience; Spanish for Costa Rica. Europe is deferred and uses the same English creative only if later authorised.",
-      "review_status": "Revised proposal; fresh copy/visual approval required",
+      "review_status": "Revised image; visual approval pending",
       "media_formats": {
         "feed": {
-          "aspect_ratio": "4:5",
+          "file": "assets/social-formats/RR-B02-COUPLE-RIVER-feed-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1350
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW19-feed.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "4:5",
           "status": "Prepared for visual review",
-          "source_asset_id": "1LmNv4GnQNURwR46Z5YgA1S5OyRc5k2jk",
+          "source_asset_id": "1gLVMnHOKWIRgJCchjo0FjKPSH_zwaYCz",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         },
         "story": {
-          "aspect_ratio": "9:16",
+          "file": "assets/social-formats/RR-B02-COUPLE-RIVER-story-delivery.webp",
+          "type": "image",
           "dimensions": [
             1080,
             1920
           ],
-          "type": "image",
-          "file": "assets/social-formats/AR-NEW19-story.png",
-          "mime_type": "image/png",
+          "aspect_ratio": "9:16",
           "status": "Prepared for visual review",
-          "source_asset_id": "1LmNv4GnQNURwR46Z5YgA1S5OyRc5k2jk",
+          "source_asset_id": "1gLVMnHOKWIRgJCchjo0FjKPSH_zwaYCz",
           "fit": "cover",
-          "focal_point": [
-            0.5,
-            0.5
-          ]
+          "mime_type": "image/webp"
         }
       },
       "publication_brand": "Rainforest Resorts",
       "legacy_review_id": "PA-AR-01",
       "property": "Arenal",
-      "schedule_type": "shared_paid_media_flight"
+      "schedule_type": "shared_paid_media_flight",
+      "visual_context": "Couple on a forest river outing at Chachagua; different from the pool couple used by PA-RR-01. Confirm fit with Arenal destination copy."
     },
     {
       "id": "PA-RR-11",
@@ -3669,8 +3728,8 @@
             1350
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW09-feed.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW09-feed-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1wrgYkQaMaljYVab5bYvlMqILw7SQMVQ3",
           "fit": "cover",
@@ -3686,8 +3745,8 @@
             1920
           ],
           "type": "image",
-          "file": "assets/social-formats/EX-NEW09-story.png",
-          "mime_type": "image/png",
+          "file": "assets/social-formats/EX-NEW09-story-delivery.webp",
+          "mime_type": "image/webp",
           "status": "Prepared for visual review",
           "source_asset_id": "1wrgYkQaMaljYVab5bYvlMqILw7SQMVQ3",
           "fit": "cover",

@@ -23,9 +23,12 @@ document.addEventListener('DOMContentLoaded', () => {
  const draftId=()=>JSON.stringify([item,config?.version,selectedPage]);
  const recovery=document.createElement('aside');recovery.className='review-draft-recovery';recovery.style.cssText='position:fixed;bottom:150px;right:20px;z-index:9999;background:#fff;padding:12px;border:1px solid #6871ec;border-radius:8px;max-width:340px';
  document.body.appendChild(recovery);
+ let recoveryDismissed=false;
+ document.addEventListener('review:panels-hidden',()=>{recoveryDismissed=true;renderRecovery();});
+ document.addEventListener('review:panels-opened',()=>{recoveryDismissed=false;renderRecovery();});
  function writeDrafts(){try{localStorage.setItem(draftKey,JSON.stringify(drafts));storageFailed=false;}catch{storageFailed=true;}renderRecovery();}
  function rememberDraft(){if(!item||busy)return;const text=$('review-comment').value;if(!text.trim())return;drafts[draftId()]={item,version:config.version,page:selectedPage,anchors:selectedAnchors,reviewer:$('reviewer').value,action:$('review-action').value,comment:text,updatedAt:new Date().toISOString()};writeDrafts();}
- function renderRecovery(){recovery.replaceChildren();const entries=Object.entries(drafts);recovery.hidden=!entries.length;if(!entries.length)return;
+ function renderRecovery(){recovery.replaceChildren();const entries=Object.entries(drafts);recovery.hidden=recoveryDismissed||!entries.length;if(!entries.length)return;const close=document.createElement('button');close.type='button';close.className='review-draft-close';close.textContent='×';close.setAttribute('aria-label','Close draft notice');close.onclick=()=>document.dispatchEvent(new CustomEvent('review:close-panels'));recovery.appendChild(close);
  const title=document.createElement('strong');title.textContent=entries.length+' unsent comment draft(s) on this browser';recovery.appendChild(title);
  for(const [key,entry] of entries){const b=document.createElement('button');b.type='button';b.textContent='Recover '+(config.itemLabels?.[entry.item]||entry.item)+(entry.version!==config.version?' · Previous version':'');b.onclick=()=>{if(entry.version!==config.version){message('This draft belongs to an earlier version. Download the draft and review the current selection before submitting.');downloadDrafts();return;}openReview(entry.item,false,entry.anchors||[],entry.page||null);};recovery.appendChild(b);}
  const exportButton=document.createElement('button');exportButton.type='button';exportButton.textContent='Download unsent drafts';exportButton.onclick=downloadDrafts;recovery.appendChild(exportButton);}
@@ -59,10 +62,11 @@ document.addEventListener('DOMContentLoaded', () => {
  if(!d.open)d.showModal();const ready=!!(config?.api&&token);$('save-review').disabled=!ready;if(!ready){$('review-history').textContent='';message('Open your STRATEGIA review link to save comments.');}else load();}
  document.querySelectorAll('[data-review],[data-approve]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();openReview(b.dataset.review||b.dataset.approve,!!b.dataset.approve);}));
  document.addEventListener('annotation:review',e=>openReview(e.detail.item,false,e.detail.anchors,e.detail.page));
+ document.addEventListener('review:sent',()=>{if(d.open)d.close();});
  $('review-form').addEventListener('submit',async e=>{e.preventDefault();if(busy||!token)return;if(!$('review-form').reportValidity())return;
  rememberDraft();if(serverVersion!==config.version){message('A newer version is available. Download your unsent draft before refreshing.');return;}busy=true;$('save-review').disabled=true;$('close-review').disabled=true;message('Saving…');
  try{requestId ||= crypto.randomUUID();const response=await fetch(config.api,{method:'POST',headers:authHeaders(),body:JSON.stringify({id:requestId,item,version:config.version,reviewer:$('reviewer').value,action:$('review-action').value,comment:$('review-comment').value,anchors:selectedAnchors,page:selectedPage})});const result=await response.json();if(!response.ok||!result.saved)throw Error(result.error||'Could not save. Please try again.');
- delete drafts[draftId()];writeDrafts();message('Comment saved and shared. Receipt: '+result.id);document.dispatchEvent(new CustomEvent('annotation:saved'));selectedAnchors=[];selectedPage=null;$('review-targets').replaceChildren();requestId=null;$('review-comment').value='';$('confirm-copy').checked=false;await load();
+ delete drafts[draftId()];writeDrafts();message('Comment saved and shared. Receipt: '+result.id);document.dispatchEvent(new CustomEvent('annotation:saved',{detail:{id:result.id}}));selectedAnchors=[];selectedPage=null;$('review-targets').replaceChildren();requestId=null;$('review-comment').value='';$('confirm-copy').checked=false;await load();
  }catch(error){message(error.message+' NOT SAVED to the shared portal. '+(storageFailed?'Copy your text before leaving; browser backup is unavailable.':'Your unsent draft is kept on this browser. Use Download unsent drafts for a backup.'));}finally{busy=false;$('save-review').disabled=serverVersion!==config.version;$('close-review').disabled=false;}});
 });
 // One Rainforest Resorts publishing calendar, filtered by month.
@@ -84,3 +88,6 @@ document.addEventListener('DOMContentLoaded', () => {
  window.addEventListener('hashchange',followAnchor);
  followAnchor();
 });
+
+// Keep anchor targets clear of the responsive sticky navigation.
+document.addEventListener('DOMContentLoaded',()=>{const nav=document.querySelector('nav.nav');if(!nav)return;const update=()=>document.documentElement.style.setProperty('--review-nav-height',nav.getBoundingClientRect().height+'px');new ResizeObserver(update).observe(nav);update();});

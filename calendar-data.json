@@ -1,0 +1,386 @@
+{
+  "title": "Costa Rica your way",
+  "months": [
+    "2026-11",
+    "2026-12"
+  ],
+  "entries": [
+    {
+      "date": "2026-11-09",
+      "id": "B01",
+      "channel": "Chachagua Blog · EN/ES",
+      "title": "Introducing Rainforest Resorts: Chachagua and Arenal, Two Sister Properties",
+      "link": "blogs/B01-en.html",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-11-12",
+      "id": "NL01",
+      "channel": "Guest newsletter · EN/ES",
+      "title": "Chachagua has a new sister resort. Meet Arenal Rainforest Resort.",
+      "link": "newsletter-en.html",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-16",
+      "id": "RR-NOV-01",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Your Chachagua story now has a sister resort",
+      "link": "#RR-NOV-01",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-17",
+      "id": "RR-NOV-02",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Meet Arenal, Chachagua’s sister in Rainforest Resorts",
+      "link": "#RR-NOV-02",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "B01-S1",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B01",
+      "link": "#B01-S1",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-11-19",
+      "id": "RR-NOV-03",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "The Ceibo of Chachagua",
+      "link": "#RR-NOV-03",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-20",
+      "id": "B02",
+      "channel": "Chachagua Blog · EN/ES",
+      "title": "Three Ways to Share the Rainforest Without Filling Every Hour",
+      "link": "blogs/B02-en.html",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-11-21",
+      "id": "RR-NOV-04",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "An adventure you want to share",
+      "link": "#RR-NOV-04",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-22",
+      "id": "B02-S1",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B02",
+      "link": "#B02-S1",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-11-23",
+      "id": "RR-NOV-05",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Two sister resorts, an adventure chosen together",
+      "link": "#RR-NOV-05",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-24",
+      "id": "RR-NOV-06",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Choose the category, understand the conditions",
+      "link": "#RR-NOV-06",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-25",
+      "id": "B01-S2",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B01",
+      "link": "#B01-S2",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-11-26",
+      "id": "RR-NOV-07",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A question behind the chocolate",
+      "link": "#RR-NOV-07",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-27",
+      "id": "RR-NOV-08",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A sister-property visit, a story of coffee and cacao",
+      "link": "#RR-NOV-08",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-28",
+      "id": "B02-S2",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B02",
+      "link": "#B02-S2",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-11-29",
+      "id": "RR-NOV-09",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A taste of Costa Rican tradition",
+      "link": "#RR-NOV-09",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-11-30",
+      "id": "RR-NOV-10",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Planning you can share",
+      "link": "#RR-NOV-10",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-02",
+      "id": "RR-DEC-01",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "From our garden to your table",
+      "link": "#RR-DEC-01",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-03",
+      "id": "RR-DEC-02",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Share your attention to the landscape",
+      "link": "#RR-DEC-02",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-04",
+      "id": "B03",
+      "channel": "Chachagua Blog · EN/ES",
+      "title": "A Trip With Friends That Leaves Room for Different Paces",
+      "link": "blogs/B03-en.html",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-12-05",
+      "id": "B03-S1",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B03",
+      "link": "#B03-S1",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-12-06",
+      "id": "RR-DEC-03",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A pool surrounded by rainforest",
+      "link": "#RR-DEC-03",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-08",
+      "id": "RR-DEC-04",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A river, another conversation",
+      "link": "#RR-DEC-04",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-10",
+      "id": "RR-DEC-05",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A walk into the rainforest",
+      "link": "#RR-DEC-05",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-12",
+      "id": "RR-DEC-06",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "The forest at another hour",
+      "link": "#RR-DEC-06",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-14",
+      "id": "B03-S2",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B03",
+      "link": "#B03-S2",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-12-15",
+      "id": "RR-DEC-07",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Comfort begins with a clear choice",
+      "link": "#RR-DEC-07",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-16",
+      "id": "B04",
+      "channel": "Chachagua Blog · EN/ES",
+      "title": "From Cacao to the Trail: Discovering the Rainforest as a Family",
+      "link": "blogs/B04-en.html",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-12-17",
+      "id": "RR-DEC-08",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "A day to follow your curiosity",
+      "link": "#RR-DEC-08",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-18",
+      "id": "B04-S1",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B04",
+      "link": "#B04-S1",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-12-19",
+      "id": "RR-DEC-09",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "An outing chosen for their ages",
+      "link": "#RR-DEC-09",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-21",
+      "id": "RR-DEC-10",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "One Rainforest Resorts family, two places to stay",
+      "link": "#RR-DEC-10",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-23",
+      "id": "RR-DEC-11",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Another pace through the landscape",
+      "link": "#RR-DEC-11",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-26",
+      "id": "RR-DEC-12",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Give a day to the forest",
+      "link": "#RR-DEC-12",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-28",
+      "id": "B04-S2",
+      "channel": "Blog promotion · EN/ES",
+      "title": "Read B04",
+      "link": "#B04-S2",
+      "end": null,
+      "status": "Proposed",
+      "brand": "chachagua"
+    },
+    {
+      "date": "2026-12-29",
+      "id": "RR-DEC-13",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Begin 2027 with the Rainforest Resorts family",
+      "link": "#RR-DEC-13",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    },
+    {
+      "date": "2026-12-30",
+      "id": "RR-DEC-14",
+      "channel": "Rainforest Resorts · Facebook / Instagram",
+      "title": "Your next chapter with Rainforest Resorts",
+      "link": "#RR-DEC-14",
+      "end": null,
+      "status": "Proposed",
+      "brand": "shared"
+    }
+  ],
+  "unscheduled": [
+    {
+      "id": "NL02",
+      "title": "Agencies Newsletter · EN/ES",
+      "status": "Send date to be agreed"
+    }
+  ]
+}

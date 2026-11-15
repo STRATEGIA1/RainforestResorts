@@ -592,6 +592,64 @@
       "request": "Find the couple seated at the table on this terrace; move the walkway below Choosing Somewhere You Want to Return To.",
       "change": "Selected IMG_5920-Edit-2-Edit.jpg from the exact Two Bedroom Villa Drive folder and replaced the empty terrace in both editions; moved the walkway directly below the requested heading and its Spanish equivalent. Full horizontal compositions preserved.",
       "status": "Applied; visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-B03-cercone-kitchen",
+      "author": "Andrés · browser comment",
+      "piece": "B03 · EN / ES",
+      "request": "Replace the accommodation section photograph with the spacious Hacienda Cercone kitchen in English and Spanish.",
+      "change": "Selected DSC09271-HDR.jpg from Cercone fotografias oficiales / Camara, inspected the original, and replaced the tree house image and captions in both editions. Updated the section-image source model and source notes; no article copy changed.",
+      "status": "Applied; revised visual approval pending"
+    },
+    {
+      "comment_id": "browser-20261114-picture-batch",
+      "author": "Andrés · browser comments",
+      "piece": "B02, B01-S1, B03-S2, B04-S1, CH07, AR07, AR10, CH11, AR12, PA-RR-10 and social calendar",
+      "request": "Apply client-selected image replacements, unique coffee tour and couple selections, horseback photo, deck loungers, low reclining couple, blog hero card and revised dates.",
+      "change": "Applied in local proposal and paired feed/Story images; CH07 caption revised to match supplied Arenal pool. AR12 base image also appears inside B01; revised AI option selected after client asked to apply all changes. Existing review identities and approval history retained.",
+      "status": "Applied locally; visual review pending; not published"
+    },
+    {
+      "comment_id": "browser-20261114-CH08-music-captions",
+      "author": "Andrés · browser comments",
+      "piece": "CH08 · EN / ES · Feed / Story",
+      "request": "Match CH06 text treatment and music mood with different music; express the unforgettable rainforest moment shared by friends.",
+      "change": "Revised bilingual social captions, friends persona, two long Morion Regular overlay cues, white with no outline/shadow at 75% frame height. Newly composed instrumental uses different harmony, melody order and note spacing from CH06. Four language/format exports and previews updated.",
+      "status": "Applied locally; client listening and visual review pending"
+    },
+    {
+      "comment_id": "browser-20261114-CH08-ambient-music",
+      "author": "Andrés",
+      "piece": "CH08 · EN / ES · Feed / Story",
+      "request": "Replace rejected music with subtle ambient music and rainforest sounds.",
+      "change": "Replaced soundtrack in all four exports with catalog ambient music mixed quietly beneath public-domain rainforest field recording. Preserved video and Morion overlays. Provenance recorded internally.",
+      "status": "Applied locally; listening review pending"
+    },
+    {
+      "comment_id": "browser-20261114-AR07-AR08-refinement",
+      "author": "Andrés · browser comments",
+      "piece": "AR07, AR08",
+      "request": "Show outdoor shower in AR07; add subtle handheld camera movement to AR08 bird video.",
+      "change": "Selected DSC06743.jpg from same Arenal room folder, prepared shower-led feed and Story crops. Replaced linear bird-video zoom with slight smooth irregular camera drift; retained photograph and bird call.",
+      "status": "Applied locally; visual review pending"
+    },
+    {
+      "comment_id": "chat-20261114-rainforest-post-ids",
+      "author": "Andrés · chat request",
+      "piece": "November / December organic posts",
+      "request": "Replace CH/AR post identifiers with Rainforest Resorts identifiers; review December balance, update dates and publish.",
+      "change": "Renamed 10 November posts RR-NOV-01–10 and 14 December posts RR-DEC-01–14 in chronological order; separated consecutive accommodation/nature themes. Preserved legacy anchors and canonical review identities. December: 7 couples, 4 friends, 2 families, 1 solo; 4 blog promotions remain additional.",
+      "status": "Applied; publication in progress"
+    },
+    {
+      "comment_id": null,
+      "author": "Andres (chat annotation)",
+      "piece": "B03 EN/ES",
+      "request": "Check the original of the inline rainforest group photo; replace the image with an unobstructed take.",
+      "change": "Compared DSC07223 original from Drive: the large blurred foreground post is in the original. Selected the wider original DSC07221 showing the same three people and replaced both language editions; retained the old source and comments.",
+      "status": "Published to existing ChatGPT Site; original and comments retained",
+      "date": "2026-11-15",
+      "version": "dc4cf0b9c53135fadb04"
     }
   ]
 }

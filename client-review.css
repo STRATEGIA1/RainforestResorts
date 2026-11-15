@@ -28,3 +28,9 @@
 
 /* ChatGPT multi-image cards: official square framing. */
 #openai-ads .creative-images img{width:100%;height:auto;aspect-ratio:1 / 1;object-fit:cover;display:block}
+
+/* Client-requested creative inventory and navigation explanation. */
+.creative-materials{margin:26px 0}.creative-materials h2,.navigation-intro h2{font-size:20px;line-height:1.4;letter-spacing:0;margin:0 0 10px}.creative-materials ul{padding-left:1.3em;margin:0}.creative-materials li{padding-left:.25em;margin:5px 0}.nav{display:block}.navigation-intro{margin-bottom:8px}.navigation-intro p{font-size:13px;margin:0}.navigation-links{display:flex;flex-wrap:wrap;gap:0 22px;min-width:0}.navigation-links a{display:inline-flex;align-items:center;min-height:44px;max-width:100%;overflow-wrap:anywhere}main section,main .card{scroll-margin-top:180px}@media(max-width:760px){.creative-materials h2,.navigation-intro h2{font-size:19px}.navigation-links{gap:4px 18px}.navigation-links a{flex:1 1 140px}main section,main .card{scroll-margin-top:20px}}
+
+/* Sticky presentation navigation on desktop and mobile. */
+.nav{position:sticky;top:0;z-index:90}.navigation-intro{margin-bottom:4px}.navigation-intro h2{font-size:17px;margin-bottom:3px}.navigation-intro p{font-size:12px}main section,main .card{scroll-margin-top:calc(var(--review-nav-height,160px) + 16px)}@media(max-width:760px){.nav{position:sticky;top:0;padding-top:8px;padding-bottom:6px}.navigation-intro h2{font-size:16px}.navigation-intro p{font-size:11px}.navigation-links{flex-wrap:nowrap;gap:0 20px;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}.navigation-links a{flex:0 0 auto;white-space:nowrap;min-height:44px}.nav .mobile-nav-hint{display:inline}.nav .desktop-nav-hint{display:none}}@media(min-width:761px){.nav .mobile-nav-hint{display:none}}
